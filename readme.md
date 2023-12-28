@@ -1,6 +1,21 @@
 
+# Crisis and Opportunity Books
 
-Major Harlem Renaissance Novels Currently in the Public Domain
+This site is designed to facilitate the digitalization and dissemination of public domain works from the Harlem Renaissance. As of 2024, twelve major novels from the era are no longer under copyright, including ten whose copyright expired and two books by Wallace Thurman whose copyright [was never extended]( https://exhibits.stanford.edu/copyrightrenewals/catalog?exhibit_id=copyrightrenewals&search_field=search&q=Wallace+Thurman) in the 1950s. 
+
+While [Project Gutenberg](http://gutenberg.org) is the central repository for new transcriptions of public domain books, their contributors continue to largely overlooked Black authors from this era. Their submission process is cumbersome and idiosyncratic, so after producing three books for them, I decided to start a complementary effort. 
+
+
+Our current releases are:
+
+| Book                          | Author            | Year of Publication |
+|-------------------------------|-------------------|---------------------|
+| Quicksand                     | Nella Larsen      | 1928                |
+| [Dark Princess](https://github.com/nealcaren/crisis-and-opportunity-books/tree/main/books/dark-princess)                 | W. E. B. Du Bois  | 1928                | 
+| Home to Harlem                | Claude McKay      | 1928                |
+| Walls of Jericho              | Rudolph Fisher    | 1928                |
+
+Other Major Harlem Renaissance Novels Currently in the Public Domain
 
 | Book                          | Author            | Year of Publication | Online
 |-------------------------------|-------------------|---------------------|---------------------|
@@ -10,10 +25,6 @@ Major Harlem Renaissance Novels Currently in the Public Domain
 | The Prince of Washington Square | Harry F. Liscomb | 1925                |
 | Flight                        | Walter White      | 1926                |
 | Tropic Death                  | Eric Walrond      | 1926                | [Gutenberg](https://www.gutenberg.org/ebooks/71465) |
-| Quicksand                     | Nella Larsen      | 1928                |
-| Dark Princess                 | W. E. B. Du Bois  | 1928                |
-| Home to Harlem                | Claude McKay      | 1928                |
-| Walls of Jericho              | Rudolph Fisher    | 1928                |
 | The Blacker the Berry         | Wallace Thurman   | 1929                |
 | Infants of the Spring         | Wallace Thurman   | 1932                |
 
