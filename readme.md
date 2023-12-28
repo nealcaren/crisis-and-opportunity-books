@@ -8,10 +8,10 @@ While [Project Gutenberg](http://gutenberg.org) is the central repository for ne
 
 Our current releases are:
 
-| Book                          | Author            | Year of Publication |
-|-------------------------------|-------------------|---------------------|
+| Book                          | Author            | Year of Publication | Versions |
+|-------------------------------|-------------------|---------------------|------ |
 | Quicksand                     | Nella Larsen      | 1928                |
-| [Dark Princess](https://github.com/nealcaren/crisis-and-opportunity-books/tree/main/books/dark-princess)                 | W. E. B. Du Bois  | 1928                | 
+| [Dark Princess](https://github.com/nealcaren/crisis-and-opportunity-books/tree/main/books/dark-princess)                 | W. E. B. Du Bois  | 1928                | [Epub](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.epub), Markdown, Text  
 | Home to Harlem                | Claude McKay      | 1928                |
 | Walls of Jericho              | Rudolph Fisher    | 1928                |
 
