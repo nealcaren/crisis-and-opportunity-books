@@ -13,10 +13,8 @@ build_command: pandoc  -o quicksand.epub quicksand.md  --css ../style.css --epub
 
 # Copyright {.copyright epub:type=copyright-page}
 
+Nella Larsen’s *Quicksand* was first published in 1928 by Alfred A. Knopf. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version was transcribed by Neal Caren based on a reprint available on from [Google Books](https://www.google.com/books/edition/Quicksand/dPdaAAAAMAAJ?hl=en&gbpv=0). 
 
-This book was original published in 1928 by Alfred A. Knopf. 
-
-*Quicksand* entered the public domain on January 1, 2024. This version was produced by Neal Caren.
 
 
 
