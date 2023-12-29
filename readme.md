@@ -48,3 +48,7 @@ Major Harlem Renaissance novels that will be in the public domain in the next fe
 | The Conjure-Man Dies          | Rudolph Fisher    | 1932                | 2028 |
 
 
+## Related Projects
+
+* [Crisis and Opportunity](https://www.crisisopportunity.org) -- Early 20th century science by Black scholars.
+* [Dare You Fight](https://www.dareyoufight.org) -- Archive of W.E.B. Du Bois's writings in <span style="font-variant:small-caps;">The Crisis</span>.
