@@ -1,21 +1,24 @@
+This site is designed to facilitate the digitalization and dissemination of public domain works from the Harlem Renaissance. As of 2024, twelve major novels from the era are no longer under copyright, but only three available elsewhere.
 
-# Crisis and Opportunity Books
-
-This site is designed to facilitate the digitalization and dissemination of public domain works from the Harlem Renaissance. As of 2024, twelve major novels from the era are no longer under copyright, including ten whose copyright expired and two books by Wallace Thurman whose copyright [was never extended]( https://exhibits.stanford.edu/copyrightrenewals/catalog?exhibit_id=copyrightrenewals&search_field=search&q=Wallace+Thurman) in the 1950s. 
-
-While [Project Gutenberg](http://gutenberg.org) is the central repository for new transcriptions of public domain books, their contributors continue to largely overlooked Black authors from this era. Their submission process is cumbersome and idiosyncratic, so after producing three books for them, I decided to start a complementary effort. 
-
-
-Our current releases are:
+New public domain editions:
 
 | Book                          | Author            | Year of Publication | Versions |
 |-------------------------------|-------------------|---------------------|------ |
 | Quicksand                     | Nella Larsen      | 1928                |
-| [Dark Princess](https://github.com/nealcaren/crisis-and-opportunity-books/tree/main/books/dark-princess)                 | W. E. B. Du Bois  | 1928                | [Epub](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.epub), Markdown, Text  
+| [Dark Princess](https://github.com/nealcaren/crisis-and-opportunity-books/tree/main/books/dark-princess)                 | W. E. B. Du Bois  | 1928                | [epub](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.epub), Markdown, Text  
 | Home to Harlem                | Claude McKay      | 1928                |
 | Walls of Jericho              | Rudolph Fisher    | 1928                |
 
-Other Major Harlem Renaissance Novels Currently in the Public Domain
+
+## Production Details
+For books without available digital editions, a PDF version is OCRed. Where epubs are available, the text is extracted. In both case, the digitized text is  cross-referenced with the original printed editions to ensure accuracy. The text is formatted into Markdown, minimizing HTML use to maintain simplicity and readability. The Markdown documents serve as the basis for creating both the final text and epub versions. Very few corrections are made and all are still consistent with publishing norms of the 1920s. For instance, different treatments of songs fragments in the original texts (such as use of quotation marks, block quotes, italics, or combinations thereof) are standardized in these digital versions.
+
+If you are interested in helping out, let [me](mailto:neal.caren@gmail.com) know. While [Project Gutenberg](http://gutenberg.org) is the central repository for new transcriptions of public domain books, their contributors continue to largely overlooked Black authors from this era. Their submission process is cumbersome and idiosyncratic, so after producing three books for them, I decided to start a complementary effort. 
+
+
+## Additional Books
+
+Other major Harlem Renaissance novels currently in the public domain:
 
 | Book                          | Author            | Year of Publication | Online
 |-------------------------------|-------------------|---------------------|---------------------|
@@ -25,10 +28,13 @@ Other Major Harlem Renaissance Novels Currently in the Public Domain
 | The Prince of Washington Square | Harry F. Liscomb | 1925                |
 | Flight                        | Walter White      | 1926                |
 | Tropic Death                  | Eric Walrond      | 1926                | [Gutenberg](https://www.gutenberg.org/ebooks/71465) |
-| The Blacker the Berry         | Wallace Thurman   | 1929                |
-| Infants of the Spring         | Wallace Thurman   | 1932                |
+| The Blacker the Berry         | Wallace Thurman   | 1929[^1]                |
+| Infants of the Spring         | Wallace Thurman   | 1932[^1]                |
 
-Major Harlem Renaissance Novels That Will Soon be in the Public Domain
+
+[^1]: Wallace Thurman's estate [did not extend]( https://exhibits.stanford.edu/copyrightrenewals/catalog?exhibit_id=copyrightrenewals&search_field=search&q=Wallace+Thurman) copyright on these novels. 
+
+Major Harlem Renaissance novels that will be in the public domain in the next few years:
 
 | Book                          | Author            | Year of Publication | Entering Public Domain |
 |-------------------------------|-------------------|---------------------|---------------------|

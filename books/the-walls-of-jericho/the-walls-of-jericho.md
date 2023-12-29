@@ -9,16 +9,13 @@ reprint_notes: Currently in public domain.
 ...
 
 
-# Copyright {epub:type=copyright-page}
+# Copyright {.copyright epub:type=copyright-page}
 
-::: {.copyright}
 
 Rudolph Fisher’s *The Walls of Jericho* was first published in 1928 by Alfred A. Knopf. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version was transcribed by Neal Caren based on a reprint available on the [Internet Archive](https://archive.org/details/wallsofjericho0000fish). 
 
-:::
 
-
-# Dedication {.dedication}
+# Dedication {.dedication epub:type=preface}
 
 For Glendora---
 
@@ -28,7 +25,7 @@ like her hair
 
               
 
-# Epigraph {.epigraph}
+# Epigraph {.epigraph epub:type=epigraph}
 
 ::: poem
 Joshua fit d’ battle of Jericho        

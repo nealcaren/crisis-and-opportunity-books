@@ -216,7 +216,9 @@ h3, h4, h5, h6 {
     
 }
 
-
+.large {
+    font-size: large;
+}
 .title {
     padding-top: 100px; /* Adjust padding to center the title on the page */
     font-size: 3em; /* Large font size for the title */
@@ -267,6 +269,7 @@ h3, h4, h5, h6 {
 
 .part-title {
     margin-top: 3em;
+    margin-bottom: 2em;
     text-align: center; /* Center the title text */
     padding: 1em 0; /* Provide space for the lines */
     page-break-after: always;
@@ -297,6 +300,7 @@ h3, h4, h5, h6 {
 .letter-opening > p,
 .letter-salutation p,
 .dedication > p,
+.epigraph > p,
 .subtitle > p,
 .author > p,
 .date > p, 

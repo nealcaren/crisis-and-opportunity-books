@@ -11,28 +11,22 @@ build_command: pandoc  -o quicksand.epub quicksand.md  --css ../style.css --epub
 
 
 
-# Copyright {epub:type=copyright-page}
+# Copyright {.copyright epub:type=copyright-page}
 
-::: {.copyright}
+
 This book was original published in 1928 by Alfred A. Knopf. 
 
 *Quicksand* entered the public domain on January 1, 2024. This version was produced by Neal Caren.
 
-Cover painting is *Street in Tangier* by Henry Ossawa Tanner, ca. 1910, Smithsonian American Art Museum.
-:::
 
-# Dedication  {epub:type=preface} 
 
-::: {.dedication}
+# Dedication  {.dedication epub:type=preface} 
+
 FOR E. S. I.
-:::
 
-# Epigraph  {epub:type=preface} 
 
-::: {.epigraph}
+# Epigraph  {.epigraph epub:type=preface} 
 
-::: small-break
-:::
 
 ::: poem
 My old man died in a fine big house.  
@@ -48,7 +42,6 @@ Being neither white nor black?
 Langston Hughes
 :::
 
-:::
 
 
 

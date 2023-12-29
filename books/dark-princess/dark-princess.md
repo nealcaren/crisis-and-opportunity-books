@@ -12,36 +12,38 @@ reprint_notes: Currently in public domain.
 
 
 
-# Copyright {epub:type=copyright-page}
+# Copyright {.copyright epub:type=copyright-page}
 
-::: {.copyright}
 
 W.E.B. Du Bois’s *Dark Princess* was first published in 1928 by Harcourt, Brace. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version was transcribed by Neal Caren based on a reprint available on the [Internet Archive](https://archive.org/details/darkprincessroma0000dubo_n6y2). 
 
-Cover painting is *Congo* by Aaron Douglas, 1928, North Carolina Museum of Art.
 
+# Dedication {.dedication epub:type=preface} 
+
+
+*To Her High Loveliness*
+
+
+[TITANIA XXVII]{.large}
+
+
+::: small-break
 :::
 
+[By Her Own Grace]{.small-caps}
 
-# Dedication  {epub:type=preface} 
+[Queen of Faerie]{.small-caps}
 
-::: {.dedication}
-
-To 
-
-Her High Loveliness 
-
-TITANIA XXVII
-
-BY HER OWN GRACE 
-
-QUEEN OF FAERIE,
-
-Commander of the Bath; Grand Medallion of Merit; Litterarum Humanarum
+Commander of the Bath; Grand Medallion of Merit; Litterarum Humanarum     
 Doctor; Fidei Extensor; etc., etc,
 
-OF WHOSE FAITH AND FOND AFFECTION THIS ROMANCE WAS SURELY BORN
+::: small-break
 :::
+
+[Of Whose Faith and Fond Affection]{.small-caps}    
+[This Romance]{.small-caps}     
+[Was Surely Born]{.small-caps}
+
 
 
 #  Part I. The Exile

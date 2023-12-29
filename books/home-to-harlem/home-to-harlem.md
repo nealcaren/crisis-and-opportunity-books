@@ -9,21 +9,16 @@ build_command: pandoc  -o Home\ to\ Harlem.epub home.md  --css ../format/style.c
 ---
 
 
-# Copyright {epub:type=copyright-page}
-
-::: {.copyright}
+# Copyright {.copyright epub:type=copyright-page}
 
 Claude McKay’s *Home to Harlem* was first published in 1928 by Harper & Brothers. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version was transcribed by Neal Caren based on a reprint available on the [Internet Archive](https://archive.org/details/hometoharlem0000mcka_p1i3). 
 
-:::
 
 
-# Dedication  {epub:type=preface} 
+# Dedication  {.dedication epub:type=preface} 
 
-::: {.dedication}
 To My Friend  
 Louise Bryant
-:::
 
 
 # First Part
