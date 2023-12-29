@@ -2,7 +2,7 @@ This site is designed to facilitate the digitalization and dissemination of publ
 
 New public domain editions:
 
-| Book                          | Author            | Year of Publication | Formats | Release Date |
+| Title                          | Author            | Year of Publication | Formats | Release Date |
 |-------------------------------|-------------------|:-------------------:|------ |------ |
 | Quicksand                     | Nella Larsen      | 1928                | [epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.txt) | 01-01-2024 |
 | Dark Princess                | W. E. B. Du Bois  | 1928                | [epub](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.epub), [markdown](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.md), [text](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.txt) | 01-01-2024 |
@@ -20,7 +20,7 @@ If you are interested in helping out, let [me](mailto:neal.caren@gmail.com) know
 
 Other major Harlem Renaissance novels currently in the public domain:
 
-| Book                          | Author            | Year of Publication | Online
+| Title                          | Author            | Year of Publication | Online
 |-------------------------------|-------------------|---------------------|---------------------|
 | Cane                          | Jean Toomer       | 1923                | [Gutenberg](https://www.gutenberg.org/ebooks/60093) |
 | There Is Confusion            | Jessie Fauset     | 1924                |
@@ -36,7 +36,7 @@ Other major Harlem Renaissance novels currently in the public domain:
 
 Major Harlem Renaissance novels that will be in the public domain in the next few years:
 
-| Book                          | Author            | Year of Publication | Entering Public Domain |
+| Title                          | Author            | Year of Publication | Entering Public Domain |
 |-------------------------------|-------------------|---------------------|---------------------|
 | Plum Bun                      | Jessie Fauset     | 1929                | 2025 |
 | Passing                       | Nella Larsen      | 1929                | 2025 |
