@@ -11,9 +11,9 @@ New public domain editions:
 
 
 ## Production Details
-For books without available digital editions, a PDF version is OCRed. Where epubs are available, the text is extracted. In both case, the digitized text is  cross-referenced with the original printed editions to ensure accuracy. The text is formatted into Markdown, minimizing HTML use to maintain simplicity and readability. The Markdown documents serve as the basis for creating both the final text and epub versions. Very few corrections are made and all are still consistent with publishing norms of the 1920s. For instance, different treatments of songs fragments in the original texts (such as use of quotation marks, block quotes, italics, or combinations thereof) are standardized in these digital versions.
+For books without available digital editions, a PDF version is OCRed. Where epubs are available, the text is extracted. In both case, the digitized text is  cross-referenced with the original printed editions to ensure accuracy. The text is formatted into Markdown, minimizing HTML use to maintain simplicity and readability. The Markdown documents serve as the basis for creating both the final text and epub versions. Very few corrections are made and all are still consistent with publishing norms of the 1920s. For instance, different treatments of songs fragments in the original texts (such as use of quotation marks, block quotes, italics, or combinations thereof) are standardized in these digital versions. All materials are available in the [Github repository](https://github.com/nealcaren/crisis-and-opportunity-books).
 
-If you are interested in helping out, let [me](mailto:neal.caren@gmail.com) know. While [Project Gutenberg](http://gutenberg.org) is the central repository for new transcriptions of public domain books, their contributors continue to largely overlooked Black authors from this era. Their submission process is cumbersome and idiosyncratic, so after producing three books for them, I decided to start a complementary effort. 
+If you are interested in helping out or spot an error, let [me](mailto:neal.caren@gmail.com) know, post an [issue] or create a [pull request](https://github.com/nealcaren/crisis-and-opportunity-books/pulls). While [Project Gutenberg](http://gutenberg.org) is the central repository for new transcriptions of public domain books, their contributors continue to largely overlooked Black authors from this era. Their submission process is cumbersome and idiosyncratic, so after producing three books for them, I decided to start a complementary effort. 
 
 
 ## Additional Books
@@ -50,5 +50,8 @@ Major Harlem Renaissance novels that will be in the public domain in the next fe
 
 ## Related Projects
 
-* [Crisis and Opportunity](https://www.crisisopportunity.org) -- Early 20th century science by Black scholars.
-* [Dare You Fight](https://www.dareyoufight.org) -- Archive of W.E.B. Du Bois's writings in <span style="font-variant:small-caps;">The Crisis</span>.
+* [Crisis and Opportunity](https://www.crisisopportunity.org) Early 20th century social science articles by by Black scholars.
+* [Dare You Fight](https://www.dareyoufight.org) Archive of W.E.B. Du Bois's writings in <span style="font-variant:small-caps;">The Crisis</span>.
+
+
+Publisher: [Neal Caren](https://nealcaren.org)
