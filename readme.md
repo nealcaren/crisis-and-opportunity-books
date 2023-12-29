@@ -5,8 +5,8 @@ New public domain editions:
 | Book                          | Author            | Year of Publication | Versions |
 |-------------------------------|-------------------|---------------------|------ |
 | Quicksand                     | Nella Larsen      | 1928                |
-| [Dark Princess](https://github.com/nealcaren/crisis-and-opportunity-books/tree/main/books/dark-princess)                 | W. E. B. Du Bois  | 1928                | [epub](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.epub), Markdown, Text  
-| Home to Harlem                | Claude McKay      | 1928                |
+| [Dark Princess](https://github.com/nealcaren/crisis-and-opportunity-books/tree/main/books/dark-princess)                 | W. E. B. Du Bois  | 1928                | [epub](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.epub), [markdown](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.md), [text](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.txt) |
+| Home to Harlem                | Claude McKay      | 1928                |  [epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/home-to-harlem/home-to-harlem.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/home-to-harlem/home-to-harlem.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/home-to-harlem/home-to-harlem.txt) |
 | Walls of Jericho              | Rudolph Fisher    | 1928                |
 
 
