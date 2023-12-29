@@ -51,7 +51,7 @@ Major Harlem Renaissance novels that will be in the public domain in the next fe
 ## Related Projects
 
 * [Crisis and Opportunity](https://www.crisisopportunity.org) Early 20th century social science articles by by Black scholars.
-* [Dare You Fight](https://www.dareyoufight.org) Archive of W.E.B. Du Bois's writings in <span style="font-variant:small-caps;">The Crisis</span>.
+* [Dare You Fight](https://www.dareyoufight.org) Archive of W.E.B. Du Bois's writings in *The Crisis*.
 
 
 Publisher: [Neal Caren](https://nealcaren.org)
