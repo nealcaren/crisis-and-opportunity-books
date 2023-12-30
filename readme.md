@@ -1,8 +1,11 @@
-This site is designed to facilitate the digitalization and dissemination of public domain works from the Harlem Renaissance. As of 2024, twelve major novels from the era are no longer under copyright, but only three available elsewhere.
+This site is designed to facilitate the digitalization and dissemination of public domain works from the Harlem Renaissance. 
 
-New public domain editions:
+As of 2024, twelve major novels from the era are no longer under copyright. Digital versions of three currently exist[^g], but we are thrilled to produce new editions of four additional books:
 
-| Title                          | Author            | Publication Year | First Edition | New Formats | 
+[^g]: While [Project Gutenberg](http://gutenberg.org) is the central repository for transcriptions of public domain books, their contributors continue to largely overlooked Black authors from this era. Their submission process is cumbersome and idiosyncratic, so after producing three books for them, I decided to start a complementary effort. 
+
+
+| Title                          | Author            | Publication Year | First Edition | New Editions | 
 |-------------------------------|-------------------|:-------------------:|:----: |------ |
 | Quicksand                     | Nella Larsen      | 1928 | [PDF](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand-1928.pdf)                | [epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.txt) |
 | Dark Princess                | W. E. B. Du Bois  | 1928             | [PDF](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.pdf)  | [epub](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.epub), [markdown](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.md), [text](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.txt) |
@@ -11,11 +14,12 @@ New public domain editions:
 
 ## Production Details
 
-Each book has been carefully replicated from its original printed edition. While these are not exact duplicates but rather new editions, we have strived to preserve the text as closely as possible to the first edition. For example, design elements like drop caps at the beginning of chapters or end-of-line hyphenations are not reproduced. To the greatest extent possible, however, the text is identical to the original version. 
+Each book has been carefully replicated from the earliest available print edition. In cases where digital editions are unavailable, PDF versions are OCR-processed. Where EPUBs exist, we extract the text directly. In both scenarios, the digitized text is carefully cross-referenced with the original printed editions to ensure fidelity.  We format the text into Markdown, prioritizing simplicity and readability while minimizing HTML usage. These Markdown documents then serve as the foundation for generating both the final text and EPUB versions. 
 
-In cases where digital editions are unavailable, PDF versions are OCR-processed. Where EPUBs exist, we extract the text directly. In both scenarios, the digitized text is carefully cross-referenced with the original printed editions to ensure fidelity.  We format the text into Markdown, prioritizing simplicity and readability while minimizing HTML usage. These Markdown documents then serve as the foundation for generating both the final text and EPUB versions. Corrections are minimal and align with publishing norms from the 1920s. For instance, various treatments of song fragments in the original texts—such as the use of quotation marks, block quotes, italics, or combinations thereof—are standardized in these digital editions. All materials are available in the [Github repository](https://github.com/nealcaren/crisis-and-opportunity-books).
+While we strive to reproduce the text as the author intended, these releases are new editions and not exact duplicates of the first editions. For example, design elements like drop caps at the beginning of chapters or end-of-line hyphenations are not reproduced. 
+Overall, formatting changes are minimal and align with publishing norms from the 1920s. For example, various treatments of song fragments in the original texts—such as the use of quotation marks, block quotes, italics, or combinations thereof—are standardized in these digital editions. All materials are available in the [Github repository](https://github.com/nealcaren/crisis-and-opportunity-books).
 
-If you are interested in helping out or spot an error, let [me](mailto:neal.caren@gmail.com) know, post an [issue] or create a [pull request](https://github.com/nealcaren/crisis-and-opportunity-books/pulls). While [Project Gutenberg](http://gutenberg.org) is the central repository for new transcriptions of public domain books, their contributors continue to largely overlooked Black authors from this era. Their submission process is cumbersome and idiosyncratic, so after producing three books for them, I decided to start a complementary effort. 
+If you are interested in helping out or spot an error, let [me](mailto:neal.caren@gmail.com) know, post an [issue](https://github.com/nealcaren/crisis-and-opportunity-books/issues) or create a [pull request](https://github.com/nealcaren/crisis-and-opportunity-books/pulls).
 
 
 ## Additional Books
@@ -54,6 +58,6 @@ Major Harlem Renaissance novels that will be in the public domain in the next fe
 
 * [Crisis and Opportunity](https://www.crisisopportunity.org) Early 20th century social science articles by by Black scholars.
 * [Dare You Fight](https://www.dareyoufight.org) Archive of W.E.B. Du Bois's writings in *The Crisis*.
-
+* [An Editor Writes][https://www.amazon.com/Editor-Writes-Stories-Jessie-Redmon-ebook/dp/B0CLQ8S9SY/ref=sr_1_1?crid=QS0PVF4W0TAA&keywords=an+editor+writes+jessie&qid=1703967452&sprefix=an+editor+writes+jessie%2Caps%2C153&sr=8-1] Short stories and poems by Jessie Redmon Fauset, edited by Lula Caress.
 
 Publisher: [Neal Caren](https://nealcaren.org)
