@@ -8,6 +8,7 @@ function build_book() {
     local name=$1
     local base_fn="${name}/${name}"
     pandoc -o ${base_fn}.epub ${base_fn}.md --epub-embed-font='epub-resources/fonts/*.ttf' --epub-cover-image ${base_fn}.jpg $COMMON_OPTIONS
+    # pandoc -s -o ${base_fn}.html ${base_fn}.epub
     pandoc -o ${base_fn}.txt ${base_fn}.md -t plain+GUTENBERG
 }
 

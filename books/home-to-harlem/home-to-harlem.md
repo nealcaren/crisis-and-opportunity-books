@@ -5,7 +5,6 @@ original-publication-year: 1928
 date: 1928
 reprint_year: 2024
 reprint_notes: Currently in public domain.
-build_command: pandoc  -o Home\ to\ Harlem.epub home.md  --css ../format/style.css --epub-embed-font='../format/fonts/*.ttf'  --epub-cover-image home_cover.png
 ---
 
 

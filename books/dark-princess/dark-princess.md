@@ -7,9 +7,7 @@ original_publication_year: 1928
 original_publisher: "Harcourt, Brace, New York"
 reprint_year: 2024
 reprint_notes: Currently in public domain.
-
 ...
-
 
 
 # Copyright {.copyright epub:type=copyright-page}

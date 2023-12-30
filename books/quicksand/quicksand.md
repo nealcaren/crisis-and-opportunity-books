@@ -6,7 +6,6 @@ original_publication_year: 1928
 original_publisher: "Alfred A. Knopf"
 reprint_year: 2024
 reprint_notes: Currently in public domain.
-build_command: pandoc  -o quicksand.epub quicksand.md  --css ../style.css --epub-embed-font='../fonts/*.ttf' --epub-cover-image cover.jpg 
 ...
 
 
