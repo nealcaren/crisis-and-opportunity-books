@@ -14,10 +14,9 @@ As of 2024, twelve major novels from the era are no longer under copyright. Digi
 
 ## Production Details
 
-Each book has been carefully replicated from the earliest available print edition. In cases where digital editions are unavailable, PDF versions are OCR-processed. Where EPUBs exist, we extract the text directly. In both scenarios, the digitized text is carefully cross-referenced with the original printed editions to ensure fidelity.  We format the text into Markdown, prioritizing simplicity and readability while minimizing HTML usage. These Markdown documents then serve as the foundation for generating both the final text and EPUB versions. 
+Each book has been carefully replicated from the earliest available print edition. In cases where digital editions are unavailable, a draft text version is created from the PDF using OCR. Where EPUBs exist, the text is  extracted directly. In both cases, the digitized text is carefully cross-referenced with the printed edition to ensure fidelity.  We format the text into Markdown, prioritizing simplicity and readability while minimizing HTML usage. These Markdown documents then serve as the foundation for generating both the final text and EPUB versions. 
 
-While we strive to reproduce the text as the author intended, these releases are new editions and not exact duplicates of the first editions. For example, design elements like drop caps at the beginning of chapters or end-of-line hyphenations are not reproduced. 
-Overall, formatting changes are minimal and align with publishing norms from the 1920s. For example, various treatments of song fragments in the original texts—such as the use of quotation marks, block quotes, italics, or combinations thereof—are standardized in these digital editions. All materials are available in the [Github repository](https://github.com/nealcaren/crisis-and-opportunity-books).
+While we strive to reproduce the text as the author intended, these releases are new editions and not exact duplicates of the first editions. For example, design elements like drop caps at the beginning of chapters are not reproduced. Overall, formatting changes are minimal. All materials are available in the [Github repository](https://github.com/nealcaren/crisis-and-opportunity-books).
 
 If you are interested in helping out or spot an error, let [me](mailto:neal.caren@gmail.com) know, post an [issue](https://github.com/nealcaren/crisis-and-opportunity-books/issues) or create a [pull request](https://github.com/nealcaren/crisis-and-opportunity-books/pulls).
 
@@ -26,13 +25,13 @@ If you are interested in helping out or spot an error, let [me](mailto:neal.care
 
 Other major Harlem Renaissance novels currently in the public domain:
 
-| Title                          | Author            | Year of Publication | Online
+| Title                          | Author            | Publication Year | Online
 |-------------------------------|-------------------|---------------------|---------------------|
 | Cane                          | Jean Toomer       | 1923                | [Gutenberg](https://www.gutenberg.org/ebooks/60093) |
-| There Is Confusion            | Jessie Fauset     | 1924                | [PDF](https://www.google.com/books/edition/There_is_Confusion/_xXR-y0YdxoC?hl=en)
+| There Is Confusion            | Jessie Fauset     | 1924                | [1st Edition PDF](https://www.google.com/books/edition/There_is_Confusion/_xXR-y0YdxoC?hl=en) |
 | Fire In the Flint             | Walter White      | 1924                | [Gutenberg](https://www.gutenberg.org/ebooks/69877) |
-| The Prince of Washington Square | Harry F. Liscomb | 1925                | [PDF](https://www.google.com/books/edition/The_Prince_of_Washington_Square/4h0vAQAAIAAJ?hl=en&gbpv=0)
-| Flight                        | Walter White      | 1926                | [PDF](https://www.google.com/books/edition/Flight/emgpAQAAIAAJ?hl=en&gbpv=0)
+| The Prince of Washington Square | Harry F. Liscomb | 1925                | [1st Edition PDF](https://www.google.com/books/edition/The_Prince_of_Washington_Square/4h0vAQAAIAAJ?hl=en&gbpv=0) |
+| Flight                        | Walter White      | 1926                | [1st Edition PDF](https://www.google.com/books/edition/Flight/emgpAQAAIAAJ?hl=en&gbpv=0)
 | Tropic Death                  | Eric Walrond      | 1926                | [Gutenberg](https://www.gutenberg.org/ebooks/71465) |
 | The Blacker the Berry         | Wallace Thurman   | 1929[^1]                |
 | Infants of the Spring         | Wallace Thurman   | 1932[^1]                |
