@@ -57,6 +57,6 @@ Major Harlem Renaissance novels that will be in the public domain in the next fe
 
 * [Crisis and Opportunity](https://www.crisisopportunity.org) Early 20th century social science articles by by Black scholars.
 * [Dare You Fight](https://www.dareyoufight.org) Archive of W.E.B. Du Bois's writings in *The Crisis*.
-* [An Editor Writes][https://www.amazon.com/Editor-Writes-Stories-Jessie-Redmon-ebook/dp/B0CLQ8S9SY/ref=sr_1_1?crid=QS0PVF4W0TAA&keywords=an+editor+writes+jessie&qid=1703967452&sprefix=an+editor+writes+jessie%2Caps%2C153&sr=8-1] Short stories and poems by Jessie Redmon Fauset, edited by Lula Caress.
+* [An Editor Writes](https://www.amazon.com/Editor-Writes-Stories-Jessie-Redmon-ebook/dp/B0CLQ8S9SY/ref=sr_1_1?crid=QS0PVF4W0TAA&keywords=an+editor+writes+jessie&qid=1703967452&sprefix=an+editor+writes+jessie%2Caps%2C153&sr=8-1) Short stories and poems by Jessie Redmon Fauset, edited by Lula Caress.
 
 Publisher: [Neal Caren](https://nealcaren.org)
