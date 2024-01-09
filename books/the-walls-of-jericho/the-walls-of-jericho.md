@@ -58,7 +58,7 @@ In Patmore's the discussion concerned a possible riot in Harlem, a popular topic
 
 Jinx Jenkins and Bubber Brown led the argument on opposite sides, reinforced by continuous expressions of vague but hearty agreement from their partisans:
 
-"Tell 'im 'bout it!"
+"Tell im &rsquo;bout it!"
 
 "That's the time, papa!"
 
@@ -68,15 +68,15 @@ Jinx and Bubber worked at the same job every day, moving furniture. At this they
 
 Jinx was thin and elongated, habitually stooped in bearing, lean and sinewy, with freckled skin of a slick deep yellow and a chronically querulous voice.
 
-"Fays got better sense," said he. "Never will be no riot no mo' 'round hyeh."
+"Fays got better sense," said he. "Never will be no riot no mo' &rsquo;round hyeh."
 
 Bubber was as different from Jinx as any man could be, short, round and bulging, with a complexion bordering on the invisible.
 
-"'Tain't due to be 'round hyeh," he corrected. "It's way over Court Avenue way. Darkey's gonna move in there to-morrer and fays jes' ain't gon' stand fo' it." Bubber spoke with a loose-lipped lisp, perfected by the absence of upper incisors.
+"&rsquo;Tain't due to be &rsquo;round hyeh," he corrected. "It's way over Court Avenue way. Darkey's gonna move in there to-morrer and fays jes' ain't gon' stand fo' it." Bubber spoke with a loose-lipped lisp, perfected by the absence of upper incisors.
 
 "Who he?" Jinx inquired.
 
-"Some lawyer 'n other name' Merrit."
+"Some lawyer  &rsquo;n other name' Merrit."
 
 "The one got Pat in that mess with d' government?"
 
@@ -84,20 +84,20 @@ Bubber was as different from Jinx as any man could be, short, round and bulging,
 
 "Well ef he's a lawyer he sho' mus' know what he's doin'?"
 
-"Don' matter what he is," argued Bubber. "Ef he move in that neighborhood, fays'll start sump'm sho'---and sho' as they start it, d' boogies'll finish it. Won't make no difference 'bout this Merrit man---he'll jes' be d' excuse------ Man, you know that. Every sence d' war, d' boogies is had guns and ammunition they stole from d' army, and they jes' dyin' fo' a chance to try 'em out. I know where they's two machine guns myself, and they mus' be a hund'ed mo' in Harlem."
+"Don' matter what he is," argued Bubber. "Ef he move in that neighborhood, fays'll start sump'm sho'---and sho' as they start it, d' boogies'll finish it. Won't make no difference &rsquo;bout this Merrit man---he'll jes' be d' excuse------ Man, you know that. Every sence d' war, d' boogies is had guns and ammunition they stole from d' army, and they jes' dyin' fo' a chance to try  &rsquo;em out. I know where they's two machine guns myself, and they mus' be a hund'ed mo' in Harlem."
 
-"Yea," said Jinx. "I've heard 'bout that, too. But I don't think no shine's got no business bustin' into no fay neighborhood."
+"Yea," said Jinx. "I've heard &rsquo;bout that, too. But I don't think no shine's got no business bustin' into no fay neighborhood."
 
 "He got business bustin' in any place he want 
 to go. Only way for him to git any where is to bust in---ain' nobody gon' *invite* him in."
 
-"Aw, man, whut you talkin' 'bout? Hyeh's a dicky tryin' his damnedest to be fay---like all d' other dickies. When they git in hot water they all come cryin' to you and me fo' help."
+"Aw, man, whut you talkin' &rsquo;bout? Hyeh's a dicky tryin' his damnedest to be fay---like all d' other dickies. When they git in hot water they all come cryin' to you and me fo' help."
 
 "And they git help, what I mean. Any time dickties start fightin', d' rest of us start fightin' too. Got to. Dickies can't fight."
 
-"Jes' 'cause they can't fight ain' no reason how come we got to fight fo' em."
+"Jes'  &rsquo;cause they can't fight ain' no reason how come we got to fight fo' em."
 
-"'Tain' nothin' else. Fays don' see no difference 'tween dicky shines and any other kind o' shines. One jig in danger is ev'y jig in danger. They'd lick them and come on down on us. Then we'd have to fight anyhow. What's use o' waitin'??"
+"&rsquo;Tain' nothin' else. Fays don' see no difference  &rsquo;tween dicky shines and any other kind o' shines. One jig in danger is ev'y jig in danger. They'd lick them and come on down on us. Then we'd have to fight anyhow. What's use o' waitin'??"
 
 "Damn' if you'd ever go out o' yo' way to fight f' no dickies," Jinx taunted.
 
@@ -110,7 +110,7 @@ Jinx missed the meaning of this, so Bubber gilded up close to him and drove it h
 
 Encircling grins improved Jinx's understanding. "Next to nuthin'!" exploded he, giving the other a rough push.
 
-"Next to nuthin', then," acquiesced Bubber, caroming off. "You know what you is lots better'n I do." Whereupon he did a triumphant little buck and wing step, which ended in a single loud, dust-raising stamp. Dry dust and drier laughter floated irritatingly into Jinx's face. Jinx was long and limber but his restraint was short and brittle. Derision snapped it in two.
+"Next to nuthin', then," acquiesced Bubber, caroming off. "You know what you is lots better &rsquo;n I do." Whereupon he did a triumphant little buck and wing step, which ended in a single loud, dust-raising stamp. Dry dust and drier laughter floated irritatingly into Jinx's face. Jinx was long and limber but his restraint was short and brittle. Derision snapped it in two.
 
 "So's yo' whole damn family nuthin'!" he glowered, heedless of the disproportion between the trivial provocation and so violent a reaction. For it is the gravest of insults, this so-called "slipping in the dozens." To disparage a man himself is one thing; to disparage his family is another. "Slipping" is a challenge holding all the potentialities of battle. The present example of it brought Bubber up short and promptly withdrew the bystanders' attention from their gin.
 
@@ -118,13 +118,13 @@ The bystanders began "agitatin'"---uttering comments deliberately intended to ur
 
 "Uh-uh! Sho' mus' know each other well!"
 
-"Wha' I come fum, dey fights fo' less 'n dat."
+"Wha' I come fum, dey fights fo' less  &rsquo;n dat."
 
 "Ef y' can't stand kiddin', don' kid, I say."
 
-"I don' b'lieve he's gon' hit 'im, though."
+"I don' b'lieve he's gon' hit &rsquo;im, though."
 
-"I know what *I'd* do 'f anybody said that 'bout *my* family."
+"I know what *I'd* do  &rsquo;f anybody said that &rsquo;bout *my* family."
 
 As a matter of fact, the habitual dissension between these two was the symptom of a deep affection which neither, on question, would have admitted. Neither Jinx and Bubber nor any of their associates had ever heard of Damon and Pythias, and frank regard between two men would have been considered questionable to say the least. Their fellows would neither have understood nor tolerated it; would have killed it by derisions, conjectures, suggestions, comments banishing the association to some realm beyond normal manhood. Accordingly their own expression of this affection had to take an ironic turn. They themselves must deride it first, must hide their mutual inclination in a garment of constant ridicule and contention, the irritation of which rose into their consciousness as hostility. Words and gestures which in a different order of life would have required no suppression became with them necessarily inverted, found issue only by assuming a precisely opposite aspect, concealed a profound attachment by exposing an extravagant enmity. And this was a distortion of behavior so completely imposed upon them by their traditions and society that even they themselves did not know they were masquerading.
 
@@ -149,19 +149,19 @@ yet so broad that his height was not of itself noticeable; a supremely tranquil 
 
 It was apparent that the bristling antagonists bristled no longer, had limply lost interest in their quarrel.
 
-"Aw, man," mumbled Jinx, "what you talkin' 'bout?"
+"Aw, man," mumbled Jinx, "what you talkin' &rsquo;bout?"
 
-"You know what I'm talkin' 'bout you freckle-face giraffe, and so does 'at baby hippopotamus in front of you. We got that Court Avenue job in the mornin', and if I got to break in one rooky on it, I might as well break in two." The voice, too, was like bronze, heavy, rich in tone, uncompromisingly solid, with a surface shadowy and smooth as velvet save for an occasional ironic glint.
+"You know what I'm talkin' &rsquo;bout you freckle-face giraffe, and so does &rsquo;at baby hippopotamus in front of you. We got that Court Avenue job in the mornin', and if I got to break in one rooky on it, I might as well break in two." The voice, too, was like bronze, heavy, rich in tone, uncompromisingly solid, with a surface shadowy and smooth as velvet save for an occasional ironic glint.
 
-"This boogy," explained Bubber, "thinks he's bad. Come slippin' me 'bout my family. He knows I don't play nuthin' like that."
+"This boogy," explained Bubber, "thinks he's bad. Come slippin' me &rsquo;bout my family. He knows I don't play nuthin' like that."
 
-"Needn't git uppity 'bout it," mumbled Jinx sullenly.
+"Needn't git uppity &rsquo;bout it," mumbled Jinx sullenly.
 
 "Ain' gittin' uppity. Jes' natchly don' like it, thass all. Keep yo' thick lips off my family ef y' know what’s good fo' y'."
 
 He who had interrupted queried blandly, "Ain't there gonna be no fight?"
 
-Jinx said to Bubber--- "Aw go 'haid, drabble-tail. Ain' nobody studyin' yo' family."
+Jinx said to Bubber--- "Aw go &rsquo;haid, drabble-tail. Ain' nobody studyin' yo' family."
 
 And this questionable apology Bubber chose to accept. "Oh," said he. "Oh---aw right, then. Thass different."
 
@@ -169,9 +169,9 @@ The atmosphere cleared, attention returned to gin and jest, and Bubber approache
 
 "Certainly am sorry th' ain' go'n' be no hostilities," sighed the latter. "Been wantin' to spank yo' little black bottom ev’y sence you broke that rope this mornin’."
 
-"Aw go 'haid, Shine. That boogy’s shoutin' ’cause you was hyeh to protect 'im. I'm go'n' ketch 'im one these days when you ain' 'round, and I'm go’n' turn 'im ev’y way but loose."
+"Aw go &rsquo;haid, Shine. That boogy’s shoutin' ’cause you was hyeh to protect &rsquo;im. I'm go'n' ketch &rsquo;im one these days when you ain' &rsquo;round, and I'm go’n' turn &rsquo;im ev’y way but loose."
 
-"Don't let 'im surprise y'. He kin wrastle the hell out of a piano."
+"Don't let &rsquo;im surprise y'. He kin wrastle the hell out of a piano."
 
 "Piano don't fight back."
 
@@ -186,7 +186,7 @@ Patmore, the proprietor, appeared, a large, powerful man with a broad, hard face
 
 Pat addressed Bubber. "You and Long-Boy still at it, huh?"
 
-"Aw---a' string-bean's crazy. I'm gon' snap 'im in two and string 'im one these times."
+"Aw---a' string-bean's crazy. I'm gon' snap &rsquo;im in two and string &rsquo;im one these times."
 
 "Know what I'm go'n' do with you two?"
 
@@ -201,7 +201,7 @@ Pat addressed Bubber. "You and Long-Boy still at it, huh?"
 
 "Any rats down there?"
 
-"Yea---and y'all 'll make two more."
+"Yea---and y'all &rsquo;ll make two more."
 
 "Well," grinned Bubber, "when I walk out, them rats'll have some bones to gnaw on anyhow," and he moved off toward the pool room.
 
@@ -215,7 +215,7 @@ Shine looked up. "What?"
 
 "This," said Shine, "is *good* licker."
 
-"'Course 'tis. All my licker is good."
+"&rsquo;Course &rsquo;tis. All my licker is good."
 
 "This ain' never been yourn---'scription licker." Shine sampled his glass with an odd mingling of relish and unconcern, the one unmistakably for his drink, the other for his company.
 
@@ -227,17 +227,17 @@ Pat feigned incredulity. “Mean that’s *your* licker?”
 
 Shine tossed off the rest of the glass, set it down on the bar counter, and looked upon Pat, who was almost as tall as himself, with a wearily tolerant smile.
 
-“’Sho’ takes you a long time to see a thing,” he remarked. “You hear me say it’s 'scription. You ain’t runnin’ no drugstore, are y’? You see me drink it. You ain’t blind, are y’? Yea, I bought it. Yea, I brought it here. Yea, I’m drinkin’ it. Now what the hell 'bout it?”
+“’Sho’ takes you a long time to see a thing,” he remarked. “You hear me say it’s &rsquo;scription. You ain’t runnin’ no drugstore, are y’? You see me drink it. You ain’t blind, are y’? Yea, I bought it. Yea, I brought it here. Yea, I’m drinkin’ it. Now what the hell &rsquo;bout it?”
 
 A smaller man equally “bad,” equally convinced of the necessity of being hard, but aware of physical odds against him, would have said this with sneers and sarcasm, thus bolstering his courage against his handicap. Shine however had never
 found it necessary to be nasty as well as bad. He had spoken with an air of amusement, and there was but a touch of challenge in his terminal remark.
 
-Pat stood silent a moment. Eventually he said, "Nothin' 'bout it, big boy. Nothin'. Jes' askin' f' information, that's all." And rather too abruptly he walked away.
+Pat stood silent a moment. Eventually he said, "Nothin' &rsquo;bout it, big boy. Nothin'. Jes' askin' f' information, that's all." And rather too abruptly he walked away.
 
 ::: small-break
 :::
 
-Shine stared long into his third glass of 'scription liquor before he lifted it to his lips. Good whiskey is not like gin. Gin makes you forget, good whiskey makes you remember. Perhaps it was at the memories in this, his third glass of good whiskey, that Shine now stared. ...
+Shine stared long into his third glass of &rsquo;scription liquor before he lifted it to his lips. Good whiskey is not like gin. Gin makes you forget, good whiskey makes you remember. Perhaps it was at the memories in this, his third glass of good whiskey, that Shine now stared. ...
 
 ::: small-break
 :::
@@ -261,7 +261,7 @@ A bigger boy now, almost a man; well over six feet tall, but still ribby and hun
 
 The head barber liked to stand in the doorway and kid the boy about being so big.
 
-"Great big husky---" he would draw out the "great" till it was as long as Joshua himself--- "great big husky like you---it's a shame. You oughter be movin' pianos 'stead o' whippin' shoe-leather. Benny, come 'eh. Look at dis boy. When he stoop over his heels is higher 'n his head."
+"Great big husky---" he would draw out the "great" till it was as long as Joshua himself--- "great big husky like you---it's a shame. You oughter be movin' pianos &rsquo;stead o' whippin' shoe-leather. Benny, come &rsquo;eh. Look at dis boy. When he stoop over his heels is higher  &rsquo;n his head."
 
 Joshua Jones took it good naturedly, grinned occasionally, said little. "Shine?" was the most he ever uttered, and from this the men dubbed him Shine.
 
@@ -288,7 +288,7 @@ A malicious thing. Only to-day they were putting a piano into a third-story wind
 a busy street. They had used hooks over the cornice, and the cheap rotten cement crumbled. Cornices aren't supposed to bear weight---an inferior mixture will do. One hook came through just as Shine was reaching out of the window to catch hold of the suspended instrument and guide it through the frame. He heard the crackle of broken cement above, saw the instrument sag a little while over it showered crumbs of broken cornice. With the hand already extended he grabbed the nearest leg of the upright and pulled it part way through the window just before the other hook lost its hold above. The greater part of the piano however was still unsupported outside the window---the longer arm of a lever that all but broke even Shine's tremendous strength. Straining back with all the power of his back and arms, his knees braced against the lower edge of the window-frame, he held the instrument there slipping on the sill till Jinx and Bubber reached him. Someone must have been hurt in the crash that would surely have come otherwise.
 
 "Thing nearly pulled me out the winder," he
-remarked when the piano was again under control. "Why the hell didn' y' let it go, then?" Shine looked rather blank. "Damn 'f I thought of it," he said and grinned at his own stupidity.
+remarked when the piano was again under control. "Why the hell didn' y' let it go, then?" Shine looked rather blank. "Damn  &rsquo;f I thought of it," he said and grinned at his own stupidity.
 
 ## III
 
@@ -296,42 +296,42 @@ Joshua Jones, whom his fellows called Shine, came out of his reverie, to observe
 
 "This yeh freckle-face giraffe, he's a good boogy," Bubber declared. "Good boogy---yassuh. He’s my boy. Ain't you my boy, biggy?"
 
-"No lie," Jinx agreed. "Tell 'im 'bout that licker we ruint."
+"No lie," Jinx agreed. "Tell &rsquo;im &rsquo;bout that licker we ruint."
 
-"Try some good licker," Shine invited, turning the rest of his pint over to them. "Go 'head---I got enough."
+"Try some good licker," Shine invited, turning the rest of his pint over to them. "Go &rsquo;head---I got enough."
 
 "Jes' had some good licker, I tell y'---Pat saw us go------"
 
 "Y'all drink," Shine ordered, "and let me do the talkin'."
 
-"Talk, then---talk. Don' nobody have to listen jes' 'cause you talk. Talk."
+"Talk, then---talk. Don' nobody have to listen jes'  &rsquo;cause you talk. Talk."
 
 
-"I told y'all 'bout that Court Avenue job in the mornin'."
+"I told y'all &rsquo;bout that Court Avenue job in the mornin'."
 
-"What d' hell you so worried 'bout that job for?"
+"What d' hell you so worried &rsquo;bout that job for?"
 
 "Might have to get me some extra hands. Boss told me find somebody."
 
 There was quick and sober resentment on the part of Jinx and Bubber. "Extra hands---fo' whut? Ain' no job too big fo' us three."
 
-"Trouble, maybe," Shine explained. "You know what's happened already. Guy tried to move in on One Hundred Forty-ninth Street, this winter and they dared 'em to take the stuff out of the van. Jes' las' month, four blocks from where we go tomorrow, somebody put dynamite under a shine that moved in on his hardness. Well, boss is making this dicky pay for risk this time, and we get a bonus, see? But we got to get the stuff in safe, else---no bonus. And we got to keep our eyes open, or we may leave some of our hips right up there on that Court Avenue asphalt."
+"Trouble, maybe," Shine explained. "You know what's happened already. Guy tried to move in on One Hundred Forty-ninth Street, this winter and they dared  &rsquo;em to take the stuff out of the van. Jes' las' month, four blocks from where we go tomorrow, somebody put dynamite under a shine that moved in on his hardness. Well, boss is making this dicky pay for risk this time, and we get a bonus, see? But we got to get the stuff in safe, else---no bonus. And we got to keep our eyes open, or we may leave some of our hips right up there on that Court Avenue asphalt."
 
 "Won't leave none o' Jinx's," Bubber prophesied.
 
 "How come?" challenged Jinx.
 
-"'Cause you ain' got none to leave, you doggone eel."
+"&rsquo;Cause you ain' got none to leave, you doggone eel."
 
 "So be ready for anything," Shine said. "Five bucks extra apiece if the junk gets in o.k."
 
-"Well---" Bubber was uncertain, "---five bucks is five bucks, but they's a lot mo' five buckses loose in the world 'n they is hips. Look yeh." He exhibited his own hips by drawing his coat in tight around the waist. "See them? It's took me twenty-five years to git them. And you talkin' 'bout lettin' somebody throw dynamite at 'em fo' five bucks. Huh. Man down at Coney Island once offered me ten bucks a day jes' to let 'em throw baseballs at my haid---and baseballs don't explode."
+"Well---" Bubber was uncertain, "---five bucks is five bucks, but they's a lot mo' five buckses loose in the world  &rsquo;n they is hips. Look yeh." He exhibited his own hips by drawing his coat in tight around the waist. "See them? It's took me twenty-five years to git them. And you talkin' &rsquo;bout lettin' somebody throw dynamite at  &rsquo;em fo' five bucks. Huh. Man down at Coney Island once offered me ten bucks a day jes' to let  &rsquo;em throw baseballs at my haid---and baseballs don't explode."
 
-"Furthermore," Jinx added, "you could spare that haid. 'Twouldn' be no loss whatsoever."
+"Furthermore," Jinx added, "you could spare that haid. &rsquo;Twouldn' be no loss whatsoever."
 
-"Point is," said Shine, "five bucks or nothin', I'm jes' tellin' y' to be ready, see? If anybody bother us jes' up and knock hell out 'n 'em, that's all."
+"Point is," said Shine, "five bucks or nothin', I'm jes' tellin' y' to be ready, see? If anybody bother us jes' up and knock hell out  &rsquo;n &rsquo;em, that's all."
 
-"You a pretty hard boogy, Mr. Shine," Bubber observed, "but I ain't never see you knock the hell out 'n no dynamite."
+"You a pretty hard boogy, Mr. Shine," Bubber observed, "but I ain't never see you knock the hell out  &rsquo;n no dynamite."
 
 "Far as I'm concerned," contributed Jinx, "I'm ready now---to run. I been haulin' furniture, and I been haulin' pianos; but when they starts plantin' dynamite, this baby's gonna start haulin' hindparts!"
 
@@ -349,7 +349,7 @@ So between them they killed the rest of the pint and mourned its death with laug
 
 Patmore returned, grinning.  
 
-"You two," he directed Bubber and Jinx, "catch air. I got a bug to put in the big boy's ear." And when they had eventually obeyed, he went on to Shine: "Jes' to show y' they's no hard feelin's, I got a scheme that means bucks, and if you got two good eyes, you kin see how to make some of 'em."
+"You two," he directed Bubber and Jinx, "catch air. I got a bug to put in the big boy's ear." And when they had eventually obeyed, he went on to Shine: "Jes' to show y' they's no hard feelin's, I got a scheme that means bucks, and if you got two good eyes, you kin see how to make some of &rsquo;em."
 
 "They's mo' guys in jail for schemin' than they is for bein' blind."
 
@@ -366,7 +366,7 @@ Patmore returned, grinning.
 Shine's silence admitted nothing; but Pat went on:
 
 
-"Heard you say sumpin' 'bout movin' this dicky Merrit."
+"Heard you say sumpin' &rsquo;bout movin' this dicky Merrit."
 
 "Did?"
 
@@ -374,26 +374,26 @@ Shine's silence admitted nothing; but Pat went on:
 
 "No?"
 
-"No.---Tell you sumpm'." Pat looked about to be sure of privacy, leaned closer to the bar counter. "If Merrit died to-morrer---I wouldn' send 'im no flowers."
+"No.---Tell you sumpm'." Pat looked about to be sure of privacy, leaned closer to the bar counter. "If Merrit died to-morrer---I wouldn' send &rsquo;im no flowers."
 
-"What you got 'gainst 'im?"
+"What you got &rsquo;gainst &rsquo;im?"
 
 "Plenty." There came a characteristic confidential twist to one side of Pat's mouth. "He put me in some time back, see? Damage suit---ten thousand berries. Hit a guy crossin' the speedway---knocked him f' a gool, the dumbbell. Well---it was pay off or see jail, and naturally I wasn' go'n' see jail. Coulda' got out cheaper may be, on'y this bird Merrit wouldn't listen to reason. Claim' he was go'n' bring in my occupation and lots o' other stuff if I didn' come clean---forcin' my hand, see? Knew I had cash and knew he could make me
-pay off by threatenin' to squeal. I ought to 'a' crowned him then, but he was too wise---knew where to meet me and when. So all I could do was pay off. Ten thousand bucks to stay out o' jail."
+pay off by threatenin' to squeal. I ought to &rsquo;a' crowned him then, but he was too wise---knew where to meet me and when. So all I could do was pay off. Ten thousand bucks to stay out o' jail."
 
 "Ten thousand bucks wasted," Shine said.
 
-Pat misunderstood. "Yea," he agreed. "Nothin' to show for it. Know what I could 'a' done with that much at that time?"
+Pat misunderstood. "Yea," he agreed. "Nothin' to show for it. Know what I could &rsquo;a' done with that much at that time?"
 
 "What?"
 
-"I could 'a' bought in a fay neighborhood and held on for a price. I could 'a' made fifteen thousand on that ten. Same as he's doin' now."
+"I could &rsquo;a' bought in a fay neighborhood and held on for a price. I could &rsquo;a' made fifteen thousand on that ten. Same as he's doin' now."
 
 "So now you figger on a come-back?"
 
 Pat was almost reproachful. "’Course not---that ain’t the kind o' bird I am. Hell, I ain't evil, Shine. Anyway th' ain' nothin' I kin do ’bout it now anyhow, is they?"
 
-"How'n hell do I know?"
+"How &rsquo;n hell do I know?"
 
 "All I want is his trade, man. Bygones kin be bygones, far as I give a damn. Gittin' even is woman’s stuff---man don' hold no grudges. But if I kin sell him and his friends licker regular, it’ll mean a lot to me, see?"
 
@@ -403,21 +403,21 @@ Pat was almost reproachful. "’Course not---that ain’t the kind o' bird I am.
 
 Shine's brows lifted. "Yea?"
 
-"Yea. You're my agent, see? Only don't tell him---let him think you're handlin' it y'self. They'll be more later---not only to him but his friends, and you kin collect ev'y time. How 'bout it?"
+"Yea. You're my agent, see? Only don't tell him---let him think you're handlin' it y'self. They'll be more later---not only to him but his friends, and you kin collect ev'y time. How &rsquo;bout it?"
 
 Shine's answer did not come promptly.
 
 "Fact," Pat pursued, "with yo' job, you could work up a wonderful delivery service for me---no suspicion attached to it, see? Hyeh's yo' chance, man---start out as my agent."
 
-"Agent yo' hiney," said Shine. "Listen. Ain't you heard 'bout me?"
+"Agent yo' hiney," said Shine. "Listen. Ain't you heard &rsquo;bout me?"
 
-"'Bout you?"
+"&rsquo;Bout you?"
 
 "Sho', man. I done started already."
 
 "Bootleggin'?"
 
-"No lie. I got a regular business. Ain' but two people in it, though, the bootlegger and the customer. I'm both of 'em."
+"No lie. I got a regular business. Ain' but two people in it, though, the bootlegger and the customer. I'm both of &rsquo;em."
 
 Once again Pat eyed Shine in silent frustration and, after an angry moment, turned away wordless.
 
@@ -497,7 +497,7 @@ that might hold a drop of interest, comprehended it, drained it, left it; swiftl
 
 "Well, I don't know. It's easy to laugh now. But the fact is, it was tragedy. Black triumph is always white tragedy. We won---we won territory. All the fays had to get out, make way, make room for us. What did they do? Resist, of course---why the devil shouldn't they? Clung to their district, tried to recover. And we broke their heads with chimney bricks and bathed their bodies in hot lye. How do you suppose they felt about it?"
 
-"Best thing that ever happened to 'em," grinned Fred.
+"Best thing that ever happened to &rsquo;em," grinned Fred.
 
 "But tough on *them*, you'll admit."
 
@@ -551,7 +551,7 @@ This early summer morning Shine swung Bess, loaded with Merrit's possessions, in
 
 "Boy, lemme out this cab," said Bubber. "This darkey done gone crazy."
 
-"Shuh!" complained Jinx. "Ain't go'n' be no rough stuff in this neighborhood. Deader'n Strivers' Row."
+"Shuh!" complained Jinx. "Ain't go'n' be no rough stuff in this neighborhood. Deader &rsquo;n Strivers' Row."
 
 They drew up and backed against the curb  before number three-thirteen. The door opened and Merit himself came out to meet them. He wore his usual air of nonchalance and his usual cherubic grin.
 
@@ -573,13 +573,13 @@ If you move in, we'll move you out.
 
 "Found it in the vestibule when I came up to look around yesterday."
 
-"Humph," said Shine. "Jes' let 'em start sump'n while we're here, that's all." And because he disliked dickties and wanted no talk with any one of them, he changed the subject rudely. "Where you want us to put this stuff?"
+"Humph," said Shine. "Jes' let  &rsquo;em start sump &rsquo;n while we're here, that's all." And because he disliked dickties and wanted no talk with any one of them, he changed the subject rudely. "Where you want us to put this stuff?"
 
 "Anywhere. Spread it all over the first floor. My housekeeper'll come in from the country-place and have it arranged later."
 
-"Hear that?" Jinx said to Bubber, out of sight at the rear of the van. "Thass what I say 'bout a spade. Spade can't git a little sump'n without stretchin' it. His housekeeper. His country-place. Humph---what's a use lyin' like that------?"
+"Hear that?" Jinx said to Bubber, out of sight at the rear of the van. "Thass what I say &rsquo;bout a spade. Spade can't git a little sump &rsquo;n without stretchin' it. His housekeeper. His country-place. Humph---what's a use lyin' like that------?"
 
-"He ain' lyin', fool. That jasper's got mo' bucks 'n you got freckles. Got a swell place on the upstate Pike, not far out o' town. Throws big parties and raises hell jes' like d' fays. Folks up there didn’t know he was a jig till he had a party---and they offered him a million dollars fo' the place jes' to git him out. He wouldn' leave, though."
+"He ain' lyin', fool. That jasper's got mo' bucks  &rsquo;n you got freckles. Got a swell place on the upstate Pike, not far out o' town. Throws big parties and raises hell jes' like d' fays. Folks up there didn’t know he was a jig till he had a party---and they offered him a million dollars fo' the place jes' to git him out. He wouldn' leave, though."
 
 "Million dollars?"
 
@@ -589,7 +589,7 @@ If you move in, we'll move you out.
 
 "Uh-huh."
 
-"Huh! You lie wuss'n he do."
+"Huh! You lie wuss &rsquo;n he do."
 
 Merrit's words came to them repeating, "Mrs. Fuller will take care of everything later."
 
@@ -597,7 +597,7 @@ Merrit's words came to them repeating, "Mrs. Fuller will take care of everything
 
 "See what?"
 
-"Soon as a old crow gits up in d' world, he got to grab hisse'f some other guy's wife."
+"Soon as a old crow gits up in d' world, he got to grab hisse &rsquo;f some other guy's wife."
 
 Bubber regarded him with pity. "How you figger dat out?"
 
@@ -605,13 +605,13 @@ Bubber regarded him with pity. "How you figger dat out?"
 
 "No. And yo' name ain't Sherlock. Don't you know what a housekeper is? And ain't you never heard of sech a thing as a widow?"
 
-"Aw man, what you talkin' 'bout?"
+"Aw man, what you talkin' &rsquo;bout?"
 
 "You ought to be a policeman, brother."
 
 "How come?"
 
-"'Cause you very suspicious and very, very dumb."
+"&rsquo;Cause you very suspicious and very, very dumb."
 
 These two had been unwrapping carefully covered hindmost pieces of furniture. Shine came around to lend a hand, and Merrit moved along the curb to a position such that he could observe them.
 Now he indulged in another astonishing speech.
@@ -655,7 +655,7 @@ Suddenly comment ceased. Only two doors beyond Merrit’s house the girl turned 
 
 Merrit raised his brows in a characteristic little expression of surprise. Shine saw him do so and had a swift interpretation for that expression:
 
-“Figgerin' on a jive already---the doggone dickty hound. Why the hell dickties can't stick to their own women 'thout messin' around honest workin' girls---”
+“Figgerin' on a jive already---the doggone dickty hound. Why the hell dickties can't stick to their own women &rsquo;thout messin' around honest workin' girls---”
 
 Bubber was rapturizing without restraint, “Man---oh---man! A honey with high yaller laigs! And did you see that walk? That gal walks on ball-bearin's, she do---ev'rything moves at once.” He illustrated his idea with head-wobblings, shoulder-rollings, and loose backward protrusions and retractions of buttocks. “See what I mean? Tail-conscious, man, tail-conscious------”
 
@@ -715,11 +715,11 @@ The only answer was, "No, Miss Cramp."
 
 "And how can you afford to wear such nice looking things on eighteen dollars a week?"
 
-"Well," Linda said, "'course I could do better on twenty."
+"Well," Linda said, "&rsquo;course I could do better on twenty."
 
 Miss Cramp did not hear this, but observed, "Patent-leather pumps and a black satin dress---"
 
-"They're cheap shoes," Linda explained. "Just look nice 'cause they're new. The dress I got down on Eighth Avenue for seven dollars."
+"They're cheap shoes," Linda explained. "Just look nice  &rsquo;cause they're new. The dress I got down on Eighth Avenue for seven dollars."
 
 "But your skin, my dear. You might pass for a Sicilian or an Armenian."
 
@@ -739,7 +739,7 @@ Linda was not sure about these. "I was a gypsy once in a concert," she admitted.
 
 "I thought---er---slavery, you know, would have made you very religious."
 
-"Maybe it did," said Linda. "I wouldn’t know 'bout that."
+"Maybe it did," said Linda. "I wouldn’t know &rsquo;bout that."
 
 "But don’t you have your own hymns? Spirituals, I believe they are called."
 
@@ -755,7 +755,7 @@ A little devilishly, Linda smiled, but all she said was, "Is that so?"
 
 "But you---" began Miss Cramp, then reconsidered. "But you must sing spirituals. All Negroes sing spirituals, don't they?"
 
-Doubtfully Linda ruminated. "Why---I remember some jubilee singers gave a concert of 'em once at the Parish. And I've been to Methodist revival meetings where they sang 'em just like jazz. We only went for fun, to see the folks get happy and shout. I've never heard them at my church in regular service, though."
+Doubtfully Linda ruminated. "Why---I remember some jubilee singers gave a concert of  &rsquo;em once at the Parish. And I've been to Methodist revival meetings where they sang  &rsquo;em just like jazz. We only went for fun, to see the folks get happy and shout. I've never heard them at my church in regular service, though."
 
 "Well," said Miss Cramp. And again, "Well." Then, "What I was getting at was---do your churches make any effort to improve conditions, to render any real service to your people?"
 
@@ -816,7 +816,7 @@ The simplicity of this response did not satisfy Miss Cramp, who could never have
 "They'll certainly appreciate it, Miss Cramp."
 
 
-"Of course... Well, that's all, Linda. Thank you very much. Linda, bring me the 'phone book when you come back, won't you? I presume they have a telephone?"
+"Of course... Well, that's all, Linda. Thank you very much. Linda, bring me the &rsquo;phone book when you come back, won't you? I presume they have a telephone?"
 
 "Who, Miss Cramp?"
 
@@ -942,7 +942,7 @@ But though this might be only one more instance of a far-reaching general truth,
 
 He caught sight of Linda occasionally, dancing with boys, nice, Sunday-Schoolish boys he did not know, and he blamed these occasional views of her for the persistence in his mind of what he had seen. He began to resent that persistence:
 
-"What the hell I keep thinkin' 'bout *that* for?"
+"What the hell I keep thinkin' &rsquo;bout *that* for?"
 
 Then, by way of excuse, "Well she sho' is good to look at. Ain' no sense in a woman bein' that good-lookin'. Ain' no excuse for it. Dangerous, what I mean. Ought to be locked up somewheres where she couldn' do so much harm."
 
@@ -951,13 +951,13 @@ Then, by way of excuse, "Well she sho' is good to look at. Ain' no sense in a wo
 
 He encountered Jinx and Bubber and they did nothing to help him forget.
 
-"Boy!" exclaimed Bubber, "'member that sheba we seen that mornin' on Court Avenue?"
+"Boy!" exclaimed Bubber, "&rsquo;member that sheba we seen that mornin' on Court Avenue?"
 
 Shine grunted assent.
 
-"She's right hyeh at d'belly-rub to-night, big boy. Sharp out this world. We jes' seen 'uh---right over yonder. Great Gordon Gin---talk about one red hot mamma! Dressed like a fortune-teller---wish she'd tell mine. Anything she say 'd be aw-right with me. Tell me I go'n' die tomorrer, I'd go right on and die happy."
+"She's right hyeh at d'belly-rub to-night, big boy. Sharp out this world. We jes' seen &rsquo;uh---right over yonder. Great Gordon Gin---talk about one red hot mamma! Dressed like a fortune-teller---wish she'd tell mine. Anything she say &rsquo;d be aw-right with me. Tell me I go'n' die tomorrer, I'd go right on and die happy."
 
-"I *mean*," Jinx agreed. "And when I was dead and buried, all she'd have to do 'd be walk over my grave, see?---and damn if I wouldn't git up and follow 'uh. Boy, she's got what it takes, and papa don' mean maybe!"
+"I *mean*," Jinx agreed. "And when I was dead and buried, all she'd have to do &rsquo;d be walk over my grave, see?---and damn if I wouldn't git up and follow &rsquo;uh. Boy, she's got what it takes, and papa don' mean maybe!"
 
 "She's the owl's bow'ls," Bubber epitomized.
 
@@ -967,11 +967,11 @@ When he had glumly departed, they looked at each other a long time solemnly; the
 
 "What's a matter with my boy?" Jinx wanted to know.
 
-"Nothin'. She jes' done put d' locks on 'im, thass all."
+"Nothin'. She jes' done put d' locks on &rsquo;im, thass all."
 
 "Nothin' different. And then up and give him lots o' air."
 
-"Seems lak," Bubber grew serious, "our boy has been smote sho' 'nuff, though, don' it?"
+"Seems lak," Bubber grew serious, "our boy has been smote sho' &rsquo;nuff, though, don' it?"
 
 "Smit," corrected Jinx.
 
@@ -979,19 +979,19 @@ When he had glumly departed, they looked at each other a long time solemnly; the
 
 "Smit."
 
-"What you know 'bout language?"
+"What you know &rsquo;bout language?"
 
-"Mo' 'n you. Don' nobody talk language down yo' home in South Ca'lina."
+"Mo'  &rsquo;n you. Don' nobody talk language down yo' home in South Ca'lina."
 
 "What they talk, then?"
 
-"Don' talk 'tall. Jes' grunt."
+"Don' talk &rsquo;tall. Jes' grunt."
 
 "Yea---and so did that man grunt what run you out o' Virginia, too."
 
-"Thass aw right 'bout that. Fact is, ev'y time you forgit you up nawth, you start gruntin' in yo' native language."
+"Thass aw right &rsquo;bout that. Fact is, ev'y time you forgit you up nawth, you start gruntin' in yo' native language."
 
-"Maybe. But what I mean, you don' never *forgit* you up nawth---and ain' nobody never heard you sing that song 'bout 'Carry Me Back to Old Virginny' neither."
+"Maybe. But what I mean, you don' never *forgit* you up nawth---and ain' nobody never heard you sing that song &rsquo;bout 'Carry Me Back to Old Virginny' neither."
 
 "D' word is smit."
 
@@ -1027,7 +1027,7 @@ On the impulse of his anger he turned and followed her the short distance to her
 
 "Wrong number," she said briefly and smiled that smile again.
 
-He sat down and put his arms on the table and leaned forward as she drew back in surprise. He spoke very gravely, and his voice, though low, suffered no loss of clarity by reason of the bedlam 'round about; indeed the merry confusion seemed to lend them a certain seclusion.
+He sat down and put his arms on the table and leaned forward as she drew back in surprise. He spoke very gravely, and his voice, though low, suffered no loss of clarity by reason of the bedlam &rsquo;round about; indeed the merry confusion seemed to lend them a certain seclusion.
 
 "Listen, Long Distance---who you kiddin'?"
 
@@ -1083,7 +1083,7 @@ This piqued her curiosity and further delayed her departure. "Yes, judge."
 
 "I saw you looking and asked him." She rose at last. "I promised him this dance, if?"---no missing the sarcasm this time---"if you will excuse me."
 
-"No---wait a minute---listen." He too was standing now, towering over her, leaning a trifle toward her, and perhaps less composed than he'd ever been in his life in the company of a girl. If she had been interested enough to ask Pat about him, there was no sense in releasing her now so easily, just because she was playing tight. Or maybe she wasn't playing. Maybe she was scared. "Listen---I admit I got you all wrong. But it looked------Listen. I'm standin' over there, see? And Pat comes up and puts on his jive---anybody can see you don' know 'im. But you lap it up. You swallow it whole. I mean that's the way it looked. Naturally I figger I can get away too, see? Y' can't kill me f' that, can y'?"
+"No---wait a minute---listen." He too was standing now, towering over her, leaning a trifle toward her, and perhaps less composed than he'd ever been in his life in the company of a girl. If she had been interested enough to ask Pat about him, there was no sense in releasing her now so easily, just because she was playing tight. Or maybe she wasn't playing. Maybe she was scared. "Listen---I admit I got you all wrong. But it looked------Listen. I'm standin' over there, see? And Pat comes up and puts on his jive---anybody can see you don' know &rsquo;im. But you lap it up. You swallow it whole. I mean that's the way it looked. Naturally I figger I can get away too, see? Y' can't kill me f' that, can y'?"
 
 From Shine this was abject apology. Babe would have taken it so, or Lottie, and been delighted and amazed. But Linda, to whom his implication was insult, stiffened as if something unclean had touched her, while her eyes dilated with anger and resentment. Then her body relaxed into an attitude of casual contempt and her look became tranquil scorn. She said quietly, as if verifying a memory:
 
@@ -1103,7 +1103,7 @@ For yet a while longer he did not move. Music, dancing, laughter---tumultuous si
 
 That woke him. The stupor had been the recession of a wave, withdrawing only to gather new impetus. Now again it rushed over him, hot and impelling. He looked about a little madly and very grimly, and he said aloud:
 
-"Judge. Hmph. Show me that judge. I'm go'n' give 'im sump'm to judge."
+"Judge. Hmph. Show me that judge. I'm go'n' give &rsquo;im sump'm to judge."
 
 
 
@@ -1208,7 +1208,7 @@ And so beneath his pleasant manner, there was a disordered spirit which at this 
 
 “Listen to that music. Savage too, don’t you think?”
 
-“Just what had occurred to me. That music is like the beating of---what do they call 'em?---dum-dums, isn’t it?”
+“Just what had occurred to me. That music is like the beating of---what do they call &rsquo;em?---dum-dums, isn’t it?”
 
 “I was just trying to think what it recalled,” mused Merrit with great seriousness. “Tom-toms! that’s it---of course. How stupid of me. Tom-toms. And the shuffle of feet------”
 
@@ -1342,7 +1342,7 @@ Peter Long, who was "tight," rose and sang in a loud voice:
 ::: poem
 Oh her face was sharp as a butcher's cleaber,
 
-But dat did not seem to grieb 'er---
+But dat did not seem to grieb &rsquo;er---
 :::
 
 
@@ -1356,7 +1356,7 @@ Conrad said, "Potter's got a sense of humor anyhow. Hooking her up with Gloria D
 
 "It's natural. Downtown I'm only passing. These," he waved grandiloquently, "are my people."
 
-"Yea---so you seem to think, the way you sell 'em for cash," said Cornelia.
+"Yea---so you seem to think, the way you sell  &rsquo;em for cash," said Cornelia.
 
 "They enjoy being sold," returned Con.
 
@@ -1567,7 +1567,7 @@ They beamed at each other, each in the delight of his own withheld motive, his o
 
 "I shall look forward to your call," she reminded.
 
-"If I could only be sure you were doing that," said he, "you've no idea the pleasure 'twould give me."
+"If I could only be sure you were doing that," said he, "you've no idea the pleasure &rsquo;twould give me."
 
 "You can be sure," she said.
 
@@ -1749,7 +1749,7 @@ Despite the genial atmosphere of Pat's pool room, the substantial good will of t
 
 "Sho is hot," Bubber had commented, missing a shot and wiping a glistening brow on his arm. 
 
-"Don' blame d' weather jes' 'cause you can't shoot pool," returned Jinx. "I likes warm weather like this." 
+"Don' blame d' weather jes'  &rsquo;cause you can't shoot pool," returned Jinx. "I likes warm weather like this." 
 
 "Can't see what fo'." 
 
@@ -1779,13 +1779,13 @@ Henry Patmore sauntered up. "Where's yo' boy?" he inquired.
 
 "Don' mean his brother."
 
-"Hell," said Bubber. "Ain' see 'at boogy a single night sence d' dance."
+"Hell," said Bubber. "Ain' see &rsquo;at boogy a single night sence d' dance."
 
 "Jivin' a dickty gal now," explained Jinx, regarding the table critically, with a sidewise twist of his head. "Bringin' me mud."
 
 "Yea?" said Pat.  
 
-"Dictky?" scoffed Bubber. "What's dicky 'bout 'er?"  
+"Dictky?" scoffed Bubber. "What's dicky &rsquo;bout &rsquo;er?"  
 
 "Ev'rything," said Jinx preparing to try a difficult combination, "---compared to him."  
 
@@ -1793,7 +1793,7 @@ Henry Patmore sauntered up. "Where's yo' boy?" he inquired.
 
 "Don' mean her sister," assented Bubber. "She ain't nobody's dicky, though. Powerful easy to look at but jes' ordinary K.M. right on."  
 
-"She may be a K.M." conceded Jinx, "but if they's anything ordinary 'bout her, I ain' seen it."  
+"She may be a K.M." conceded Jinx, "but if they's anything ordinary &rsquo;bout her, I ain' seen it."  
 
 "Got the big boy goin', huh?" grinned Pat.  
 
@@ -1805,21 +1805,21 @@ Henry Patmore sauntered up. "Where's yo' boy?" he inquired.
 
 Pat smiled metallically and moved off. Jinx called and shot, dispersing a cluster of balls, of which not one found its way into a pocket. Whereupon Bubber echoed their cackling laughter, revealing his stretch of bare upper gum between the two lateral stumps.
 
-"One of these times when you laff like that," prophesied Jinx with great ill-humour, "I'm go'n bus' you in d' mouth so hard you'll grow yo'self some teeth."
+"One of these times when you laff like that," prophesied Jinx with great ill-humour, "I'm go &rsquo;n bus' you in d' mouth so hard you'll grow yo'self some teeth."
 
 Bubber's scorn was superlative. "You might stick out a fis'," he warned, "but you won't draw nothin' back but a nub." He busily chalked his cue, surveying the pattern of balls with enormous gravity.
 
-"Yo' laigs is so bowed," Jinx observed, "that you wear yo' shoes out on d' sides. Better stop laffin' at me like that. One of these times I bet I'm go'n run you knock-kneed."
+"Yo' laigs is so bowed," Jinx observed, "that you wear yo' shoes out on d' sides. Better stop laffin' at me like that. One of these times I bet I'm go &rsquo;n run you knock-kneed."
 
 "I wouldn' run that fas'," returned Bubber, squatting to squint over the table, "after nobody."
 
-"Ain' talkin' 'bout after---talkin' 'bout from."
+"Ain' talkin' &rsquo;bout after---talkin' &rsquo;bout from."
 
 "From?" Bubber stood erect. "Me run from you?"
 
 "You do have bright moments, dark as you is."
 
-"Brother, let me tell you sump'm. If it ever even looks like I'm runnin' from you, they won't be but one explanation fo' it." Bubber paused oratorically. "Be 'cause you done outrun me so fas' you mos' caught up wid me ag'in." Wherewith he made his shot.
+"Brother, let me tell you sump'm. If it ever even looks like I'm runnin' from you, they won't be but one explanation fo' it." Bubber paused oratorically. "Be  &rsquo;cause you done outrun me so fas' you mos' caught up wid me ag'in." Wherewith he made his shot.
 
 Jinx solemnly shook his head. "It sho' would be awful hard," he said.
 
@@ -1827,7 +1827,7 @@ Jinx solemnly shook his head. "It sho' would be awful hard," he said.
 
 "Awful hard on old man Isaacs."
 
-"What you talkin' 'bout?"
+"What you talkin' &rsquo;bout?"
 
 "To lose two good men at once."
 
@@ -1837,15 +1837,15 @@ Jinx solemnly shook his head. "It sho' would be awful hard," he said.
 
 "Oh. Thass different."
 
-"------I'm go'n' have to kill you sooner or later---only way to git along with y'. And that gal is jes' 'bout ru'nt Shine---he ain' never go'n' be no mo' good."
+"------I'm go'n' have to kill you sooner or later---only way to git along with y'. And that gal is jes' &rsquo;bout ru'nt Shine---he ain' never go'n' be no mo' good."
 
-"Shuh!" scoffed the other. "She might scratch 'im a little, but ain' no gal go'n' put no deep dents in that jasper. He ain't got no place soft enough."
+"Shuh!" scoffed the other. "She might scratch &rsquo;im a little, but ain' no gal go'n' put no deep dents in that jasper. He ain't got no place soft enough."
 
-"The hell he ain't. Know where I seen 'im goi'n' to-night, dressed up like a monkey-back?"
+"The hell he ain't. Know where I seen &rsquo;im goi'n' to-night, dressed up like a monkey-back?"
 
 "Where?"
 
-"Seen 'im goin' in 'at 'Piscopal church."
+"Seen &rsquo;im goin' in &rsquo;at &rsquo;Piscopal church."
 
 Bubber stared a moment, then proceeded disgustedly with his sighting. "What d’hell you ’spect a man to believe?" he commented.
 
@@ -1855,9 +1855,9 @@ Bubber stared a moment, then proceeded disgustedly with his sighting. "What d’
 
 "I sho did."
 
-Bubber slowly shook his head. "Bye-bye, blackbird." Then, still somewhat suspicious, "Where was you when you saw 'im?"
+Bubber slowly shook his head. "Bye-bye, blackbird." Then, still somewhat suspicious, "Where was you when you saw &rsquo;im?"
 
-"Followin’ 'im. Thought he might need some help if he was out sheikin'."
+"Followin’ &rsquo;im. Thought he might need some help if he was out sheikin'."
 
 "Well, kiss my Aunt Annie's preserves!" Bubber pondered the imponderable a moment, slowly recovering his stick and most of his incredulity.
 
@@ -1865,25 +1865,25 @@ Bubber slowly shook his head. "Bye-bye, blackbird." Then, still somewhat suspici
 
 "Maybe. But, same time, ain' nuthin' to hinder her from jivin', too. And when two folks gits to jivin' each other, first thing y' know sump'm happens."
 
-"Sump'm go'n' happen awright, but 'tain' go'n' happen to *him*." Bubber resumed his survey of the balls scattered widely by Jinx's miss. "Bet I'm go'n' run off all the res'," he wagered.
+"Sump'm go'n' happen awright, but &rsquo;tain' go'n' happen to *him*." Bubber resumed his survey of the balls scattered widely by Jinx's miss. "Bet I'm go'n' run off all the res'," he wagered.
 
-Jinx, however, had become philosophical. "Jes' goes to show y'. see? There's a guy what's so big and hard he can't be had. Mos' these gals 'round hyeh tries they damnedest to make him---but he jes' don' fall. No mo'n he fell that time Spider Webb cut at him and missed and nearly got broke in two. So hard. So hard his spit bounces. Says to me---say, 'Jinx you speckled-hide awstrich you, women ain' no different from men---only worse. You gotta be tough and tight, boy. Once they see you slippin', it's yo' hiney from then on---they'll put d' locks on you and throw d' key away. But if you be hard with 'em, they ain' no trouble 'tall.' Yea. And then this one come along. She's diff'runt, see? Act all dickty 'n ev'ything. High-hats 'im. K.M. awright---but not jes' ordinary K.M.---*Dicky* K.M., see? That jes' 'bout gits 'im. He gives up without a struggle."
+Jinx, however, had become philosophical. "Jes' goes to show y'. see? There's a guy what's so big and hard he can't be had. Mos' these gals &rsquo;round hyeh tries they damnedest to make him---but he jes' don' fall. No mo &rsquo;n he fell that time Spider Webb cut at him and missed and nearly got broke in two. So hard. So hard his spit bounces. Says to me---say, 'Jinx you speckled-hide awstrich you, women ain' no different from men---only worse. You gotta be tough and tight, boy. Once they see you slippin', it's yo' hiney from then on---they'll put d' locks on you and throw d' key away. But if you be hard with &rsquo;em, they ain' no trouble &rsquo;tall.' Yea. And then this one come along. She's diff'runt, see? Act all dickty  &rsquo;n ev'ything. High-hats &rsquo;im. K.M. awright---but not jes' ordinary K.M.---*Dicky* K.M., see? That jes' &rsquo;bout gits &rsquo;im. He gives up without a struggle."
 
 "How do you know he's give' up?" Bubber's doubt persisted.
 
-"Went in d' damn church after 'er, didn' he?"
+"Went in d' damn church after &rsquo;er, didn' he?"
 
-"That ain't nothin'. I've seen women I'd go in worse places 'n that after."
+"That ain't nothin'. I've seen women I'd go in worse places  &rsquo;n that after."
 
 "Yea?"
 
 "No lie. And they wasn't near as easy to gaze on as that sister, either. Dicky---shh---that ain't got nothin' to do with it. It's that ball-bearin' movement, thass what."
 
-"Damn if it makes *him* run any smoother. One day he's good natured as a puppy-dawg, 'nother he's evil as a black cat. Never seen a man change so. She done put it on 'im all right."
+"Damn if it makes *him* run any smoother. One day he's good natured as a puppy-dawg, &rsquo;nother he's evil as a black cat. Never seen a man change so. She done put it on &rsquo;im all right."
 
 "Bet he go'n' put sump'm on her, too."
 
-"Damn 'f I believe it. She'll have 'im goin' in d' *main* door nex'. This is serious."
+"Damn  &rsquo;f I believe it. She'll have &rsquo;im goin' in d' *main* door nex'. This is serious."
 
 "So's this," said Bubber, who had meanwhile run off seven balls, unnoticed. Thereupon, mimicking perfectly, he duplicated the shot which Jinx had made earlier with such exaggerated vehemence. The ball was the last on the table, and it sped to an already full pocket eagerly, greeting its fellows with a cheerful "clack!"
 
@@ -1895,7 +1895,7 @@ Bubber looked at his victim with a grin. Jinx frowned unbelievingly at the clean
 
 "Don't call me baby!" exploded Linda.  
 
-"'Smatter? Don't you like children?"  
+"&rsquo;Smatter? Don't you like children?"  
 
 "It sounds so---common."  
 
@@ -1903,7 +1903,7 @@ Bubber looked at his victim with a grin. Jinx frowned unbelievingly at the clean
 
 "How do I know what you could mean?"  
 
-"Couldn't ever say nothin' common 'bout you. Couldn't even think it. 'Baby's' a nice name."  
+"Couldn't ever say nothin' common &rsquo;bout you. Couldn't even think it. 'Baby's' a nice name."  
 
 "Think so? Well, save it for your sweetheart."  
 
@@ -1925,11 +1925,11 @@ Here on the Drive it was cool. Occasional meandering couples passed arm in arm, 
 
 "What'd you see?"
 
-"Well, I'm lookin' for Pat myself, see? He's jes' pulled a crooked deal on me a minute before, and I'm askin' for 'im. Well, you know the crowd---only people you can find is them y' ain't lookin' for. I'm standin' at the foot o' the stairs lookin' for that gray suit. Finally I sees it 'way across the floor---and damn if the sleeves ain't 'round your waist."
+"Well, I'm lookin' for Pat myself, see? He's jes' pulled a crooked deal on me a minute before, and I'm askin' for &rsquo;im. Well, you know the crowd---only people you can find is them y' ain't lookin' for. I'm standin' at the foot o' the stairs lookin' for that gray suit. Finally I sees it &rsquo;way across the floor---and damn if the sleeves ain't &rsquo;round your waist."
 
 "Stop swearing------"
 
-"That sort o' cramps my style, see? Don' want to mix you up in anything. But I got to have some o' Patmore. So I'm standin' there wonderin' what the top card is and lookin' at you. Then I see you don' look so good---kinda like a kitten some rough kid won't turn loose. Turnin' y' head this way and d' other way and sorter pullin' 'way from this bird even though y' keep on dancin'. And I smoke *him* over, and he's grinnin' like a Chess-cat with a mouse---a nice young tender mouse, see what I mean? Well, I've seen that grin before, and I know it like I know my landlady's. Only, any time I see a guy grin like that before, I jes' feel kinda sorry for 'im f' bein' such a sap. This time I ain't sorry. That same grin turns me cold."
+"That sort o' cramps my style, see? Don' want to mix you up in anything. But I got to have some o' Patmore. So I'm standin' there wonderin' what the top card is and lookin' at you. Then I see you don' look so good---kinda like a kitten some rough kid won't turn loose. Turnin' y' head this way and d' other way and sorter pullin' &rsquo;way from this bird even though y' keep on dancin'. And I smoke *him* over, and he's grinnin' like a Chess-cat with a mouse---a nice young tender mouse, see what I mean? Well, I've seen that grin before, and I know it like I know my landlady's. Only, any time I see a guy grin like that before, I jes' feel kinda sorry for &rsquo;im f' bein' such a sap. This time I ain't sorry. That same grin turns me cold."
 
 He paused so long that she urged him on. "You didn't stay cold long."
 
@@ -1947,11 +1947,11 @@ He paused so long that she urged him on. "You didn't stay cold long."
 
 "I did."
 
-"Seen 'im since?" she asked.
+"Seen &rsquo;im since?" she asked.
 
-"No. That's why I want the dope. When I crown 'im I want to tell 'im exactly what he's king of."
+"No. That's why I want the dope. When I crown &rsquo;im I want to tell &rsquo;im exactly what he's king of."
 
-"You mustn't bother 'im---let 'im alone."
+"You mustn't bother &rsquo;im---let &rsquo;im alone."
 
 "I got a picture o' myself lettin' any guy alone that gets fly with my girl."
 
@@ -1977,11 +1977,11 @@ She averted her face to hide her smile. "I couldn't have been your---anything---
 
 "Well, you needn't think------"
 
-"And now *that* storm is over, how 'bout the dope?"
+"And now *that* storm is over, how &rsquo;bout the dope?"
 
 "What dope?"
 
-"What 'd Pat say?"
+"What &rsquo;d Pat say?"
 
 She was silent a long time. The lights of a homeward bound excursion boat broke through the river’s moonlit smile, but when the ship had passed, the smile was still ironically there. Wraiths of music and laughter drifted shoreward.
 
@@ -1997,7 +1997,7 @@ She was silent a long time. The lights of a homeward bound excursion boat broke 
 
 "The Sunday School boys you was dancin' with?"
 
-"No! The girls I came with. I asked them about the prizes and nobody knew anything about 'em. But I wasn't sure and I didn't want to offend him if he was telling the truth. So instead of asking him right out, I said, 'I thought you told me there were going to be prizes,' just as if I'd already found out there wasn't. And all he did was to grin with all those brass teeth of his. That made me mad, and I told him what I thought of anybody that would do anything like that---and------"
+"No! The girls I came with. I asked them about the prizes and nobody knew anything about &rsquo;em. But I wasn't sure and I didn't want to offend him if he was telling the truth. So instead of asking him right out, I said, 'I thought you told me there were going to be prizes,' just as if I'd already found out there wasn't. And all he did was to grin with all those brass teeth of his. That made me mad, and I told him what I thought of anybody that would do anything like that---and------"
 
 "Yea?"
 
@@ -2036,17 +2036,17 @@ This profile only stated the motif on which Mrs. Fuller as a whole was composed.
 
 Out of the midst of this there escaped on occasion, an asthmatic wheeze. This confab was such an occasion, and it revealed at once that the asthma in no wise discouraged Mrs. Fuller's flow of language.
 
-"Yes, indeed, chile. Any time you want anything like that jes' come right on over and get it---we always has plenty ev'ything on hand. Thass one thing about Mr. Merrit---he sho believes in eatin'. Reckon thass why he so thin. And it makes him mad as a wet hen to run out'n anything and thass why I always has plenty ev'ything on hand. So anytime you run out, jes' come on over and I'll trust you to keep 'count o' ev'ything you get." She fanned her shining round brown face with a limp dishcloth and smiled as she paused for breath. The smile revealed a shining row of white teeth, each of them just half a circle.
+"Yes, indeed, chile. Any time you want anything like that jes' come right on over and get it---we always has plenty ev'ything on hand. Thass one thing about Mr. Merrit---he sho believes in eatin'. Reckon thass why he so thin. And it makes him mad as a wet hen to run out &rsquo;n anything and thass why I always has plenty ev'ything on hand. So anytime you run out, jes' come on over and I'll trust you to keep &rsquo;count o' ev'ything you get." She fanned her shining round brown face with a limp dishcloth and smiled as she paused for breath. The smile revealed a shining row of white teeth, each of them just half a circle.
 
 "It's nice here," Linda observed, looking about.
 
-"'Deed it is. And Mr. Merrit's such a nice man to work fo'. 'Cose he have his big times and so on, and he like his toddy now'n then a little too good, and ev'y once in a while he gets tied up with some woman 'nother, but 'cose thass natural, him bein' a bachelor and havin' so much money. I jes' shets my eyes and says nothin', 'cause 'tain't none  my business, and he ain' never said nothin' out the way to *me*, y' understand, so I jes' do my work and go on. You know how 'tis---you mus' see and don' see." There was another reluctant pause.
+"&rsquo;Deed it is. And Mr. Merrit's such a nice man to work fo'. &rsquo;Cose he have his big times and so on, and he like his toddy now &rsquo;n then a little too good, and ev'y once in a while he gets tied up with some woman &rsquo;nother, but &rsquo;cose thass natural, him bein' a bachelor and havin' so much money. I jes' shets my eyes and says nothin',  &rsquo;cause &rsquo;tain't none  my business, and he ain' never said nothin' out the way to *me*, y' understand, so I jes' do my work and go on. You know how &rsquo;tis---you mus' see and don' see." There was another reluctant pause.
 
 "Indeed so," agreed Linda, already somewhat apprehensive at the conflict in Mrs. Fuller's speech. It appeared that while Mrs. Fuller's labored respiration sought to shorten her sentences, her sentences had a will of their own and simply refused to be shortened. Linda already found herself drawing deep sympathetic, but wholly useless breaths.
 
-"'Cose there's a lot o' folks what don' like to work fo' colored, I understand that, and I don' know as I would myse'f if it had to be some these uppity colored women what ain' never been used to nothin' and jes' now got sump'n and think they so much mo' n' eve'ybody else. Take fo' 'n instant that Sarah Bell Long, what's always ridin' 'round in Cornelia Bond's auto. I knowed her when she was a baby---knowed her father and mother before 'er. Neither one of 'em wasn't nothin'. Ole man Bell run a saloon in Augusta till he made enough to buy up half the black belt; then he retired, got religious, gave d' church a lot o' money and got hisse'f preached into d' kingdom and his wife along with 'im. Then this Sarah gal married this young doctor---least, he was then---and set him up in business, and when they got tired livin' down there 'cause some them women liked his treatment too well, why they up and comes to New York. And havin' plenty money natchelly they starts right out at the top. But I always say the top ain' but a little way from the bottom---can't be---'tain' been risin' long enough. And ain' none of us so much better'n the rest of us that we can afford to get uppity 'bout it------And thass why I jes' couldn' stand workin' 'round nobody that act that way. Ain' no sense in it. But Mr. Fred ain' like that. Ain' nobody in Harlem got no better things 'n Mr. Fred is, and some them things up in the country he brought back with 'im all the way from Europe and France and them places 'way yonder 'cross the water. You'll see 'em when they get hyeh---he always have 'em sent in town fo' the winter. An ain' nobody in New York got nothin' no better, but it don't turn his head none. Look like he jes' buy things to spend his money on and when he get 'em that ends it. All 'ceptin' one thing---a picture of his mother. Least, I think it mus' be his mother, though he ain' never tole me so, but he stands and looks at that picture fo' hours at a time, seems like. I b'lieve 'twould near 'bout kill 'im to lose it. But he sho' is a nice man to work fo'---don' never bother you 'bout nothin'."
+"&rsquo;Cose there's a lot o' folks what don' like to work fo' colored, I understand that, and I don' know as I would myse &rsquo;f if it had to be some these uppity colored women what ain' never been used to nothin' and jes' now got sump &rsquo;n and think they so much mo' n' eve'ybody else. Take fo'  &rsquo;n instant that Sarah Bell Long, what's always ridin' &rsquo;round in Cornelia Bond's auto. I knowed her when she was a baby---knowed her father and mother before &rsquo;er. Neither one of  &rsquo;em wasn't nothin'. Ole man Bell run a saloon in Augusta till he made enough to buy up half the black belt; then he retired, got religious, gave d' church a lot o' money and got hisse &rsquo;f preached into d' kingdom and his wife along with &rsquo;im. Then this Sarah gal married this young doctor---least, he was then---and set him up in business, and when they got tired livin' down there  &rsquo;cause some them women liked his treatment too well, why they up and comes to New York. And havin' plenty money natchelly they starts right out at the top. But I always say the top ain' but a little way from the bottom---can't be---'tain' been risin' long enough. And ain' none of us so much better &rsquo;n the rest of us that we can afford to get uppity &rsquo;bout it------And thass why I jes' couldn' stand workin' &rsquo;round nobody that act that way. Ain' no sense in it. But Mr. Fred ain' like that. Ain' nobody in Harlem got no better things  &rsquo;n Mr. Fred is, and some them things up in the country he brought back with &rsquo;im all the way from Europe and France and them places &rsquo;way yonder &rsquo;cross the water. You'll see  &rsquo;em when they get hyeh---he always have  &rsquo;em sent in town fo' the winter. An ain' nobody in New York got nothin' no better, but it don't turn his head none. Look like he jes' buy things to spend his money on and when he get  &rsquo;em that ends it. All &rsquo;ceptin' one thing---a picture of his mother. Least, I think it mus' be his mother, though he ain' never tole me so, but he stands and looks at that picture fo' hours at a time, seems like. I b'lieve &rsquo;twould near &rsquo;bout kill &rsquo;im to lose it. But he sho' is a nice man to work fo'---don' never bother you &rsquo;bout nothin'."
 
-Linda decided it would be less exhausting to do some of the talking herself. She hastened to inject at this pause, "I should think it would be nice, working for a man, anyhow. Bet he isn't fussy 'n' everything like an old woman---specially an old maid. Gee!"
+Linda decided it would be less exhausting to do some of the talking herself. She hastened to inject at this pause, "I should think it would be nice, working for a man, anyhow. Bet he isn't fussy &rsquo;n' everything like an old woman---specially an old maid. Gee!"
 
 "Yo' madam ain' never had a husband of her own?"
 
@@ -2070,15 +2070,15 @@ Linda saw that the way to prevent Mrs. Fuller from talking herself to death was 
 
 "Then what?" Linda could sense that Mrs. Fuller was merely nosing for an opening through which she could break for a long unobstructed run of speech.
 
-"She found out that your boss was a jig, and it put her in bed for three weeks. I didn’t know what the trouble was till last night and I heard her talking to this Baltimore woman. The way she’s carrying on you’d think the house had turned to a hospital for small-pox. 'Deed it wouldn’t surprise me to see it burnt down any time.”
+"She found out that your boss was a jig, and it put her in bed for three weeks. I didn’t know what the trouble was till last night and I heard her talking to this Baltimore woman. The way she’s carrying on you’d think the house had turned to a hospital for small-pox. &rsquo;Deed it wouldn’t surprise me to see it burnt down any time.”
 
 “What you mean, chile?”
 
-“Well, you know how much fays like to have jigs move in next door to 'em.”
+“Well, you know how much fays like to have jigs move in next door to &rsquo;em.”
 
 “Deed I do. I remember years ago------”
 
-“Specially if it’s a nice neighborhood. They’d do most anything to get 'em out. Look at what they did to that man in Staten Island last fall. Ku-Kluxed him. It was even in the fay papers, how they burnt the man’s house down while he was out. I believe Miss Cramp is wild enough to do the self-same thing---or have it done.”
+“Specially if it’s a nice neighborhood. They’d do most anything to get  &rsquo;em out. Look at what they did to that man in Staten Island last fall. Ku-Kluxed him. It was even in the fay papers, how they burnt the man’s house down while he was out. I believe Miss Cramp is wild enough to do the self-same thing---or have it done.”
 
 “Have it done---how you mean?”
 
@@ -2098,11 +2098,11 @@ Linda saw that the way to prevent Mrs. Fuller from talking herself to death was 
 
 "No!"
 
-"It was in The Black Issue---oh, a long time ago now. Man bought a house on One Hundred Forty-ninth Street and they dared him to move in. Sent letters and all. But he went on in. And less'n a week after he moved in, they blew him out---bajoey!---just like that."
+"It was in The Black Issue---oh, a long time ago now. Man bought a house on One Hundred Forty-ninth Street and they dared him to move in. Sent letters and all. But he went on in. And less &rsquo;n a week after he moved in, they blew him out---bajoey!---just like that."
 
 "Well I never in all my life!"
 
-"'Deed they did. And Miss Cramp is worried and mad and everything. You ought to 've heard her last night talking to this southern woman."
+"Deed they did. And Miss Cramp is worried and mad and everything. You ought to &rsquo;ve heard her last night talking to this southern woman."
 
 Linda decidedly had the floor now and she did not intend to relinquish it.
 
@@ -2168,7 +2168,7 @@ Linda decidedly had the floor now and she did not intend to relinquish it.
 
 "'He will here though,' Miss Cramp says. 'And if he does, I declare I’ll move out. I couldn’t bear the shame.'
 
-"'Thought you so anxious t' uplift 'em?' Irene says, and I nearly split.
+"'Thought you so anxious t' uplift &rsquo;em?' Irene says, and I nearly split.
 
 "'Well,' answers Agatha, 'it's one thing to help them and quite another to live beside them as equals. And to have everyone in the street blaming me---I simply couldn't bear it.'
 
@@ -2196,15 +2196,15 @@ The oppression of Mrs. Fuller's compulsory silence together with the emotions ex
 
 "Ain't you got------" Mrs. Fuller stopped short, struck with a notion. The notion flowered into an idea. She grinned a half-moon grin, scalloped with tiny lesser half-moons, drew breath prodigiously, and delivered herself:
 
-"Chile, I’m go’n need a maid right hyeh. I done told Mr. Merrit already, and he say soon’s he come in town it’d be all right. Y’see we been livin’ in a 'partment all along and 'twasn’t but six rooms and I could take care of everything with a little day help, but now with all this house it’s go’n’ be too much for one pair of hands to tend too much fo' me and I don' feel none too good nohow so Mr. Merrit say it'll be fine and to get a good girl and make sho' she ain't too ugly 'cause he didn' want his stomach turned, and bless my soul if I ain't forgot all about it till this very minute. Now if you ain' got no objection to workin' fo' y'own people, he's a fine man to work fo' and 'll never give you no trouble---least, not about yo' work. 'Cose you kinda pretty fo' a maid, but I reckon you can take good care o' yo'se'f, and anyhow he's a gen'leman. So hyeh's a job ready and waitin' fo' you if you want it."
+"Chile, I’m go’n need a maid right hyeh. I done told Mr. Merrit already, and he say soon’s he come in town it’d be all right. Y’see we been livin’ in a &rsquo;partment all along and &rsquo;twasn’t but six rooms and I could take care of everything with a little day help, but now with all this house it’s go’n’ be too much for one pair of hands to tend too much fo' me and I don' feel none too good nohow so Mr. Merrit say it'll be fine and to get a good girl and make sho' she ain't too ugly  &rsquo;cause he didn' want his stomach turned, and bless my soul if I ain't forgot all about it till this very minute. Now if you ain' got no objection to workin' fo' y'own people, he's a fine man to work fo' and &rsquo;ll never give you no trouble---least, not about yo' work. &rsquo;Cose you kinda pretty fo' a maid, but I reckon you can take good care o' yo'se'f, and anyhow he's a gen'leman. So hyeh's a job ready and waitin' fo' you if you want it."
 
 "How much?" said Linda. "I'm getting eighteen---that's pretty good, you know."
 
-"Shuh, chile, he'd give you twenty---jes' to be givin' you mo'n you been gettin'. He pays me twenty-five---and says it's a heap cheaper'n marryin', but I jes' tells 'im he needn' hint at me like that 'cause they's some things he couldn' pay me to do------"
+"Shuh, chile, he'd give you twenty---jes' to be givin' you mo &rsquo;n you been gettin'. He pays me twenty-five---and says it's a heap cheaper &rsquo;n marryin', but I jes' tells &rsquo;im he needn' hint at me like that  &rsquo;cause they's some things he couldn' pay me to do------"
 
 "Twenty dollars!"
 
-"Sho, chile. All I got to do is tell 'im------"
+"Sho, chile. All I got to do is tell &rsquo;im------"
 
 Linda jumped up. "You mean it?"
 
@@ -2220,13 +2220,13 @@ This time Mrs. Fuller stopped breathing altogether. "Do which?"
 
 Linda was afraid she had made the wrong move here, but it was too late to change. She nodded with exaggerated vigor.
 
-"Glory be!" was Mrs. Fuller's surprising comment. "Glad to see it, chile, glad to see it. Does me good to see one our young girls what wants to better herse'f. Our girls ain't got no ambition, no ambition 'tall, 'ceptin' to go on the stage or dance in a cabaret or some such thing as that."
+"Glory be!" was Mrs. Fuller's surprising comment. "Glad to see it, chile, glad to see it. Does me good to see one our young girls what wants to better herse'f. Our girls ain't got no ambition, no ambition &rsquo;tall, &rsquo;ceptin' to go on the stage or dance in a cabaret or some such thing as that."
 
 There followed a lengthy dissertation on the laziness of "our" girls, to which Linda listened, eagerly impatient. Finally Mrs. Fuller perorated with:
 
-"Deed, chile, that's fine and I'm glad to see it and I'll help you all I can---you can get off mos' every night---and I bet Mr. Fred'll give you all the encouragement in the world---and maybe one them typewritin' things to boot. Well, want to try it? You can start soon's he get back. How 'bout it?"
+"Deed, chile, that's fine and I'm glad to see it and I'll help you all I can---you can get off mos' every night---and I bet Mr. Fred'll give you all the encouragement in the world---and maybe one them typewritin' things to boot. Well, want to try it? You can start soon's he get back. How &rsquo;bout it?"
 
-"How 'bout it?" Linda exulted. "How 'bout it?---Oh boy!"
+"How &rsquo;bout it?" Linda exulted. "How &rsquo;bout it?---Oh boy!"
 
 
 ## XVI
@@ -2250,13 +2250,13 @@ He told it to Jinx and Bubber later, and told it with great accuracy:
 
 "It was all about a bird named Joshua---a great battler some years back. A general, see? Led his own army, and how! This bunch could lick anything that marked time, see?
 
-"Well, this Joshua thought he was the owl's bowels, till one day he run up against a town named Jericho. Town------ This place was a flock o' towns. It was the same thing to that part o' the country that New York is to this. It was the works. Without it the rest of the outfit jes' simply couldn't go 'round.
+"Well, this Joshua thought he was the owl's bowels, till one day he run up against a town named Jericho. Town------ This place was a flock o' towns. It was the same thing to that part o' the country that New York is to this. It was the works. Without it the rest of the outfit jes' simply couldn't go &rsquo;round.
 
-"But try and get in. This burg has walls around it so thick that the gals could have their jazz-houses on top---not a bad idea at all: if a tight Oscar held out on 'em, they could jes' let him out on the wrong side o' the wall. And here this red hot papa, Joshua, who’s never had his damper turned down yet---here he is up against that much wall---and the damn thing don't budge.
+"But try and get in. This burg has walls around it so thick that the gals could have their jazz-houses on top---not a bad idea at all: if a tight Oscar held out on &rsquo;em, they could jes' let him out on the wrong side o' the wall. And here this red hot papa, Joshua, who’s never had his damper turned down yet---here he is up against that much wall---and the damn thing don't budge.
 
-"Now comes the castor oil---the part that’s hard to swaller but that does you good if y’ do. Joshua asks the Lord what the hell to do about this wall. And the Lord says, 'Josh, you’re my boy, see? You do jes' what I tell you and them walls 'll fall so hard they'll make a hole in the ground.' 'Spill it,' agrees Josh, and the schemes is un-shum.
+"Now comes the castor oil---the part that’s hard to swaller but that does you good if y’ do. Joshua asks the Lord what the hell to do about this wall. And the Lord says, 'Josh, you’re my boy, see? You do jes' what I tell you and them walls &rsquo;ll fall so hard they'll make a hole in the ground.' 'Spill it,' agrees Josh, and the schemes is un-shum.
 
-"Take it or leave it, this crack army o' Joshua's don't do a damn thing but walk around that wall once a day for a week---Monday, Tuesday, Wednesday, Thursday, Friday, Saturday too. Jes' walk around, blowin' horns. On Sunday they walk around seven times and on the last go 'round, the way they blow on them horns is too bad, Jim. Sounds like a flock of steam-boats lost in a fog.
+"Take it or leave it, this crack army o' Joshua's don't do a damn thing but walk around that wall once a day for a week---Monday, Tuesday, Wednesday, Thursday, Friday, Saturday too. Jes' walk around, blowin' horns. On Sunday they walk around seven times and on the last go &rsquo;round, the way they blow on them horns is too bad, Jim. Sounds like a flock of steam-boats lost in a fog.
 
 "Then every son-of-a-gun and his brother unhitches a hell of a whoop---and---take it or leave it---that wall comes tumblin' down same as if it was trained. Dynamite couldn't a done it no better. The birds on the inside have been laffin' at Joshua for a week---damn fool tryin' to blow a wall down, tootin' a few horns. The brass-band army. Huh---but now they ain't even got time to pull up their pants, and what happens to their hinies is a sad, sad story, no lie."
 
@@ -2313,7 +2313,7 @@ But Shine and Linda had issues of their own to decide.
 
 He grinned. “Who was the guy ahead o’ me?”
 
-And she answered with merry eyes, “There wasn’t any. You’re the first one. I’m talking 'bout the one that’ll come next.”
+And she answered with merry eyes, “There wasn’t any. You’re the first one. I’m talking &rsquo;bout the one that’ll come next.”
 
 “Hope I don’t have to spank nobody ’bout you,” he said gravely.
 
@@ -2335,7 +2335,7 @@ And she answered with merry eyes, “There wasn’t any. You’re the first one.
 
 "Really?"
 
-"No lie. She's right, what I mean. All 'cept one thing."
+"No lie. She's right, what I mean. All &rsquo;cept one thing."
 
 "Yes?"
 
@@ -2343,7 +2343,7 @@ And she answered with merry eyes, “There wasn’t any. You’re the first one.
 
 "I am not!"
 
-"Who's talkin' 'bout you? Girl I mean ain' nothin' like you. This girl likes to go to church a lot and it's near 'bout ruint her. She's jes' as evil and tight and hard to get along with as all d' other church folks."
+"Who's talkin' &rsquo;bout you? Girl I mean ain' nothin' like you. This girl likes to go to church a lot and it's near &rsquo;bout ruint her. She's jes' as evil and tight and hard to get along with as all d' other church folks."
 
 "That isn't true!"
 
@@ -2359,7 +2359,7 @@ And she answered with merry eyes, “There wasn’t any. You’re the first one.
 
 "Do you mean you don't believe in church?"
 
-"Ain't talkin' 'bout church. Talkin' 'bout folks. 'Tain't the church that makes the folks, it's the folks that makes the church. Only trouble with church is, folks ain't no 'count. All time kiddin' themselves, jes' like the man said this mornin’. He’s right. Take my girl. My girl kids herself sump’m terrible. She thinks she's the hardheartedest Hannah that ever poured water on a drownin' man. But she ain't. Naw. Say, she's soft as a baby."
+"Ain't talkin' &rsquo;bout church. Talkin' &rsquo;bout folks. &rsquo;Tain't the church that makes the folks, it's the folks that makes the church. Only trouble with church is, folks ain't no &rsquo;count. All time kiddin' themselves, jes' like the man said this mornin’. He’s right. Take my girl. My girl kids herself sump’m terrible. She thinks she's the hardheartedest Hannah that ever poured water on a drownin' man. But she ain't. Naw. Say, she's soft as a baby."
 
 "Is that so?"
 
@@ -2375,7 +2375,7 @@ Linda sniffed and changed the subject. "I'm going to change my job."
 
 "Never tried---haven't had a chance. I was in the Home till I was sixteen and I've been in service these other two years."
 
-"Well you're lucky. Where you go'n work now?"
+"Well you're lucky. Where you go &rsquo;n work now?"
 
 "Right on the same street. For a man named Merrit."
 
@@ -2419,7 +2419,7 @@ Linda sniffed and changed the subject. "I'm going to change my job."
 
 They had turned west, leaving Seventh Avenue, and were now entering progressively quieter neighborhoods.
 
-"But I've got to take it. I talked with his housekeeper, and she said I could probably go to night school 'n everything. In a little while I could get a job in an office.”
+"But I've got to take it. I talked with his housekeeper, and she said I could probably go to night school  &rsquo;n everything. In a little while I could get a job in an office.”
 
 “And turn dickty.”
 
@@ -2451,7 +2451,7 @@ In astonishment he stopped to stare at her. The expression of mingled amusement,
 
 He had an impulse to catch her up and kiss her right there, on the street corner oblivious to broad daylight and possible observation. Had he done so, spontaneously, on the crest of that emotional wave, the result would doubtless have been different. But the old habit of hardness, which for the instant he had almost escaped, promptly clamped itself down on his exuberance and distorted his natural impulse into a presumably safer substitute. Every act must be sentimentally airtight. The device he adopted to make this one so, lost for them both that surging moment to which the girl would have responded.
 
-"Ain't it somewhere in the Bible sump'm 'bout turnin' th' other cheek?"
+"Ain't it somewhere in the Bible sump'm &rsquo;bout turnin' th' other cheek?"
 
 Puzzled, her own spell broken, she answered, "You mean---if a man smite you on one cheek, turn him the other also?"
 
@@ -2483,11 +2483,11 @@ Jinx started it:
 
 “Didn’t I tell y’?”
 
-“You ain't tole me nuthin'---and if you did, it 'twasn’t nuthin’ nohow.”
+“You ain't tole me nuthin'---and if you did, it &rsquo;twasn’t nuthin’ nohow.”
 
-“I tole you------” Jinx spaced his words for emphasis, "that nex' thing we knew she'd have 'im goin' in d' main door of d' church---and whut 'd you say? 'Aw no. Ain' no gal goin' do nuthin' like that to *that* boogy. Hard boogy, he is.' Thass whut you said. Yea. And look. He comes in and tells us ev'ything d' damn preacher said. Don' leave out nuthin'."
+“I tole you------” Jinx spaced his words for emphasis, "that nex' thing we knew she'd have &rsquo;im goin' in d' main door of d' church---and whut &rsquo;d you say? 'Aw no. Ain' no gal goin' do nuthin' like that to *that* boogy. Hard boogy, he is.' Thass whut you said. Yea. And look. He comes in and tells us ev'ything d' damn preacher said. Don' leave out nuthin'."
 
-"That don' prove he went in d' main door," argued Bubber with overacted patience. "He could 'a' come down through d' skylight f' all I know."
+"That don' prove he went in d' main door," argued Bubber with overacted patience. "He could &rsquo;a' come down through d' skylight f' all I know."
 
 "Like a big black angel, I s'pose?" said Jinx and grinned with surrounding laughter.
 
@@ -2495,19 +2495,19 @@ Jinx started it:
 
 Jinx grew sombre. "That's d' trouble with a li'l round black hippo like you. All give and no take. When you kid me I kin take it. When I kid you you can't."
 
-"You don' seem to be taken' that so good," said Bubber. "Don' nobody git no madder'n you do."
+"You don' seem to be taken' that so good," said Bubber. "Don' nobody git no madder &rsquo;n you do."
 
-"No?---look at y' now. 'Bout to bus' open and spatter d' whole bar room with ink."
+"No?---look at y' now. &rsquo;Bout to bus' open and spatter d' whole bar room with ink."
 
 "I kin remember," Bubber returned, "when you didn't act like nobody's long lost brother. Never will fo'get that night you got so mad you started slippin' me in d' dozens."
 
 This was approaching dangerous ground, this reference to their own reactions. To quarrel over subjects in general was bad enough; to quarrel over each other might be disastrous. It brought them closer to the truth about themselves, yet not quite close enough; it did not reach the actual sore, it only lifted off the scab.
 
-"Well you oughter been slipped," Jinx said. "Any bird can't take kiddin' no better'n that needs to be kidded and kidded hard."
+"Well you oughter been slipped," Jinx said. "Any bird can't take kiddin' no better &rsquo;n that needs to be kidded and kidded hard."
 
 The customary comments accompanied this discourse:
 
-"Tell 'em 'bout it!"
+"Tell  &rsquo;em &rsquo;bout it!"
 
 "That means fight in my home."
 
@@ -2515,13 +2515,13 @@ The customary comments accompanied this discourse:
 
 "They jes' foolin'. If they meant it they'd both be laid by now."
 
-"Me, I'm bettin' on Long Boy. He'll wrap hisself 'round Squatty and squeeze all th' ambition out'n 'im."
+"Me, I'm bettin' on Long Boy. He'll wrap hisself &rsquo;round Squatty and squeeze all th' ambition out &rsquo;n &rsquo;im."
 
 Bubber challenged, "Well---you better not slip me ag'in."
 
-"No?" said Jinx like a small boy who has been dared to knock off the chip. "No? Well---yo' granddaddy was a mule------ Now---what you got to say 'bout that?"
+"No?" said Jinx like a small boy who has been dared to knock off the chip. "No? Well---yo' granddaddy was a mule------ Now---what you got to say &rsquo;bout that?"
 
-Bubber said nothing. Instead he moved toward Jinx with surprising ease and mysterious rapidity and suddenly Jinx doubled forward from the force of an almost invisible blow to the midriff. "What *you* go'n say 'bout *that*?" Bubber asked, looking belligerently up into Jinx's astounded face.
+Bubber said nothing. Instead he moved toward Jinx with surprising ease and mysterious rapidity and suddenly Jinx doubled forward from the force of an almost invisible blow to the midriff. "What *you* go &rsquo;n say &rsquo;bout *that*?" Bubber asked, looking belligerently up into Jinx's astounded face.
 
 Not quite certain whether this was serious or make-believe, Jinx reached mechanically forward and gathered Bubber's neck and shoulders in an embrace usually reserved for pianos. Failing to twist himself free, Bubber began swinging away at the other's kidneys, and in a moment the tussle removed from the atmosphere all suggestion of possible jest.
 
@@ -2541,11 +2541,11 @@ But before either could damage the other, Pat, who was an excellent manager and 
 
 "He been cryin' fo' it---now he gon' git it," vowed the other.
 
-"Not here he ain't," Pat decided. "Look," he pointed, "Y'all see that door? All right. I told y' once before the nex' time you wanted to settle sump'n I was go'n put you in the cellar and let the best man come up." He strode to the door, unlocked and opened it, and pressed a button. "Come on, if you mean it------ Come on."
+"Not here he ain't," Pat decided. "Look," he pointed, "Y'all see that door? All right. I told y' once before the nex' time you wanted to settle sump &rsquo;n I was go &rsquo;n put you in the cellar and let the best man come up." He strode to the door, unlocked and opened it, and pressed a button. "Come on, if you mean it------ Come on."
 
 Neither was willing to admit that he did not mean it, and in another moment the gaping bystanders saw them disappear through the cellar door, which Pat promptly closed behind them.
 
-"Well, what do y' know 'bout that?"
+"Well, what do y' know &rsquo;bout that?"
 
 "Ain't this a dog?"
 
@@ -2598,7 +2598,7 @@ It seemed an endless time, but nobody's eyes left the door for long. Stories sug
 
 Pat was called away from his post by some duty in the pool room. He made sure the cellar door was locked and went about his business, promising to return in time for the rest of the fun.
 
-Another long wait followed------ Hear anything? Not a damn thing. Fools must'a gone down there and kilt each other. Remember the night Sam Tyler and Joe West got hooked up? Yea. Waitin', they was, in the same hotel. The head waiter give Sam a check that should 'a' been Joe's, so Joe was sore to start with. Well the man ordered Washington pie, see? You know---that white stuff with whoop' cream all over it. And Sam brought *chocoate* pie by mistake. So the fay man looked up at Sam, he did, and turned up his nose, like, and says, "Waiter, I ordered George. You've brought me Booker." Well, Joe heard it and when he got through kiddin' Sam 'bout it, 'twasn't nothin' left for 'em to do but fight. Brother, I mean, neither one of 'em ever got over that scrap.---Judas Priest---it's been three-quarters of an hour! Nary a sound. Better get Pat---thought he was coming back so soon? He was, but he got in a argument with Boody Mullins over a protection-fee. Well, let's go get him for Chris' sake---them two damn fools may be tricklin' all over the floor by now. ...
+Another long wait followed------ Hear anything? Not a damn thing. Fools must'a gone down there and kilt each other. Remember the night Sam Tyler and Joe West got hooked up? Yea. Waitin', they was, in the same hotel. The head waiter give Sam a check that should &rsquo;a' been Joe's, so Joe was sore to start with. Well the man ordered Washington pie, see? You know---that white stuff with whoop' cream all over it. And Sam brought *chocoate* pie by mistake. So the fay man looked up at Sam, he did, and turned up his nose, like, and says, "Waiter, I ordered George. You've brought me Booker." Well, Joe heard it and when he got through kiddin' Sam &rsquo;bout it, &rsquo;twasn't nothin' left for  &rsquo;em to do but fight. Brother, I mean, neither one of  &rsquo;em ever got over that scrap.---Judas Priest---it's been three-quarters of an hour! Nary a sound. Better get Pat---thought he was coming back so soon? He was, but he got in a argument with Boody Mullins over a protection-fee. Well, let's go get him for Chris' sake---them two damn fools may be tricklin' all over the floor by now. ...
 
 ::: small-break
 :::
@@ -2626,7 +2626,7 @@ Scowling, Pat stepped forward, seized Jinx's shoulder, shook him, called him, pu
 
 Somebody now searched Bubber for a weapon, and somebody else said Pat had gone to find it. Periodically a spasmodic shudder almost jerked Jinx off his chair. Nobody seemed to know what to do, everyone was helpless.
 
-"Must a strangled 'im, huh?"
+"Must a strangled &rsquo;im, huh?"
 
 "Seem like it---chokes off his breath."
 
@@ -2677,13 +2677,13 @@ The question was settled by uproarious but careful navigation of a steep side ro
 
 Eventually, in spite of all Mrs. Fuller said, the load was on, each piece swaddled partly in quilting, and partly in that lady's verbiage, which seemed to hover about it long after Bess was headed back toward:
 
-"Yes---that goes---that's a picture of his mother---the onliest one he's got, so be awful careful. I know he'd die if he lost it. Take care o' that if you lose all the rest. Now be careful---you'll never care how you handle things and them table laigs'll snap off if you sneeze at 'em---that's a genuine redwood table and you know them's expensive---look out f' that vase!---the way y'all handle things, anybody'd know they wasn't yourn. Chile, that vase cost mo' 'n yo' foot---if it break yo' foot yo' foot'll git well, but if yo' foot break *it*---yes---them's chests and y' needn't think they ain't valuable and that you can scrape 'em up bad as you please jes' because they ain't go not paint on 'em and got the hinges on th' outside; they come from Siam or some them places Mr. Fred was where the folks is all colored but won't admit it and you carry 'em by puttin' two broomsticks through the sides, but deed I ain't got no broomsticks f' y'all to scratch up and break---they have their own kings and queens and ev'rything jes' like in the Bible, only I say colored folks ain't got no business tryin' to act white 'cause it always gets 'em into trouble---where's that other boy---that big one come with y'all? Why don't he turn in and help?---he's big enough---ought to be 'shamed o' hisse'f lettin' y'all do all the work------ Ain't we been had the worst summer rainin' ev'ry day and look like it always had to ketch me outdoors with nothin' on my head and you know what happens to this kind o' hair when it gets wet------"
+"Yes---that goes---that's a picture of his mother---the onliest one he's got, so be awful careful. I know he'd die if he lost it. Take care o' that if you lose all the rest. Now be careful---you'll never care how you handle things and them table laigs'll snap off if you sneeze at &rsquo;em---that's a genuine redwood table and you know them's expensive---look out f' that vase!---the way y'all handle things, anybody'd know they wasn't yourn. Chile, that vase cost mo'  &rsquo;n yo' foot---if it break yo' foot yo' foot'll git well, but if yo' foot break *it*---yes---them's chests and y' needn't think they ain't valuable and that you can scrape  &rsquo;em up bad as you please jes' because they ain't go not paint on  &rsquo;em and got the hinges on th' outside; they come from Siam or some them places Mr. Fred was where the folks is all colored but won't admit it and you carry  &rsquo;em by puttin' two broomsticks through the sides, but deed I ain't got no broomsticks f' y'all to scratch up and break---they have their own kings and queens and ev'rything jes' like in the Bible, only I say colored folks ain't got no business tryin' to act white  &rsquo;cause it always gets  &rsquo;em into trouble---where's that other boy---that big one come with y'all? Why don't he turn in and help?---he's big enough---ought to be &rsquo;shamed o' hisse &rsquo;f lettin' y'all do all the work------ Ain't we been had the worst summer rainin' ev'ry day and look like it always had to ketch me outdoors with nothin' on my head and you know what happens to this kind o' hair when it gets wet------"
 
-"Whew-ee!" heaved Bubber. "Damn 'f that woman can't talk d' spots off d' dice."
+"Whew-ee!" heaved Bubber. "Damn  &rsquo;f that woman can't talk d' spots off d' dice."
 
-"No lie. I ain't got my breath back yet---jes' listenin' to 'uh."
+"No lie. I ain't got my breath back yet---jes' listenin' to &rsquo;uh."
 
-"Yea---and you tellin' 'uh she could ride back with us if she wanted."
+"Yea---and you tellin' &rsquo;uh she could ride back with us if she wanted."
 
 "Who?"
 
@@ -2691,13 +2691,13 @@ Eventually, in spite of all Mrs. Fuller said, the load was on, each piece swaddl
 
 "When?"
 
-"Didn't you stop and tell 'uh to come on, less go---we was finished?"
+"Didn't you stop and tell &rsquo;uh to come on, less go---we was finished?"
 
 "Oh yea. But I swear I thought I was talkin' to you. Y'all look like sisters. If you and her didn't have d' same grandaddy, somebody played a awful dirty joke on y' both."
 
 The inevitable quarrel ensued, and this somewhat took their minds off Bess' unusual jogtrot. If the trip out had been slow, the trip back was endless. For out of all that had reached his ears, Shine remembered only one part of Arabella Fuller's dyspeptic discourse, and this hummed in his mind as persistent and unvarying as the rumble of Bess' innards:
 
-"Go where, chile? Back to town with y'all? Deed I’ll have to stay out hyeh mos' another week packin' things f' the winter. Y'all go right ahead, though---Linda's there and I done told 'er where to tell y'all to put ev'ything------"
+"Go where, chile? Back to town with y'all? Deed I’ll have to stay out hyeh mos' another week packin' things f' the winter. Y'all go right ahead, though---Linda's there and I done told &rsquo;er where to tell y'all to put ev'ything------"
 
 Linda living alone in the house with Fred Merrit, toper and dickty.
 
@@ -2725,7 +2725,7 @@ It was now that his brooding inadvertence combined with his recently assumed rec
 
 “Well---what the hell's holdin’ y’?” he inquired as Bubber hesitated, doubting that he had heard aright. Bubber turned slowly, shaking his head and meditating aloud:
 
-"When that boogy gits evil he gits so evil. They's so damn much of 'im."
+"When that boogy gits evil he gits so evil. They's so damn much of &rsquo;im."
 
 "Then come down and unsash that winder," Shine commanded balefully, "and stand by to pull in, see?"
 
@@ -2749,7 +2749,7 @@ Shine stood erect, looking dazedly about, touching an abrasion over one eye with
 
 "Honey------" she said, and found that nothing more would come.
 
-"I'm all right--- Gee---if you hadn' 'a' hollered------"
+"I'm all right--- Gee---if you hadn' &rsquo;a' hollered------"
 
 "Oh---" she managed, "I was at the window---upstairs---" and stood there a while in silence. Then because words failed, because something pinioned her arms that wanted to reach out to him, and because her eyes and throat mysteriously and ridiculously filled, she had a blank moment in which to realize how silly and impetuous she was, and another in which to be ashamed and take swift refuge in the house.
 
@@ -2768,7 +2768,7 @@ Bubber came down. He and Jinx ejaculated comments. Bubber came over to palpate S
 
 ## XX
 
-That Shine should visit a hospital when he felt almost perfectly well meant that some decided difference had come about in him. The scramble which had delivered him from grave injury had had no more serious visible effect than to abrade his hands and forehead against the cement, but it marked a conscious internal change which first came to light when he followed Linda into the house. Shine, the disciple of hardness, would not in any imaginable situation have been guilty of a surrender like that. Now again the change appeared when he decided that maybe he'd better go on 'round to the man's clinic and let one them doctors look him over---might even be some bones broke, who could tell?
+That Shine should visit a hospital when he felt almost perfectly well meant that some decided difference had come about in him. The scramble which had delivered him from grave injury had had no more serious visible effect than to abrade his hands and forehead against the cement, but it marked a conscious internal change which first came to light when he followed Linda into the house. Shine, the disciple of hardness, would not in any imaginable situation have been guilty of a surrender like that. Now again the change appeared when he decided that maybe he'd better go on &rsquo;round to the man's clinic and let one them doctors look him over---might even be some bones broke, who could tell?
 
 He sat at one end of a white metal pew, an article of hospital furniture as uncomfortable in fact as it is in suggestion, and awaited his turn. Funny kid, Linda. Come runnin' out there yesterday, scared clean white, then didn't do a damn thing but turn around and go back. But "Honey------?" Yea. He fell for that. And when he went in the house for water---huh---she was like as if nothing had happened. Showed him the sink and let him wash his head and gave him a towel---but not another word. Honey. Yea. When he had stalled around as long as he could, he too said, "Well, honey------" And all she answered---didn't need to be so tight about it, either---was, "You better go see a doctor and make sure you're all right." Damned if he would. But here he was---a whole day late, but here.
 
@@ -2831,7 +2831,7 @@ The interne looked him over cynically. "You ought to know."
 
 "Nothing much. Only some guy ought to get his block knocked off."
 
-"What you talkin' 'bout, doc?"
+"What you talkin' &rsquo;bout, doc?"
 
 "Tell me---is this your girl?"
 
@@ -2868,11 +2868,11 @@ It was upon this scene that Shine came, less frantic now, but no less grim than 
 
 He stood on the sidewalk looking up at the looming gray carcass of a house. For a moment it took his breath. Twilight made it the more indistinct---he craned his neck forward and stared; looked all about him to verify the neighborhood, walked forward to a point where he could discern the number on the house next door---315---came back, stood in a stupor of unbelief; and after a while heaved a great sigh of reluctant, bitter conviction:
 
-"Damn if the fays didn't get 'im," he muttered. "The dirty------" For the time being his present mission of vengeance was submerged in the onrush of a greater hatred, a hatred more deeply ingrained and of far longer standing; for the moment he glared insanely around at the cool, still, empty street and at the rows of serene gray houses standing side by side. They gave forth a maddening impression of distance and unconcern. They looked quite satisfied. This catastrophe was for them the answer to all their prayers. Now that it was done, they could go on as they always had. The ruined dwelling had simply earned and received the wages of sin------ If Shine could have trampled and crushed them all in that moment, he would surely have done so.
+"Damn if the fays didn't get &rsquo;im," he muttered. "The dirty------" For the time being his present mission of vengeance was submerged in the onrush of a greater hatred, a hatred more deeply ingrained and of far longer standing; for the moment he glared insanely around at the cool, still, empty street and at the rows of serene gray houses standing side by side. They gave forth a maddening impression of distance and unconcern. They looked quite satisfied. This catastrophe was for them the answer to all their prayers. Now that it was done, they could go on as they always had. The ruined dwelling had simply earned and received the wages of sin------ If Shine could have trampled and crushed them all in that moment, he would surely have done so.
 
 But as this tide of hatred fell and receded, his original murderous intent emerged like a spire through abating flood. What if they had got Merrit? A guy like Merrit deserved everything he got. And he hadn't got half what was coming to him yet---not if he could be found---Linda resting comfortably---the dicky liquor-head------
 
-He knew it. Merrit had meant to put it on her ever since that first morning here on Court Avenue---the morning she strode past like a million dollars, ignoring Jinx and Bubber's comments. "Figgerin' on a jive already---the doggone dicky hound. Why the hell can't dickties stick to their own women, 'stead o' messin' 'round some honest workin' girl?" That was the thought he had got from the way Merrit looked at her that morning--- Well---it wouldn't be long now---let him get one hand on that yellow throat---just let him sink the fingers of one hand into it---just let him take the bastard's ankle in his hands and twist it off------
+He knew it. Merrit had meant to put it on her ever since that first morning here on Court Avenue---the morning she strode past like a million dollars, ignoring Jinx and Bubber's comments. "Figgerin' on a jive already---the doggone dicky hound. Why the hell can't dickties stick to their own women, &rsquo;stead o' messin' &rsquo;round some honest workin' girl?" That was the thought he had got from the way Merrit looked at her that morning--- Well---it wouldn't be long now---let him get one hand on that yellow throat---just let him sink the fingers of one hand into it---just let him take the bastard's ankle in his hands and twist it off------
 
 But this house------ Hell a'mighty---what a wreck------
 
@@ -2900,7 +2900,7 @@ It amazed Shine himself---amazed him and chagrined him. He felt rather glad of t
 
 He mumbled excuses to himself as he wandered away down the street:
 
-"Hell---I'll get 'im later------ Gee---y' can't hit a guy when he's down------"
+"Hell---I'll get &rsquo;im later------ Gee---y' can't hit a guy when he's down------"
 
 
 ## XXII
@@ -2959,9 +2959,9 @@ She was silently distressed, and this reinforced his vengefulness as if he were 
 
 But the vision of Merrit as he'd last seen him, limp and shuddering amid devastation, grew clear, whereupon, in spite of himself, this redoubled malevolence sagged.
 
-Linda said, "Remember that morning in church what Father Tod said 'bout Joshua and the battle of Jericho? 'Bout people kidding themselves?"
+Linda said, "Remember that morning in church what Father Tod said &rsquo;bout Joshua and the battle of Jericho? &rsquo;Bout people kidding themselves?"
 
-"Yea. I can see that story all right 'bout the walls; that's a good one. And I can see how people kid themselves. That's easy. But I never did get the connection. Little too deep for me."
+"Yea. I can see that story all right &rsquo;bout the walls; that's a good one. And I can see how people kid themselves. That's easy. But I never did get the connection. Little too deep for me."
 
 "You're the connection."
 
@@ -2997,7 +2997,7 @@ He grasped vaguely for comprehension and captured only excuse:
 
 "Well, you kid yourself too sometimes, Lindy."
 
-That seemed to kindle something in her that flared and persisted like fire. "I know it---and I'll never be happy while I do. Oh, I see what he meant all right---I tell myself things, things about you. I tell myself I don't even want to see you any more---that you can't be really liking me after I let you pick me up---yes, that's what it was, a pick-up---that night in Manhattan Casino. I tell myself I hate you for grabbing me up on the street that Sunday. Lies---all of 'em. I liked it. I've been wild to see you. And the only thing I hate about you is the thing that keeps you from telling me what I'd give both ears to hear. But no---you wouldn't do that, because?"---her voice was all scorn---"just because you're hard and it's soft to fall for a girl." Her eyes filled, and she turned her face away, biting her lip.
+That seemed to kindle something in her that flared and persisted like fire. "I know it---and I'll never be happy while I do. Oh, I see what he meant all right---I tell myself things, things about you. I tell myself I don't even want to see you any more---that you can't be really liking me after I let you pick me up---yes, that's what it was, a pick-up---that night in Manhattan Casino. I tell myself I hate you for grabbing me up on the street that Sunday. Lies---all of &rsquo;em. I liked it. I've been wild to see you. And the only thing I hate about you is the thing that keeps you from telling me what I'd give both ears to hear. But no---you wouldn't do that, because?"---her voice was all scorn---"just because you're hard and it's soft to fall for a girl." Her eyes filled, and she turned her face away, biting her lip.
 
 To save his life, he could not utter a word.
 
@@ -3013,15 +3013,15 @@ To save his life, he could not utter a word.
 
 For a while there seemed to be nothing to say. When at last Shine spoke it was to make a quite irrelevant statement:
 
-"Lindy--- I'm crazy 'bout you."
+"Lindy--- I'm crazy &rsquo;bout you."
 
 Still she did not look at him, but she said:
 
-"That's how I know about you. That's how I know you're not really hard. That's why I don't want you to bother---him. You say you'd be doing it for me---but you could kill him and it wouldn't give me any satisfaction---just make me unhappy because you'd done it and kept us apart---maybe for life------ So if you bother him now, knowing I don’t want you to, knowing it won’t give me any satisfaction and 'll only make me unhappy, why then you’ll just be doing it for your *own* satisfaction. You’ll just be proving again to yourself how tough and tight you are. It won't be because you’re crazy about me---that’ll just be the excuse."
+"That's how I know about you. That's how I know you're not really hard. That's why I don't want you to bother---him. You say you'd be doing it for me---but you could kill him and it wouldn't give me any satisfaction---just make me unhappy because you'd done it and kept us apart---maybe for life------ So if you bother him now, knowing I don’t want you to, knowing it won’t give me any satisfaction and &rsquo;ll only make me unhappy, why then you’ll just be doing it for your *own* satisfaction. You’ll just be proving again to yourself how tough and tight you are. It won't be because you’re crazy about me---that’ll just be the excuse."
 
 He went through a good deal of figuring before he answered that. What he eventually said was: 
 
-“Well---I’m crazy 'bout you, Linda.”
+“Well---I’m crazy &rsquo;bout you, Linda.”
 
 Only then did she look fully at him, and again there were stars in her eyes, and color deep in the honey of her skin. She gave him that little halting laugh and said, “The walls must be tumblin’ down.”
 
@@ -3045,7 +3045,7 @@ In the small back room of Pat's place, the regular evening black-jack game was i
 
 The dealer, standing, taunted the players in a soft, half plaintive voice:
 
-"What's your contribution, friend? Only a half? Can't buy the sweet mamma shoes on four-bit bets. How much to you, dumb-and-ugly? One buck, right. Next? A dollar and a dime to Jinx, the freckle-face wonder---dime's for luck---my luck. How 'bout you, Squatty? Make it light on y'self. Two-dollar bills is bad luck, you know. Wha' d' y' say, Stud? The rest of it? Nineteen bucks four bits to you. Deal it? Consider it doled. Perfect, gentlemen, perfect."
+"What's your contribution, friend? Only a half? Can't buy the sweet mamma shoes on four-bit bets. How much to you, dumb-and-ugly? One buck, right. Next? A dollar and a dime to Jinx, the freckle-face wonder---dime's for luck---my luck. How &rsquo;bout you, Squatty? Make it light on y'self. Two-dollar bills is bad luck, you know. Wha' d' y' say, Stud? The rest of it? Nineteen bucks four bits to you. Deal it? Consider it doled. Perfect, gentlemen, perfect."
 
 He had dealt each player a card as he spoke. Now he dealt them each another, renoting the amounts of their bets as the second card fell. He put down the rest of the deck, picked up his own two cards and, holding them close to his chest to prevent his neighbors' seeing them, studied them long and hard. Suddenly he warned with exaggerated malignancy--- "Don't a man move!---knew I'd turn the bug on you dinkies this time!" And he threw down an ace and a jack, the supreme combination.
 
@@ -3055,9 +3055,9 @@ As for Shine, he felt to-night a new exhilaration, a satisfying ability to fill 
 
 "The guy that's really hard is the guy that's hard enough to be soft."
 
-That about got it. That covered him. That made him unafraid to do what he damned pleased in any situation. If he felt like letting a bird off, he was big enough to do it. Hitherto he'd been like a little shrimp that dares not go without a gun or a knife, only his size and strength had taken the place of the weapon. Sort of coward, sure 'nough ---no wonder it made Lindy sore. She sure had got him told, too. Sure had---some kid, no lie. Funny he never could see it before---the walls of Jericho. Lindy---Judas Priest---he'd forgotten to ask where she was going from the hospital. Dumbbell. Well he'd find out. Gee, what a feeling! Boy! Like a port-wine drunk------
+That about got it. That covered him. That made him unafraid to do what he damned pleased in any situation. If he felt like letting a bird off, he was big enough to do it. Hitherto he'd been like a little shrimp that dares not go without a gun or a knife, only his size and strength had taken the place of the weapon. Sort of coward, sure &rsquo;nough ---no wonder it made Lindy sore. She sure had got him told, too. Sure had---some kid, no lie. Funny he never could see it before---the walls of Jericho. Lindy---Judas Priest---he'd forgotten to ask where she was going from the hospital. Dumbbell. Well he'd find out. Gee, what a feeling! Boy! Like a port-wine drunk------
 
-He saw the men 'round about anew---lean and long bodies, thick and short, round heads, egg heads, bullet heads, steeple heads, thick lips stuck out, thin lips drawn in, skins black, brown, tan, yellow. He picked out two or three strangers, conjectured about their occupations. This lopsided one was undoubtedly a waiter, that plump cocoa one a porter, the bald, custard one whose cheeks had been left in the oven a trifle too long a------ Well, what the hell else were boogies but waiters and porters?
+He saw the men &rsquo;round about anew---lean and long bodies, thick and short, round heads, egg heads, bullet heads, steeple heads, thick lips stuck out, thin lips drawn in, skins black, brown, tan, yellow. He picked out two or three strangers, conjectured about their occupations. This lopsided one was undoubtedly a waiter, that plump cocoa one a porter, the bald, custard one whose cheeks had been left in the oven a trifle too long a------ Well, what the hell else were boogies but waiters and porters?
 
 In this superior frame of mind, he was not at all prepared for what he was now to learn.
 
@@ -3072,14 +3072,14 @@ As Shine abandoned the game room he encountered Patmore who was coming toward it
 
 Shine ignored this as he had ignored Pat himself ever since the dance. He found a cue stick and an empty table and proceeded to amuse himself solitaire. He had hardly racked'em-up when Bubber appeared at his side.
 
-"Come 'eh," Bubber said, "Come listen to this." And Joshua Jones went and listened.
+"Come &rsquo;eh," Bubber said, "Come listen to this." And Joshua Jones went and listened.
 
 ::: small-break
 :::
 
 Pat was proclaiming to all his friends in the game room:
 
-"Yassir. Fair and square, that's Henry Patmore. Anything you do for him, he's gonna do for you. Good or bad, don't make no difference. You know what the man says---as ye sow so shall ye reap. You see me go---I'll see you go. You put it on me, I'll put it on you. Sooner or later. Don't make no difference---sooner or later, thass all. Five years ago, I tell y', this dickty---dickty, mind y'---put it on me, see? Cost me damn near all I had. Ten thousand Got-damm dollars. Cost me that to stay out o' jail. Yassir---ten thousand berries. Well---thass aw right. Jes' go up on Court Avenue and look at his house now. Huh. Thought I'd forgot it, see? So damn smart, movin' in 'mongst d' fays. Fay nigger. Movin' in 'mongst d' white folks. Well, d' white folks sho' give 'im a welcome. Jes' go up on Court Avenue and see what d' white folks done. White folks. Yea. Henry Patmore---white folks. Hah!---damn if this ain't d' first time in my life I ever passed for white."
+"Yassir. Fair and square, that's Henry Patmore. Anything you do for him, he's gonna do for you. Good or bad, don't make no difference. You know what the man says---as ye sow so shall ye reap. You see me go---I'll see you go. You put it on me, I'll put it on you. Sooner or later. Don't make no difference---sooner or later, thass all. Five years ago, I tell y', this dickty---dickty, mind y'---put it on me, see? Cost me damn near all I had. Ten thousand Got-damm dollars. Cost me that to stay out o' jail. Yassir---ten thousand berries. Well---thass aw right. Jes' go up on Court Avenue and look at his house now. Huh. Thought I'd forgot it, see? So damn smart, movin' in &rsquo;mongst d' fays. Fay nigger. Movin' in &rsquo;mongst d' white folks. Well, d' white folks sho' give &rsquo;im a welcome. Jes' go up on Court Avenue and see what d' white folks done. White folks. Yea. Henry Patmore---white folks. Hah!---damn if this ain't d' first time in my life I ever passed for white."
 
 The players were giving Patmore only divided attention. They had heard such proclamations before, and no particular example of any of Pat's special excellences could be expected wholly to detract them from their game. But at this moment the dealer, who was still standing, caught sight of Shine looming in the doorway; and the dealer became fixed as suddenly as a figure in a cinema when the projector abruptly stops; fixed in the act of dealing, with his thumb at his lip and the deck in his hand, his eyes wide, set, unmoving.
 
@@ -3089,7 +3089,7 @@ Not slowly, first with doubt, then with mounting conviction, had revelation come
 
 Patmore saw it there and confessed everything by reaching for his gun. Jinx, one of those who had not moved from his seat at the table, was near enough to strike at Pat’s arm as the weapon went off. Shine felt his left hand go numb, felt his hatred break into action. All of a sudden he became a madman with no notion of what he was doing, with no sustained consciousness, only a succession of fragments that thumped in his head.
 
-Linda resting comfortably. Merrit crying like a baby. Picture of his mother. Fays sure got him. Fays? Fays hell---Patmore got 'im. Wonder how many kinds of a jackass that guy thinks I am------? Never seen a man catch air so fast. Walls tumblin'---damn if they ain't. Offered me twenty-five dollars---no---Linda. Fly guy, passing for white. Assault with intent---not Merrit---Patmore. Patmore done it---did it. Not the fays---Patmore. Patmore put it on Merrit. Like *this*------ Walls---haw!---damn right, walls---look at 'em fall---let 'em raise hell when they fall---like that God-damn piano------
+Linda resting comfortably. Merrit crying like a baby. Picture of his mother. Fays sure got him. Fays? Fays hell---Patmore got &rsquo;im. Wonder how many kinds of a jackass that guy thinks I am------? Never seen a man catch air so fast. Walls tumblin'---damn if they ain't. Offered me twenty-five dollars---no---Linda. Fly guy, passing for white. Assault with intent---not Merrit---Patmore. Patmore done it---did it. Not the fays---Patmore. Patmore put it on Merrit. Like *this*------ Walls---haw!---damn right, walls---look at  &rsquo;em fall---let  &rsquo;em raise hell when they fall---like that God-damn piano------
 
 ::: small-break
 :::
@@ -3179,7 +3179,7 @@ The drink gave Merrit a thought:
 
 "I'll be on my feet when they haul you out, my boy. This isn't whiskey talk. Listen."
 
-Shine listened. He owed Merrit a piano, so it was to Merrit's advantage to get him employed. On the other hand, Merrit owed him---or the girl, maybe---something more. Nothing but the grace of God had stayed Shine's hand the evening he stood behind him, intent on murder. All right. Here was the idea: Here was a business. Shine knew that business, didn't he? Been in it five years now. Why the hell couldn't he run it, then? He ran it when the old man was sick, didn't he? Suppose Merrit bought it---easy---only a one-truck moving business---and turned it over to Shine to run? Fifty-fifty on the profits with an option to purchase outright in due time. That's what we Negroes need, a business class, an economic backbone. What kind of a social structure can anybody have with nothing but the extremes---bootblacks on one end and doctors on the other. Nothing in between. No substance. Everybody wants to quit waiting table and start writing prescriptions right away. Well, here's a chance for you and a good investment for me. Race proposition, too. How 'bout it? 
+Shine listened. He owed Merrit a piano, so it was to Merrit's advantage to get him employed. On the other hand, Merrit owed him---or the girl, maybe---something more. Nothing but the grace of God had stayed Shine's hand the evening he stood behind him, intent on murder. All right. Here was the idea: Here was a business. Shine knew that business, didn't he? Been in it five years now. Why the hell couldn't he run it, then? He ran it when the old man was sick, didn't he? Suppose Merrit bought it---easy---only a one-truck moving business---and turned it over to Shine to run? Fifty-fifty on the profits with an option to purchase outright in due time. That's what we Negroes need, a business class, an economic backbone. What kind of a social structure can anybody have with nothing but the extremes---bootblacks on one end and doctors on the other. Nothing in between. No substance. Everybody wants to quit waiting table and start writing prescriptions right away. Well, here's a chance for you and a good investment for me. Race proposition, too. How &rsquo;bout it? 
 
 Shine had no word to say, so suddenly had this thing come.
 
@@ -3199,7 +3199,7 @@ She said as much this morning over her tray to her new Irish maid, Mary. Mary, a
 
 "No. You see, he was a Negro."
 
-"Yes 'm."
+"Yes &rsquo;m."
 
 "And I shouldn’t be surprised if someone weren’t guilty of arson in this case."
 
@@ -3207,7 +3207,7 @@ She said as much this morning over her tray to her new Irish maid, Mary. Mary, a
 
 "There is so much hatred between races," sighed Miss Cramp. "Still, it is all that can be expected. Now Negroes, for instance are most extremely deceitful."
 
-"Is 'at so, mum?"
+"Is &rsquo;at so, mum?"
 
 "Indeed it is. Why, this man Merrit, who owned the house that burnt up---he was always practicing some sort of deceit. Do you know what he did, Mary?"
 
@@ -3312,7 +3312,7 @@ It seemed to Shine that the sky turned from gray to gold in the twinkling of an 
 
 Linda made up her impetuous mind. "You're doing no such thing, Mr. Jones." And she circled Bess’ nose and clambered into the cab from the opposite side. While Shine regained his breath, she casually adjusted herself; stretched out her legs, rested her head back, hunched up her coat, stifled a yawn and murmured with great unconcern:
 
-"'S chilly---huh?"
+"&rsquo;S chilly---huh?"
 
 ::: small-break
 :::
@@ -3321,7 +3321,7 @@ Merrit from the head of his driveway had seen her climb into the cab. Before he 
 
 He stood there smiling and watching in the middle of the road, one hand absently plucking at his throat where the soft, open collar of his shirt left it bare. He had preposterous feelings, far too absurd to admit: an impulse to run after the departing Bess, crying, “Wait---for God’s sake---” as if she were carrying off some chance of his own; a terrifying sense of some slow crushing futility, allowing them to escape, but holding him captive, surrounding, insulating, oppressing him, like the haze of this morning’s mist, beyond which he could perceive but out of which he could not emerge; as if he moved and must always move in a dismal, broad, gray cloud, outside of which were clear blue skies that he could know of but never reach.
 
-Strangely irrelevant people and things flashed into and out of his mind: a fleeting glimpse of his brown mother's picture---Patmore in court shaking his fist---Tod Bruce in his pulpit drawing some remote and ridiculous analogy---Shine in the office explaining unintelligibly why he "let him out"---Miss Cramp inviting him to call---Why in hell couldn't it have been Miss Cramp instead of Patmore? All wrong, the way it actually happened. Should’ve been Miss Cramp. Should’ve been the fays---damn it---fays were supposed to do such things. Well---of course---Patmore had just beaten 'em to it---just beaten 'em to it, that was all. Bright boogy, Patmore, figuring it all out like that---bright jig-walker---knew how to do things. Perfect alibi---perfect. ... Jigs had a future, really---jigs were inherently smart. ...
+Strangely irrelevant people and things flashed into and out of his mind: a fleeting glimpse of his brown mother's picture---Patmore in court shaking his fist---Tod Bruce in his pulpit drawing some remote and ridiculous analogy---Shine in the office explaining unintelligibly why he "let him out"---Miss Cramp inviting him to call---Why in hell couldn't it have been Miss Cramp instead of Patmore? All wrong, the way it actually happened. Should’ve been Miss Cramp. Should’ve been the fays---damn it---fays were supposed to do such things. Well---of course---Patmore had just beaten  &rsquo;em to it---just beaten  &rsquo;em to it, that was all. Bright boogy, Patmore, figuring it all out like that---bright jig-walker---knew how to do things. Perfect alibi---perfect. ... Jigs had a future, really---jigs were inherently smart. ...
 
 He stood and watched and smiled. The road led up and over a crest beyond which spread sunrise like a promise. Away for a time, then up moved Bess, straight into the kindling sky. With distance the engine roar grew dim and the van seemed to stand and shrink. Against that far background of light he saw it hang black and still a moment---then drop abruptly out of vision, into another land.
 
@@ -3332,7 +3332,7 @@ He stood and watched and smiled. The road led up and over a crest beyond which s
 Expurgated and Abridged
 :::
 
-Ain't Got 'Em
+Ain't Got &rsquo;Em
   ~ Possesses no virtues---is no good.
 
 Ask for
@@ -3633,9 +3633,9 @@ Stuff
   ~ 1. Talent, as above.
   ~ 2. Hokum. Boloney. Banana oil. Ex. "They tell me that *sheba* tried to commit suicide over her *daddy.* —"Huh. That’s a lot o’ *stuff*."
 
-<dt>Tell 'Em!</dt>
+<dt>Tell &rsquo;Em!</dt>
 
-Tell 'Em 'Bout It!
+Tell &rsquo;Em &rsquo;Bout It!
   ~ Exclamation of agreement and approval.
 
 The Man
@@ -3660,7 +3660,7 @@ Too Bad
 Tootin'
   ~ Right. Unquestionable. Full remark is "You are dog-gone tootin'."
 
-Turn 'Em On
+Turn &rsquo;Em On
   ~ *Strut one’s stuff*.
 
 Turn One's Damper Down
