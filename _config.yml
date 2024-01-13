@@ -3,6 +3,6 @@ description: Digital reprints of Harlem Renaissance classics
 plugins:
 - jekyll-remote-theme
 
-remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: mmistakes/minimal-mistakes
 
 
