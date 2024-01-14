@@ -12,3 +12,11 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+collections:
+  books:
+    output: true
+    permalink: /:collection/:name/
+    
+include:
+  - _pages
