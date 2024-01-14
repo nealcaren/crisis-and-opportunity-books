@@ -1,8 +1,14 @@
 title: Crisis and Opportunity Books
 description: Digital reprints of Harlem Renaissance classics
-plugins:
-- jekyll-remote-theme
 
 remote_theme: mmistakes/minimal-mistakes
 
-
+# Plugins (previously gems:)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
