@@ -1,6 +1,6 @@
 This site is designed to facilitate the digitalization and dissemination of public domain works from the Harlem Renaissance. 
 
-As of 2024, twelve major novels from the era are no longer under copyright. Digital versions of three currently exist[^g], but we are thrilled to produce new editions of four additional books:
+As of 2024, twelve major novels from the era are no longer under copyright. Digital versions of three currently exist[^g], but we are thrilled to produce new editions of five additional books:
 
 [^g]: While [Project Gutenberg](http://gutenberg.org) is the central repository for transcriptions of public domain books, their contributors continue to largely overlooked Black authors from this era. Their submission process is cumbersome and idiosyncratic, so after producing three books for them, I decided to start a complementary effort. 
 
@@ -11,6 +11,8 @@ As of 2024, twelve major novels from the era are no longer under copyright. Digi
 | Dark Princess                | W. E. B. Du Bois  | 1928             | [PDF](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.pdf)  | [epub](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.epub), [markdown](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.md), [text](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess.txt) |
 | Home to Harlem                | Claude McKay      | 1928        | [PDF](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/home-to-harlem/home-to-harlem-1928.pdf)    |  [epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/home-to-harlem/home-to-harlem.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/home-to-harlem/home-to-harlem.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/home-to-harlem/home-to-harlem.txt) |
 | The Walls of Jericho              | Rudolph Fisher    | 1928       |  [PDF](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/the-walls-of-jericho/the-walls-of-jericho-1928.pdf)     | [epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/the-walls-of-jericho/the-walls-of-jericho.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/the-walls-of-jericho/the-walls-of-jericho.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/the-walls-of-jericho/the-walls-of-jericho.txt) | 
+| Flight | Walter White | 1926 | [PDF](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/flight/flight.epub) |[epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/flight/flight.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/flight/flight.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/flight/flight.txt)
+
 
 ## Production Details
 
@@ -31,7 +33,6 @@ Other major Harlem Renaissance novels currently in the public domain:
 | There Is Confusion            | Jessie Fauset     | 1924                | [1st Edition PDF](https://www.google.com/books/edition/There_is_Confusion/_xXR-y0YdxoC?hl=en) |
 | Fire In the Flint             | Walter White      | 1924                | [Gutenberg](https://www.gutenberg.org/ebooks/69877) |
 | The Prince of Washington Square | Harry F. Liscomb | 1925                | [1st Edition PDF](https://www.google.com/books/edition/The_Prince_of_Washington_Square/4h0vAQAAIAAJ?hl=en&gbpv=0) |
-| Flight                        | Walter White      | 1926                | [1st Edition PDF](https://www.google.com/books/edition/Flight/emgpAQAAIAAJ?hl=en&gbpv=0)
 | Tropic Death                  | Eric Walrond      | 1926                | [Gutenberg](https://www.gutenberg.org/ebooks/71465) |
 | The Blacker the Berry         | Wallace Thurman   | 1929[^1]                |
 | Infants of the Spring         | Wallace Thurman   | 1932[^1]                |

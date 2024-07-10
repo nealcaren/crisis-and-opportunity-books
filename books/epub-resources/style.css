@@ -61,7 +61,7 @@
 }
 
 .small-break {
-    margin-bottom: 1em; /* Space after subsection */
+    margin-bottom: 2em; /* Space after subsection */
 } 
 
 /* Style for paragraphs: no indent and no space between paragraphs */
@@ -184,6 +184,13 @@ h3, h4, h5, h6 {
 
 .poem p.indent2 {
     margin-left: 3em; /* Additional indent for specific lines */
+}
+
+
+.book-exerpt {
+    margin-left: 1.5em; /* Adjust as needed for the correct indentation */
+    margin-top: 1em;
+    margin-bottom: 0.5em;
 }
 
 

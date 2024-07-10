@@ -11,14 +11,17 @@ function build_book() {
     # pandoc -s -o ${base_fn}.html ${base_fn}.epub
     pandoc -o ${base_fn}.txt ${base_fn}.md -t plain
     # Gutenberg version of text
-    pandoc -o ${base_fn}_gutenberg_format.txt ${base_fn}.md -t plain+GUTENBERG
+    pandoc -o ${base_fn}_gutenberg_format.txt ${base_fn}.md     
 }
 
 # Array of all book base names
-BOOKS=("the-walls-of-jericho" "dark-princess" "home-to-harlem" "quicksand")
+BOOKS=("flight" "the-walls-of-jericho" "dark-princess" "home-to-harlem" "quicksand")
 
 # Check the input option
 case "$1" in
+    flight)
+        build_book "flight"
+        ;;
     walls)
         build_book "the-walls-of-jericho"
         ;;
