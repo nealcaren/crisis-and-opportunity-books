@@ -12,8 +12,9 @@ reprint_notes: Currently in public domain.
 
 # Copyright {.copyright epub:type=copyright-page}
 
-Walter White’s *Home to Harlem* was first published in 1926 by Alfred K. Knopf, Inc. On January 1, 2022, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version was transcribed by Neal Caren based on a reprint available on the [HathiTrust](https://catalog.hathitrust.org/Record/001188326). 
+Walter White’s *Home to Harlem* was first published in 1926 by Alfred K. Knopf, Inc. On January 1, 2022, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version is based on a reprint available on the [HathiTrust](https://catalog.hathitrust.org/Record/001188326). 
 
+Cover image is from William E. Scott's *Rainy Night, Etaples,* 1912 (oil on canvas).
 
 
 

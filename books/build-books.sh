@@ -15,10 +15,22 @@ function build_book() {
 }
 
 # Array of all book base names
-BOOKS=("flight" "the-walls-of-jericho" "dark-princess" "home-to-harlem" "quicksand")
+BOOKS=("banjo" "passing" "plum-bun" "blacker-the-berry" "flight" "the-walls-of-jericho" "dark-princess" "home-to-harlem" "quicksand")
 
 # Check the input option
 case "$1" in
+    blacker-the-berry)
+        build_book "blacker-the-berry"
+        ;;    
+    passing)
+        build_book "passing"
+        ;;   
+    banjo)
+        build_book "banjo"
+        ;;   
+    plum-bun)
+        build_book "plum-bun"
+        ;;  
     flight)
         build_book "flight"
         ;;

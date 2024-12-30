@@ -64,6 +64,10 @@
     margin-bottom: 2em; /* Space after subsection */
 } 
 
+.medium-break {
+    margin-bottom: 4em; /* Space after subsection */
+} 
+
 /* Style for paragraphs: no indent and no space between paragraphs */
 p {
     
@@ -94,6 +98,18 @@ dd p {
 
 dd ol {
     padding-left: 1em;
+}
+
+/* List with no bullets */
+.paragraph-style-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.paragraph-style-list li {
+    padding-left: 3em; /* Shift the entire block right */
+    text-indent: -1em; /* Pull the first line back */
 }
 
 /* Apply a serif font for the body text */
@@ -170,6 +186,16 @@ h3, h4, h5, h6 {
     text-indent: 0;
 }
 
+.three-dots::after {
+    content: '\00A0.\00A0.\00A0.\00A0'; /* Adds non-breaking spaces and dots */
+}
+
+.i {
+ font-style: italic;
+}
+.foreign {
+    font-style: italic;
+  }
 
 .poem p {
     text-indent: -3em; /* Negatively indent wrapped lines */

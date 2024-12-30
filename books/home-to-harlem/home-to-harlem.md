@@ -10,9 +10,9 @@ reprint_notes: Currently in public domain.
 
 # Copyright {.copyright epub:type=copyright-page}
 
-Claude McKay’s *Home to Harlem* was first published in 1928 by Harper & Brothers. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version was transcribed by Neal Caren based on a reprint available on the [Internet Archive](https://archive.org/details/hometoharlem0000mcka_p1i3). 
+Claude McKay’s *Home to Harlem* was first published in 1928 by Harper & Brothers. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version is based on a digital version of the first edition available on the [Internet Archive](https://archive.org/details/hometoharlem0000mcka_p1i3). 
 
-
+Cover image is from  Augusta Savage's *Gamin,* ca. 1929 (painted plaster,).
 
 # Dedication  {.dedication epub:type=preface} 
 
@@ -79,7 +79,7 @@ Jake was tall, brawny, and black. When America declared war upon
 Germany in 1917 he was a longshoreman. He was working on a Brooklyn
 pier, with a score of men under him. He was a little boss and a very
 good friend of his big boss, who was Irish. Jake thought he would like
-to have a crack at the Germans.... And he enlisted.
+to have a crack at the Germans.<span class="three-dots"></span>And he enlisted.
 
 In the winter he sailed for Brest with a happy chocolate company. Jake
 had his own daydreams of going over the top. But his company was held at
@@ -168,8 +168,8 @@ It was two years since he had left Harlem. Fifth Avenue, Lenox Avenue,
 and One Hundred and Thirty-fifth Street, with their chocolate-brown and
 walnut-brown girls, were calling him.
 
-“Oh, them legs!” Jake thought. “Them tantalizing brown legs! ...
-Barron’s Cabaret! ... Leroy’s Cabaret! ... Oh, boy!”
+“Oh, them legs!” Jake thought. “Them tantalizing brown legs!<span class="three-dots"></span>
+Barron’s Cabaret!<span class="three-dots"></span>Leroy’s Cabaret!<span class="three-dots"></span>Oh, boy!”
 
 Brown girls rouged and painted like dark pansies. Brown flesh draped in
 soft colorful clothes. Brown lips full and pouted for sweet kissing.
@@ -182,7 +182,7 @@ day. That’s what it was. Oh, boy! Harlem for mine!
 “Take me home to Harlem, Mister Ship! Take me home to the brown gals
 waiting for the brown boys that done show their mettle over there. Take
 me home, Mister Ship. Put your beak right into that water and jest move
-along.” ...
+along.”<span class="three-dots"></span>
 
 
 ## II. Arrival  
@@ -204,7 +204,7 @@ like a hound. Seventh Avenue was nice, a little too nice that night.
 
 Jake turned off on Lenox Avenue. He stopped before an ice-cream
 parlor to admire girls sipping ice-cream soda through straws. He went
-into a cabaret....
+into a cabaret.<span class="three-dots"></span>
 
 A little brown girl aimed the arrow of her eye at him as he entered.
 Jake was wearing a steel-gray English suit. It fitted him loosely and
@@ -214,9 +214,9 @@ smiled at him. There was something in his attitude, in his hungry wolf’s
 eyes, that went warmly to her. She was brown, but she had tinted her
 leaf-like face to a ravishing chestnut. She had on an orange scarf over
 a green frock, which was way above her knees, giving an adequate view of
-legs lovely in fine champagne-colored stockings....
+legs lovely in fine champagne-colored stockings.<span class="three-dots"></span>
 
-Her shaft hit home.... Jake crossed over to her table. He ordered
+Her shaft hit home.<span class="three-dots"></span>Jake crossed over to her table. He ordered
 Scotch and soda.
 
 “Scotch is better with soda or even water,” he said. “English folks
@@ -225,13 +225,13 @@ don’t take whisky straight, as we do.”
 But she preferred ginger ale in place of soda. The cabaret singer,
 seeing that they were
 making up to each other, came expressly over to their table and sang.
-Jake gave the singer fifty cents....
+Jake gave the singer fifty cents.<span class="three-dots"></span>
 
 Her left hand was on the table. Jake covered it with his right.
 
 “Is it clear sailing between us, sweetie?” he asked.
 
-“Sure thing.... You just landed from over there?”
+“Sure thing.<span class="three-dots"></span>You just landed from over there?”
 
 “Just today!”
 
@@ -239,7 +239,7 @@ Her left hand was on the table. Jake covered it with his right.
 
 “I made it in a special one.”
 
-“Why, you lucky baby! ... I’d like to go to another place, though.
+“Why, you lucky baby!<span class="three-dots"></span>I’d like to go to another place, though.
 What about you?”
 
 “Anything you say, I’m game,” responded Jake.
@@ -255,7 +255,7 @@ to be, daddy?” she demanded.
 
 “How much? *How* much? Five?”
 
-“Aw no, daddy....”
+“Aw no, daddy.<span class="three-dots"></span>”
 
 “Ten?”
 
@@ -291,25 +291,25 @@ shuffled around.
 “Harlem! Harlem!” thought Jake. “Where else could I have all this life
 but Harlem? Good old Harlem! Chocolate Harlem! Sweet Harlem! Harlem,
 I’ve got you’ number down. Lenox Avenue, you’re a bear, I know it. And,
-baby honey, sure enough youse a pippin for your pappy. Oh, boy!” ...
+baby honey, sure enough youse a pippin for your pappy. Oh, boy!”<span class="three-dots"></span>
 
 ::: {.small-break}
 :::
 
 After Jake had paid for his drinks, that fifty-dollar note was all he
-had left in the world. He gave it to the girl....
+had left in the world. He gave it to the girl.<span class="three-dots"></span>
 
 “Is we going now, honey?” he asked her.
 
-“Sure, daddy. Let’s beat it.” ...
+“Sure, daddy. Let’s beat it.”<span class="three-dots"></span>
 
 Oh, to be in Harlem
 again after two years away. The deep-dyed color, the thickness, the
 closeness of it. The noises of Harlem. The sugared laughter. The
 honey-talk on its streets. And all night long, ragtime and “blues”
-playing somewhere, ... singing somewhere, dancing somewhere! Oh, the
+playing somewhere,<span class="three-dots"></span>singing somewhere, dancing somewhere! Oh, the
 contagious fever of Harlem. Burning everywhere in dark-eyed
-Harlem.... Burning now in Jake’s sweet blood....
+Harlem.<span class="three-dots"></span>Burning now in Jake’s sweet blood.<span class="three-dots"></span>
 
 ::: {.small-break}
 :::
@@ -335,11 +335,11 @@ note. A piece of paper was pinned to it on which was scrawled in pencil:
 ## III. Zeddy
 
 "Great balls of fire! Looka here! See mah
-luck!” Jake stopped in his tracks ... went on ... stopped again
-. . . retraced his steps ... checked himself. “Guess I won’t go back
+luck!” Jake stopped in his tracks<span class="three-dots"></span>went on<span class="three-dots"></span>stopped again
+. . . retraced his steps<span class="three-dots"></span>checked himself. “Guess I won’t go back
 right now. Never let a woman think you’re too crazy about her. But she’s
-a particularly sweet piece a business.... Me and her again
-tonight.... Handful o’ luck shot straight outa heaven. Oh, boy!
+a particularly sweet piece a business.<span class="three-dots"></span>Me and her again
+tonight.<span class="three-dots"></span>Handful o’ luck shot straight outa heaven. Oh, boy!
 Harlem is mine!”
 
 Jake went rolling along Fifth Avenue. He crossed over to Lenox Avenue
@@ -357,7 +357,7 @@ grave is you arisen from?” he cried.
 
 “Where?”
 
-“Everywhere.... French style.”
+“Everywhere.<span class="three-dots"></span>French style.”
 
 “One on one cheek and one on the other.”
 
@@ -378,11 +378,11 @@ heared no God’s tidings a you sence we missed you from Brest.”
 scrambling over the top?”
 
 “Nevah see’d them, buddy. None a them showed the goose-step
-around Brest. Have a shot on me.... Well, dawg bite me, but—say,
+around Brest. Have a shot on me.<span class="three-dots"></span>Well, dawg bite me, but—say,
 Jake, we’ve got some more stuff to booze over.”
 
 Zeddy slapped Jake on his breast and looked him over again. “Tha’s some
-stuff you’re strutting in, boh. ’Tain’t ’Merican and it ain’t French.” ...
+stuff you’re strutting in, boh. ’Tain’t ’Merican and it ain’t French.”<span class="three-dots"></span>
 
 “English.” Jake showed his clean white teeth.
 
@@ -426,7 +426,7 @@ Jake’s shoulder and a sensual light gleamed in her aged smoke-red eyes.
 The buddies talked about the days of Brest. Zeddy recalled the
 everlasting unloading and unloading of ships and the toting of lumber.
 The house of the Young Men’s Christian Association, overlooking the
-harbor, where colored soldiers were not wanted.... The central Rue de
+harbor, where colored soldiers were not wanted.<span class="three-dots"></span>The central Rue de
 Siam and the point near the Prefecture of Marine, from which you could
 look down on the red lights of the Quartier Réservé. The fatal fights
 between black men and white in the *maisons closes*. The encounters
@@ -436,7 +436,7 @@ old mediæval gate of the town, where he left his second-best buddy.
 
 “Poor boh. Was always belly-aching for a chance over the top. Nevah got
 it nor nothing. Not even a baid in the hospital. Strong like a bull, yet just
-knocked off in the dark through raw cracker cussedness.... Some life
+knocked off in the dark through raw cracker cussedness.<span class="three-dots"></span>Some life
 it was, buddy, in them days. We was always on the defensive as if the
 boches, as the froggies called them, was right down on us.”
 
@@ -444,7 +444,7 @@ boches, as the froggies called them, was right down on us.”
 though.”
 
 “You bet I did, boh. You kain trust Zeddy Plummer to look out for his
-own black hide.... But you, buddy. How come you just vanished
+own black hide.<span class="three-dots"></span>But you, buddy. How come you just vanished
 thataway like a spook? How did you take your tail out ovit?”
 
 Jake told Zeddy how he walked out of it straight to the station in
@@ -472,7 +472,7 @@ will just go vomiting out their guts to the ofays about one another.”
 “I should think you was hungry foh a li’l’ brown honey. I tell you
 trute, buddy. I made mine ovah there, spitin’ ov ev’thing. I l’arned her
 a little z’inglise and she l’arned me beaucoup plus the French
-stuff.... The real stuff, buddy. But I was tearin’ mad and glad to
+stuff.<span class="three-dots"></span>The real stuff, buddy. But I was tearin’ mad and glad to
 get back all the same. Take it from me, buddy, there ain’t no honey lak
 to that theah comes
 out of our own belonging-to-us honeycomb.”
@@ -490,7 +490,7 @@ joint.
 
 Zeddy also got up and put on his gray cap. They went back to the
 pool-room. Jake met two more fellows that he knew and got into a ring of
-Zeddy’s pals.... Most of them were longshoremen. There was plenty of
+Zeddy’s pals.<span class="three-dots"></span>Most of them were longshoremen. There was plenty of
 work, Jake learned. Before he left the pool-room he and Zeddy agreed to
 meet the next evening at Uncle Doc’s.
 
@@ -504,15 +504,15 @@ The same old wench of a city. Elevated racketing over you’ head. Subway
 bellowing under you’ feet. Me foh wrastling round them piers again.
 Scratching down to the bottom of them ships and scrambling out. All
 alongshore for me now. No more fooling with the sea. Same old New York.
-Everybody dashing round like crazy.... Same old New York. But the
+Everybody dashing round like crazy.<span class="three-dots"></span>Same old New York. But the
 ofay faces am different from those ovah across the pond. Sure they is.
-Stiffer. Tighter. Yes, they is that.... But the sun does better here
+Stiffer. Tighter. Yes, they is that.<span class="three-dots"></span>But the sun does better here
 than over there. And the sky’s so high and dry and blue. And the air
 it—O Gawd it works in you’ flesh and blood like Scotch. O Lawdy, Lawdy!
 I wants to live to a hundred and finish mah days in New York.”
 
 Jake threw himself up as if to catch the air pouring down from the blue
-sky....
+sky.<span class="three-dots"></span>
 
 “Harlem! Harlem! Little thicker, little darker and noisier and smellier,
 but Harlem just the same. The niggers done plowed through Hundred and
@@ -520,7 +520,7 @@ Thirtieth Street. Heading straight foh One
 Hundred and Twenty-fifth. Spades beyond Eighth Avenue. Going, going,
 going Harlem! Going up! Nevah befoh I seed so many dickty shines in sich
 swell motor-cars. Plenty moh nigger shops. Seventh Avenue done gone
-high-brown. O Lawdy! Harlem bigger, Harlem better ... and sweeter.”
+high-brown. O Lawdy! Harlem bigger, Harlem better<span class="three-dots"></span>and sweeter.”
 
 ::: {.small-break}
 ____
@@ -528,10 +528,10 @@ ____
 
 “Street and streets! One Hundred and Thirty-second, Thirty-third,
 Thirty-fourth. It wasn’t One Hundred and Thirty-fifth and it wasn’t
-beyond theah.... O Lawd! how did I fohgit to remember the street and
-number. I reeled outa there like a drunken man. I been so happy....
+beyond theah.<span class="three-dots"></span>O Lawd! how did I fohgit to remember the street and
+number. I reeled outa there like a drunken man. I been so happy.<span class="three-dots"></span>
 
-“Thirty-fourth, Thirty-second, Thirty-third.... Only difference in
+“Thirty-fourth, Thirty-second, Thirty-third.<span class="three-dots"></span>Only difference in
 the name. All the streets am just the same and all the houses ’like as
 peas. I could try this one heah or that one there but &#11834;  Rabbit foot! I
 didn’t even git her name. Oh, Jakie, Jake! What a big Ah-Ah you is.
@@ -633,7 +633,7 @@ Throw a stone in the river and it will sink;
 
 <p class = "indent">But a feather goes whirling on the wind.</p> 
 
-<p class = "indent2">It is easy to tell....</p>
+<p class = "indent2">It is easy to tell.<span class="three-dots"></span></p>
 :::
 
 She stopped more than usual at Jake’s table. He gave her a half dollar.
@@ -646,26 +646,26 @@ perfection struts for him. Yet he didn’t seem aroused at all.
 ::: {.poem}
 I’m crazy, plumb crazy
 
-About a man, mah man....
+About a man, mah man.<span class="three-dots"></span>
 :::
 
 The girl went humming back to her seat. She had poured every drop of her
 feeling into the song.
 
-“Crazy, plumb crazy about a man, mah man....”
+“Crazy, plumb crazy about a man, mah man.<span class="three-dots"></span>”
 
 Dandies and pansies, chocolate, chestnut, coffee, ebony, cream, yellow,
-everybody was teased up to the high point of excitement....
+everybody was teased up to the high point of excitement.<span class="three-dots"></span>
 
-“Crazy, plumb crazy about a man, mah man....”
+“Crazy, plumb crazy about a man, mah man.<span class="three-dots"></span>”
 
 The saxophone was moaning it. And feet and hands and mouths were acting
 it. Dancing. Some jigged, some shuffled, some walked, and some were
 glued together swaying on the dance floor.
 
-Jake was going crazy. A hot fever was burning him up.... Where
+Jake was going crazy. A hot fever was burning him up.<span class="three-dots"></span>Where
 was the singing gal that had danced to him? That dancing was for him all
-right....
+right.<span class="three-dots"></span>
 
 A crash cut through the music. A table went jazzing into the drum. The
 cabaret singer lay sprawling on the floor. A raging putty-skinned
@@ -682,10 +682,10 @@ The antagonists glowered at each other.
 
 “Better acks her why she done spits on mah woman.”
 
-“*Woman!* White man’s wench, you mean. You low-down tripe....”
+“*Woman!* White man’s wench, you mean. You low-down tripe.<span class="three-dots"></span>”
 
 The black man heaved toward the yellow, but the waiters hooked and
-hustled him off.... Sitting at a table, the
+hustled him off.<span class="three-dots"></span>Sitting at a table, the
 cabaret singer was soothing her eye.
 
 “Git out on the sidewalk, all you trouble makers,” cried the proprietor.
@@ -706,12 +706,12 @@ against black and brown. We’s all just crazy-dog mad. Ain’t no peace on
 earth with the womens and there ain’t no life anywhere without them.”
 
 “You said it, boh. It’s a be-be itching life”—Zeddy scratched his
-flank—“and we’re all sons of it.... But what
+flank—“and we’re all sons of it.<span class="three-dots"></span>But what
 is you hitting round this joint? I thought you would be feeding off milk
 and honey tonight?”
 
 “Hard luck, buddy. Done lose out counta mah own indiligence. I fohgit
-the street and the house. Thought I’d find her heah but....”
+the street and the house. Thought I’d find her heah but.<span class="three-dots"></span>”
 
 ::: {.small-break}
 :::
@@ -763,7 +763,7 @@ And there is two things in Harlem I don’t understan’
 It is a bulldycking woman and a faggotty man.
 
 <p class="indent">Oh, baby how are you?</p>
-<p class="indent">Oh, baby, what are you? ...</p>
+<p class="indent">Oh, baby, what are you?<span class="three-dots"></span></p>
 :::
 
 Jake and Zeddy picked two girls from a green bench and waded into the
@@ -774,11 +774,11 @@ rhythmical abandon, grinned back at their friends and chanted:
 ::: {.poem}
 Oh, baby, how are you?
 
-Oh, baby, what are you? ...
+Oh, baby, what are you?<span class="three-dots"></span>
 :::
 
 Clash! The cymbal snuffed out saxophone and drum, the dancers fell
-apart,—reeled, strutted, drifted back to their green places....
+apart,—reeled, strutted, drifted back to their green places.<span class="three-dots"></span>
 
 Zeddy tossed down the third glass of Gordon gin and became aware of
 Rose, the Congo entertainer, singing at the table. Happy for the moment,
@@ -789,7 +789,7 @@ How many nights, hungry nights, Zeddy had wished that Rose would
 sit down voluntarily at his table. He had asked her sometimes. She would
 sit, take a drink and leave. Nothing doing. If he was a “big nigger,”
 perhaps—but she was too high-priced for him. Now she was falling for
-Jake. Perhaps it was Jake’s nifty suit....
+Jake. Perhaps it was Jake’s nifty suit.<span class="three-dots"></span>
 
 “Gin for mine,” Rose said. Jake ordered two gins and a Scotch. “Scotch!
 That’s an ofay drink,” Rose remarked. “And I’ve seen the monkey-chasers
@@ -833,11 +833,11 @@ Softly she chanted:
 ::: {.poem}
 If I had some one like you at home
 
-I wouldn’t wanta go out, I wouldn’t wanta go out....
+I wouldn’t wanta go out, I wouldn’t wanta go out.<span class="three-dots"></span>
 
 If I had some one like you at home,
 
-I’d put a padlock on the door....
+I’d put a padlock on the door.<span class="three-dots"></span>
 :::
 
 She hugged him to her.
@@ -877,12 +877,12 @@ at all—that strange, elusive something that he felt in himself,
 sometimes here, sometimes there, roaming away from him, going back to
 London, to Brest, Le Havre, wandering to some unknown new port, caught a
 moment by some romantic rhythm, color, face, passing through cabarets,
-saloons, speakeasies, and returning to him.... The little brown had
+saloons, speakeasies, and returning to him.<span class="three-dots"></span>The little brown had
 something of that in
 her, too. That night he had felt a reaching out and marriage of
-spirits.... But the mulattress was all a wonderful tissue of
+spirits.<span class="three-dots"></span>But the mulattress was all a wonderful tissue of
 throbbing flesh. He had never once felt in her any tenderness or
-timidity or aloofness....
+timidity or aloofness.<span class="three-dots"></span>
 
 Jake was working longshore. Hooking barrels and boxes, wrestling with
 chains and cranes. He didn’t have a little-boss job this time. But that
@@ -961,7 +961,7 @@ things ain’t none at all lovely between white and black in this heah
 Gawd’s own country.”
 
 “We take all men in our union regardless &#11834;” But Jake was haunching
-along out of hearing down West Street.... Suddenly he heard sharp,
+along out of hearing down West Street.<span class="three-dots"></span>Suddenly he heard sharp,
 deep, distressful grunts, and saw behind some barrels a black man down
 and being kicked perilously in the rear end by two white men. Jake drew
 his hook from his belt and, waving it in the air, he rushed them. The
@@ -972,7 +972,7 @@ One of Zeddy’s pals, Jake recognized him.
 
 “Becaz they said there was a strike in theah. And I said I didn’t give a
 doughnut, I was going to work foh mah money all the same. I got one o’
-them bif! in the eye, though....”
+them bif! in the eye, though.<span class="three-dots"></span>”
 
 “Don’t go back, buddy. Let the boss-men stick them jobs up. They are a
 bunch of rotten aigs. Just using us to do their dirty work. Come on, let’s haul bottom
@@ -988,7 +988,7 @@ that.
 saloon tha’s catering to us niggers. Heabenly God! But if the stars them
 didn’t twinkle way down in mah eyes. But easy, easy, old man, I got out
 mah shaving steel and draws it down the goosey flesh o’ one o’ them,
-and, buddy, you shoulda heah him squeal.... The pohlice?” His massive
+and, buddy, you shoulda heah him squeal.<span class="three-dots"></span>The pohlice?” His massive
 mouth molded the words to its own form. “They tooks me, yes, but tunned
 me loose by’n’by. They’s with us this time, boh, but, Lawdy! if they
 hadn’t did entervention I woulda gutted gizzard and kidney outa that
@@ -1034,7 +1034,7 @@ flat in One Hundred and Fortieth Street. The buffet flat was the
 rendezvous of a group of railroad porters and club waiters who gambled
 for big stakes. Jake
 did not go there often because he had to dress up as if he were going to
-a cabaret. Also, he was not a big-stake gambler.... He preferred
+a cabaret. Also, he was not a big-stake gambler.<span class="three-dots"></span>He preferred
 Billy Biasse’s, where he could go whenever he liked with hook and
 overalls.
 
@@ -1043,7 +1043,7 @@ overalls.
 For some time before Jake’s return from Europe Zeddy had stopped going
 to Billy Biasse’s. He told Jake he was fed up with it. Jake did not know
 that Zeddy owed Nije money and that he did not go to Billy Biasse’s
-because Nije often went there....
+because Nije often went there.<span class="three-dots"></span>
 
 Later in the evening Nije went to Billy Biasse’s and found a
 longshoreman who was known at the buffet flat, to take him there.
@@ -1066,7 +1066,7 @@ cards, kept a wary eye on Nije. Sometimes their eyes met. No one was
 aware of the challenge that was developing between the two men.
 
 There was a little slackening in the games, a general call for drinks,
-and a shifting of chairs. Nije got nearer to Zeddy.... Half-smiling
+and a shifting of chairs. Nije got nearer to Zeddy.<span class="three-dots"></span>Half-smiling
 and careless-like, he planted his bootheel upon Zeddy’s toes.
 
 “Git off mah feets,” Zeddy barked. The answer was a hard blow in the
@@ -1186,13 +1186,13 @@ was fifteen and left her before she was eighteen. Since then she had
 lived with a yellow complex at the core of her heart.
 
 Civilization had brought strikingly exotic types into Susy’s race. And
-like many, many Negroes, she was a victim to that.... Ancient black
+like many, many Negroes, she was a victim to that.<span class="three-dots"></span>Ancient black
 life rooted upon its base with all its fascinating new layers of brown,
 low-brown, high-brown, nut-brown, lemon, maroon, olive, mauve, gold.
 Yellow balancing between black and white. Black reaching out beyond
 yellow. Almost-white on the brink of a change. Sucked back down into the
 current of black by
-the terribly sweet rhythm of black blood....
+the terribly sweet rhythm of black blood.<span class="three-dots"></span>
 
 Susy’s life of yellow complexity was surcharged with gin. There were
 whisky and beer also at her sociable evenings, but gin was the drink of
@@ -1311,7 +1311,7 @@ and a gramophone whar we’s going.”
 Zeddy also took along Strawberry Lips, a new pal, burnt-cork black, who
 was thus nicknamed from the peculiar stage-red color of his mouth.
 Strawberry Lips was typically the stage Negro. He was proof that a
-generalization has some foundation in truth.... You might live your
+generalization has some foundation in truth.<span class="three-dots"></span>You might live your
 life in many black belts and arrive at the conclusion that there is no
 such thing as a typical Negro—no minstrel coon off the stage, no Thomas Nelson
 Page’s nigger, no Octavus Roy Cohen’s porter, no lineal descendant of
@@ -1348,7 +1348,7 @@ in complexion, sat drinking with jaded sneering expressions on their
 faces. The one that had invited Zeddy was among them. He waved to him to
 come over with his friends.
 
-“Sit down and try some gin,” he said....
+“Sit down and try some gin,” he said.<span class="three-dots"></span>
 
 Zeddy dipped his hand in his pocket and sent two bones rolling on the
 table.
@@ -1395,8 +1395,8 @@ mixing here with Susy and you all.”
 
 “I guess you don’t now,” somebody said.
 
-Gin went round ... and round ... and round.... Desultory
-dancing.... Dice.... Blackjack.... Poker.... The room became
+Gin went round<span class="three-dots"></span>and round<span class="three-dots"></span>and round.<span class="three-dots"></span>Desultory
+dancing.<span class="three-dots"></span>Dice.<span class="three-dots"></span>Blackjack.<span class="three-dots"></span>Poker.<span class="three-dots"></span>The room became
 a close, live, intense place. Tight-faced, the men seemed interested
 only in drinking and gaming, while Susy and Miss Curdy, guzzling hard,
 grew uglier. A jungle atmosphere pervaded the room, and, like shameless
@@ -1439,12 +1439,12 @@ excelling in spectacular acts to win the applause of women.
 But women were so realistic and straight-going. *They* were the real
 controlling force of life. Jake remembered the bal-musette fights
 between colored and white soldiers in France. Blacks, browns, yellows,
-whites.... He remembered the interracial sex skirmishes in England.
+whites.<span class="three-dots"></span>He remembered the interracial sex skirmishes in England.
 Men fought, hurt, wounded, killed each other. Women, like blazing
 torches, egged them on or denounced them. Victims of sex, the men seemed
 foolish, apelike blunderers in their pools of blood. Didn’t know what
 they were fighting for, except it was to gratify some vague feeling
-about women....
+about women.<span class="three-dots"></span>
 
 Jake’s thoughts went roaming after his little lost brown of the
 Baltimore. The difference! She, in one night, had revealed a fine
@@ -1465,7 +1465,7 @@ Jake went over to the mantelpiece to pour a large chaser of beer and
 Miss Curdy leered at him. She disgusted him. His life was a free coarse
 thing, but he detested nastiness and ugliness. Guess I’ll haul bottom to
 Harlem, he thought. Congo Rose was a rearing wild animal, all right, but
-these women, these boys.... Skunks, tame skunks, all of them!
+these women, these boys.<span class="three-dots"></span>Skunks, tame skunks, all of them!
 
 He was just going out when a chocolate lad pointed at a light-brown and
 said: “The pot calls foh four bits, chappie. Come across or stay out.”
@@ -1555,12 +1555,12 @@ black moon.”
 
 “Myrtle Avenue.”
 
-“Come outa that; you ain’t talking....”
+“Come outa that; you ain’t talking.<span class="three-dots"></span>”
 
 “The trute as I knows it, buddy.”
 
 “Crazy dog bite mah
-laig!” cried Jake. “You ain’t telling me that you done gone....”
+laig!” cried Jake. “You ain’t telling me that you done gone.<span class="three-dots"></span>”
 
 “Transfer mah suitcase and all mah pohsitions to Susy.”
 
@@ -1587,7 +1587,7 @@ to look at like you’ fair-brown queen, but she’s tur’bly sweet loving.
 You know when a ma-ma ain’t the goods in looks and figure, she’s got to
 make up foh it some. And that Susy does. And she treats me right. Gimme
 all I wants to drink and brings home the goodest poke chops and fried
-chicken foh me to put away under mah shirt.... Youse got to come and
+chicken foh me to put away under mah shirt.<span class="three-dots"></span>Youse got to come and
 feed with us all one o’ these heah evenings.”
 
 It was a party of five when Jake went again to Myrtle Avenue for the
@@ -1603,7 +1603,7 @@ taste.
 Cream tomato soup.
 Ragout of chicken giblets. Southern fried chicken. Candied sweet
 potatoes. Stewed corn. Rum-flavored fruit salad waiting in the
-ice-box.... The stars rolling in Susy’s shining face showed how
+ice-box.<span class="three-dots"></span>The stars rolling in Susy’s shining face showed how
 pleased she was with her art.
 
 She may be fat and ugly as a turkey, thought Jake, but her eats am sure
@@ -1611,17 +1611,17 @@ beautiful.
 
 “Heah! Pass me you’ plate,” Susy gave Jake a leg. Zeddy held out his
 plate again and got a wing. Strawberry Lips received a bit of
-breast....
+breast.<span class="three-dots"></span>
 
 “No more chicken for me, Susy,” Miss Curdy mumbled, “but I *will* have
 another helping of that there stewed corn. I don’t know what ingredients
 yo-all puts in it, but, Lawdy! I never tasted anything near so good.”
 
 Susy beamed and dipped up three spoonfuls of corn. “Plenty, thank you,”
-Miss Curdy stopped her from filling up her saucer.... Susy drank off
+Miss Curdy stopped her from filling up her saucer.<span class="three-dots"></span>Susy drank off
 a tumbler of cocktail at a draught, and wiped her lips with the white
 serviette that was stuck into the low neck of her vermillion
-crepe-de-chine blouse....
+crepe-de-chine blouse.<span class="three-dots"></span>
 
 When Jake was ready
 to leave, Zeddy announced that he would take a little jaunt with him to
@@ -1668,7 +1668,7 @@ Zeddy looked savagely in her eyes and growled: “Come outa that, sistah,
 and gimme mah cap. It ain’t no use stahting trouble.”
 
 Susy looked steadily in his eyes and chucked the cap at him. “Theah’s
-you cap, but ef you stahts leaving me nights you ...”
+you cap, but ef you stahts leaving me nights you<span class="three-dots"></span>”
 
 “What will you do?” asked Zeddy.
 
@@ -1685,7 +1685,7 @@ tonight, boh?”
 “Not ef you loves you’ new home, buddy,” Jake replied.
 
 “Bull! That plug-ugly black woman is ornery like hell. I ain’t gwineta
-let her bridle and ride me.... You ain’t in no pickle like that with
+let her bridle and ride me.<span class="three-dots"></span>You ain’t in no pickle like that with
 Rose, is you?”
 
 “Lawd, no! I do as I wanta. But I’m one independent cuss, buddy. We
@@ -1695,8 +1695,8 @@ ain’t sitchuate the same. I works.”
 
 “It ain’t the black ones only,” said Jake.
 
-“I wish I could hit things off like you, boh,” said Zeddy....
-“Well, I’ll see you all some night at Billy Biasse’s joint....
+“I wish I could hit things off like you, boh,” said Zeddy.<span class="three-dots"></span>
+“Well, I’ll see you all some night at Billy Biasse’s joint.<span class="three-dots"></span>
 S’long. Don’t pick up no bad change.”
 
 From that evening Zeddy began to discover that it wasn’t all fine and
@@ -1731,7 +1731,7 @@ to be any other nigger woman’s daddy.”
 
 So, in a few pointed phrases, Susy let Zeddy understand precisely what
 she would stand for. Zeddy was well kept like a prince of his type. He
-could not complain about food ... and bed. Susy was splendid in her
+could not complain about food<span class="three-dots"></span>and bed. Susy was splendid in her
 matriarchal way, rolling her eyes with love or disapproval at him,
 according to the exigencies of the moment.
 
@@ -1743,9 +1743,9 @@ criticism from Zeddy. She had bargained with him in the interest of
 necessity and of rivalry and she paid and paid fully, but grimly. She
 was proud to have a man to boss about in an intimate, casual way.
 
-“Git out another bottle of gin, Zeddy....”
+“Git out another bottle of gin, Zeddy.<span class="three-dots"></span>”
 
-“Bring along that packet o’ saltines....”
+“Bring along that packet o’ saltines.<span class="three-dots"></span>”
 
 “Put on that theah ‘Tickling Blues’ that we’s all just crazy about.”
 
@@ -1772,7 +1772,7 @@ tight-rolled kinks knotted with scraps of ribbon of different colors. “I
 pays foh what I know and I’ve nevah been sorry, either. Yes, mam, I done
 larned about mah own self fust. Had no allusions about mahself. I knowed
 that I was black and ugly and noclass and unejucated. And I knowed that
-I was bohn foh love.... Mah mammy did useter warn me about love. All
+I was bohn foh love.<span class="three-dots"></span>Mah mammy did useter warn me about love. All
 what the white folks call white slavery theseadays. I dunno ef theah’s
 another name foh the niggeran’-white side ovit down home in
 Dixie. Well, I soon found out it wasn’t womens alone in the business,
@@ -1791,7 +1791,7 @@ rubbish we l’arn at Sunday school and the sweet snooziness I used to lap
 up in thim blue-cover story books. My God! the things I’ve seen! Working
 with white folks, so dickty and high-and-mighty, you think theyse nevah
 oncet naked and thim feets nevah touch ground. Yet all the silks and
-furs and shining diamonds can’t hide the misery a them lives....
+furs and shining diamonds can’t hide the misery a them lives.<span class="three-dots"></span>
 Servants and heartbreakers from outside stealing the husband’s stuff. And all the men them
 that can’t find no sweet-loving life at home. Lavinia, I done seen
 life.”
@@ -1855,7 +1855,7 @@ of the way, hey, you Suze?”
 A week later he repeated the performance, coming home with alarming
 symptoms of gin hiccough. Susy said nothing. After that Zeddy began to
 prance, as much as a short, heavy-made human could, with the bit out of
-his mouth....
+his mouth.<span class="three-dots"></span>
 
 One Saturday night Susy’s gin party was a sad failure. Nobody came
 beside Miss Curdy with Strawberry Lips. (Zeddy had left for Harlem in
@@ -1909,7 +1909,7 @@ Billy.
 
 “But why Wolf?”
 
-“Khhhhhhh — Khhhhhhhh ...” Zeddy laughed. "'Causen he eats his own
+“Khhhhhhh — Khhhhhhhh<span class="three-dots"></span>” Zeddy laughed. "'Causen he eats his own
 kind."
 
 It was time for Rose to dance. Her partner had preceded her to the open
@@ -1922,7 +1922,7 @@ not he was playing.
 They were ready, Rose and the dancer-boy. The pianist began, his eyes
 toward the ceiling in a sort of savage ecstatic dream. Fiddler,
 saxophonist, drummer, and cymbalist seemed to catch their inspiration
-from him....
+from him.<span class="three-dots"></span>
 
 ::: {.poem}
 When Luty dances, everything
@@ -1948,19 +1948,19 @@ For he’s a foot-manipulating fool
 
 <p class="indent">When he hears that crazy moan</p>
 
-<p class="indent">Come rolling, rolling outa that saxophone....</p>
+<p class="indent">Come rolling, rolling outa that saxophone.<span class="three-dots"></span></p>
 
 Watch that strut; there’s no keeping him cool
 
-<p class="indent">When he’s a-rearing with that saxophone....</p>
+<p class="indent">When he’s a-rearing with that saxophone.<span class="three-dots"></span></p>
 
 <p class="indent">Oh, the tearing, tantalizing tone!</p>
 
-<p class="indent">Of that moaning saxophone....</p>
+<p class="indent">Of that moaning saxophone.<span class="three-dots"></span></p>
 
-<p class="indent2">That saxophone....</p>
+<p class="indent2">That saxophone.<span class="three-dots"></span></p>
 
-<p class="indent2">That saxophone....</p>
+<p class="indent2">That saxophone.<span class="three-dots"></span></p>
 :::
 
 They danced, Rose and the boy. Oh, they danced! An exercise of
@@ -1970,7 +1970,7 @@ palm, working knee between knee, grinning with real joy. They shimmied,
 breast to breast, bent themselves far back and shimmied again. Lifting
 high her short skirt and showing her green bloomers, Rose kicked. And in
 his tight nigger-brown suit, the boy kicked even with her. They were
-right there together, neither going beyond the other....
+right there together, neither going beyond the other.<span class="three-dots"></span>
 
 And the pianist! At intervals his yellow eyes, almost bloodshot,
 swept the cabaret with a triumphant glow, gave the dancers a caressing
@@ -1983,11 +1983,11 @@ For he’s a foot-manipulating fool
 
 When he hears that crazy moan
 
-Come rolling, rolling outa that saxophone....
+Come rolling, rolling outa that saxophone.<span class="three-dots"></span>
 
-<p class="indent">That saxophone....</p>
+<p class="indent">That saxophone.<span class="three-dots"></span></p>
 
-<p class="indent">That saxophone....</p>
+<p class="indent">That saxophone.<span class="three-dots"></span></p>
 :::
 
 Rose was sipping her White Rock. Her partner, at Billy’s table, sucked
@@ -2063,7 +2063,7 @@ Gently she began pushing away the assaulted girl, who burst into tears.
 “She come boxing me up ovah a dutty-black ’Merican coon.”
 
 “Mek a quick move or I’ll box you bumbole ovah de moon,” her assailant
-cried after her....
+cried after her.<span class="three-dots"></span>
 
 “The monkey-chasers am scrapping,” Zeddy commented.
 
@@ -2074,7 +2074,7 @@ too,” remarked a young West Indian behind Jake.
 
 “Hmm! but theyse got the excitement fever,” a lemon-colored
 girl at a near table made her contribution and rocked and twisted
-herself coquettishly at Jake....
+herself coquettishly at Jake.<span class="three-dots"></span>
 
 Susy had already reached the pavement with Miss Curdy and Strawberry
 Lips. Susy breathed heavily.
@@ -2105,7 +2105,7 @@ Looka that theah ugly black nigger loving up a scrimpy brown gal right
 befoh mah eyes. Jest daring me to turn raw and loose lak them
 monkey-chasing womens thisanight. But that I wouldn’t do. I ain’t a
 woman abandoned to sich publicity stunts. Not even though mah craw was
-full to bursting. Lemme see’m tonight.... Yessam, this heah Harlem is
+full to bursting. Lemme see’m tonight.<span class="three-dots"></span>Yessam, this heah Harlem is
 sure nigger hell. Take me way away from it.”
 
 ::: {.small-break}
@@ -2156,7 +2156,7 @@ is hard luck.”
 The blazing lights of the Baltimore were put
 out and the entrance was padlocked. Fifth Avenue and Lenox talked about
 nothing else. Buddy meeting buddy and chippie greeting chippie, asked:
-“Did you hear the news?” ... “Well, what do you know about that?”
+“Did you hear the news?”<span class="three-dots"></span>“Well, what do you know about that?”
 
 Yet nothing sensational had happened in the Baltimore. The police had
 not, on a certain night, swept into it and closed it up because of
@@ -2203,8 +2203,8 @@ the colored cushions and under the soft, shaded lights of Madame
 Suarez’s speakeasy. It was a new world for Jake and he took it easily.
 That was his natural
 way, wherever he went, whatever new people he met. It had helped him
-over many a bad crossing at Brest at Havre and in London.... Take it
-easy ... take life easy. Sometimes he was disgusted with life, but he
+over many a bad crossing at Brest at Havre and in London.<span class="three-dots"></span>Take it
+easy<span class="three-dots"></span>take life easy. Sometimes he was disgusted with life, but he
 was never frightened of it.
 
 Jake had never seen colored women so carefully elegant as these
@@ -2238,7 +2238,7 @@ please them. Showed them all of the buffet flat, even her own bedroom.
 One of them, very freckled and red-haired, sat down to the piano and
 jazzed out popular songs. The trio radiated friendliness all around
 them. Danced with the colored beauties and made lively conversation with
-the men. They were gay and recklessly spendthrift....
+the men. They were gay and recklessly spendthrift.<span class="three-dots"></span>
 
 They returned on a Saturday night, between midnight and morning, when
 the atmosphere of Madame Suarez’s was fairly bacchic and jazz music was
@@ -2271,7 +2271,7 @@ Grape vine, red wine, babe mine, bite a berry,
 <p class="indent2">Cherry-ee-ee-ee-ee, cherry-ee-ee-ee-ee-ee, ee-ee-ee</p>
 
 <p class="indent2">Cherry-ee-ee-ee-ee, cherry-ee-ee-ee-ee-ee, ee-ee-ee</p>
-<p class="indent2">Grape vine, rose vine, sweet wine....</p>
+<p class="indent2">Grape vine, rose vine, sweet wine.<span class="three-dots"></span></p>
 
 
 :::
@@ -2288,7 +2288,7 @@ And you’ve never yet been merry,
 :::
 
 ::: {.poem}
-We’ll all be merry when you have....
+We’ll all be merry when you have.<span class="three-dots"></span>
 :::
 
 The women, carried away by the sheer rhythm of delight, had risen above
@@ -2296,7 +2296,7 @@ their commercial instincts (a common trait of Negroes in emotional
 states) and abandoned themselves to pure voluptuous jazzing. They were
 gorgeous animals swaying there through the dance, punctuating it with
 marks of warm physical excitement. The atmosphere was charged with
-intensity and over-charged with currents of personal reaction....
+intensity and over-charged with currents of personal reaction.<span class="three-dots"></span>
 
 Then the five young white men unmasked as the Vice Squad and killed the
 thing.
@@ -2315,7 +2315,7 @@ the wary boss of the Baltimore that they were fine fellows. The boss was
 a fine fellow himself, who loved life and various forms of fun and had
 no morals about them. And so one night when the trio had left their
 hired white ladies behind, he was persuaded to give his youthful white
-guests an introduction to Madame Adeline Suarez’s buffet flat....
+guests an introduction to Madame Adeline Suarez’s buffet flat.<span class="three-dots"></span>
 
 ::: {.small-break}
 :::
@@ -2398,7 +2398,7 @@ Rose that touched and roused him as his vivid recollection of his
 charming little brown-skin of the Baltimore. Rose’s room to him was like
 any ordinary lodging in Harlem. While the room of his little lost brown
 lived in his mind a highly magnified affair: a bed of gold, fresh, white
-linen, a magic carpet, all bathed in the rarest perfume.... Rose’s
+linen, a magic carpet, all bathed in the rarest perfume.<span class="three-dots"></span>Rose’s
 perfume made his nose itch. It was rank.
 
 He came home another
@@ -2409,7 +2409,7 @@ Evidently the strange visitor of the week before had been there again.
 
 “Hello!” She yawned and flicked off her cigarette ash and continued
 smoking. A chic veneer over a hard, restless, insensitive body.
-Fascinating, nevertheless.... For the moment, just as she was, she
+Fascinating, nevertheless.<span class="three-dots"></span>For the moment, just as she was, she
 was desirable and provoked responses in him. He shuffled up to the couch
 and caressed her.
 
@@ -2436,9 +2436,9 @@ out.
 
 Walking down the street, he looked at his palms. “Ahm shame o’ you,
 hands,” he murmured. “Mah mother useter tell me, ‘Nevah hit no woman,’
-but that hussy jest made me do it ... jest *made* me.... Well, I’d
-better pull outa that there mud-hole.... It wasn’t what I come back
-to Gawd’s own country foh. No, sirree! You bet it wasn’t....”
+but that hussy jest made me do it<span class="three-dots"></span>jest *made* me.<span class="three-dots"></span>Well, I’d
+better pull outa that there mud-hole.<span class="three-dots"></span>It wasn’t what I come back
+to Gawd’s own country foh. No, sirree! You bet it wasn’t.<span class="three-dots"></span>”
 
 ::: {.small-break}
 :::
@@ -2448,7 +2448,7 @@ Blake was there and Rose was telling a happy tale. He stood by the
 closed door and listened for a while.
 
 “Have another drink, Gertie. Don’t ever get a wee bit delicate when
-youse with me.... My, mah dear, but he did slap the day-lights outa me. When I comed to I
+youse with me.<span class="three-dots"></span>My, mah dear, but he did slap the day-lights outa me. When I comed to I
 wanted to kiss his feet, but he was gone.”
 
 “Rose! You’re the limit. But didn’t it hurt awful?”
@@ -2456,7 +2456,7 @@ wanted to kiss his feet, but he was gone.”
 “Didn’t hurt enough. Honey, it’s the first time I ever felt his real
 strength. A hefty-looking one like him, always acting so nice and
 proper. I almost thought he was getting sissy. But he’s a *ma-an* all
-right....”
+right.<span class="three-dots"></span>”
 
 A nasty smile stole into Jake’s features. He could not face those women.
 He left the house again. He strolled down to Dixie Red’s poolroom and
@@ -2496,14 +2496,14 @@ Rose switched on the light and looked at her watch.
 
 “My stars, daddy! We been honey-dreaming some! I am two hours late.”
 
-She jumped up and jig-stepped. “I should worry if the Congo ... I
+She jumped up and jig-stepped. “I should worry if the Congo<span class="three-dots"></span>I
 should worry mumbo-jumbo.”
 
 She smoothed out her frock, arranged her hair, and put the turban on.
 “Come along to the Congo a little later,” she said to Jake. “Let’s
 celebrate on champagne.”
 
-The door closed on him....
+The door closed on him.<span class="three-dots"></span>
 
 “O Lawdy!” he yawned, stretched himself, and got up. He took the rest of
 his clothes out of the closet, picked up the crumpled things from the
@@ -2570,9 +2570,9 @@ Jake had taken the job on the railroad just to break the hold that
 Harlem had upon him. When he quitted Rose he felt that he ought to get
 right out of the atmosphere of Harlem. If I don’t git away from it for a
 while, it’ll sure git me, he mused. But not ship-and-port-town life again. I done had
-enough a that here and ovah there.... So he had picked the railroad.
+enough a that here and ovah there.<span class="three-dots"></span>So he had picked the railroad.
 One or two nights a week in Harlem. And all the days on the road. He
-would go on like that until he grew tired of that rhythm....
+would go on like that until he grew tired of that rhythm.<span class="three-dots"></span>
 
 The rush was over. Everything was quiet. The corridors of the dining-car
 were emptied of their jam of hungry, impatient guests. The “mule” had
@@ -2594,7 +2594,7 @@ poker. Jake wanted to join them, but he had no money. One waiter sat
 alone at a small table. He was reading. He was of average size, slim, a
 smooth pure ebony with straight features and a suggestion of whiskers.
 Jake shuffled up to him and asked him for the loan of two dollars. He
-got it and went to play....
+got it and went to play.<span class="three-dots"></span>
 
 ::: {.small-break}
 :::
@@ -2609,7 +2609,7 @@ spelled the title, “S-A-P-H-O, Sapho.”
 “What’s it all about?” Jake demanded, flattening down the book on the
 table with his friendly paw. The waiter was reading the scene between
 Fanny and Jean when the lover discovers the letters of his mistress’s
-former woman friend and exclaims: “Ah *Oui ... Sapho ... toute la lyre*....”
+former woman friend and exclaims: “Ah *Oui<span class="three-dots"></span>Sapho<span class="three-dots"></span>toute la lyre*.<span class="three-dots"></span>”
 
 “It’s a story,” he told Jake, “by a French writer named Alphonse Daudet.
 It’s about a sporting woman who was beautiful like a rose and had the
@@ -2634,11 +2634,11 @@ lovely words to modern language,” said the waiter.
 
 “Which one them?” asked Jake.
 
-“Sapphic and Lesbian ... beautiful words.”
+“Sapphic and Lesbian<span class="three-dots"></span>beautiful words.”
 
 “What is that there Leshbian?”
 
-“... Lovely word, eh?”
+“<span class="three-dots"></span>Lovely word, eh?”
 
 “Tha’s what we calls bulldyker in Harlem,” drawled Jake. “Them’s all
 ugly womens.”
@@ -2653,11 +2653,11 @@ He began humming:
 
 ::: {.poem}
 And there is two things in Harlem I don’t understan’ It is a bulldyking
-woman and a faggoty man....
+woman and a faggoty man.<span class="three-dots"></span>
 :::
 
 Charmingly, like a child that does not know its letters, Jake turned the
-pages of the novel....
+pages of the novel.<span class="three-dots"></span>
 
 “Bumbole! This heah language is most different from how they talk it.”
 
@@ -2677,7 +2677,7 @@ larned that much offn the froggies.”
 
 *“Au oui, camarade,”* Jake beamed. “I was way, way ovah there after
 Democracy and them boches, and when I couldn’t find one or the other, I
-jest turned mah black moon from the A.E.F.... But you! How come you
+jest turned mah black moon from the A.E.F.<span class="three-dots"></span>But you! How come you
 jest plowing through this here stuff lak that? I could nevah see no
 light at all in them print, chappie. *Eh bien. Mais vous compris beaucoup.”*
 
@@ -2693,7 +2693,7 @@ chappie. Tell me in straight United States.”
 “Of course I’m Negro,” the waiter said, “but I was born in Hayti and the
 language down there is French.”
 
-“Hayti ... Hayti,” repeated Jake. “Tha’s where now? Tha’s &#11834;”
+“Hayti<span class="three-dots"></span>Hayti,” repeated Jake. “Tha’s where now? Tha’s &#11834;”
 
 “An island in the Caribbean---near the Panama Canal.”
 
@@ -2786,7 +2786,7 @@ Saxons were slaves
 of the Romans. He told Jake of the old destroyed cultures of West Africa
 and of their vestiges, of black kings who struggled stoutly for the
 independence of their kingdoms: Prempreh of Ashanti, Tofa of Dahomey,
-Gbehanzin of Benin, Cetawayo of Zulu-Land, Menelik of Abyssinia....
+Gbehanzin of Benin, Cetawayo of Zulu-Land, Menelik of Abyssinia.<span class="three-dots"></span>
 
 Had Jake ever heard of the little Republic of Liberia, founded by
 American Negroes? And Abyssinia, deep-set in the shoulder of Africa,
@@ -2799,9 +2799,9 @@ There was the lovely legend of her queen who visited the court of the
 Royal Rake of Jerusalem, and how he fell in love with her. And her
 beautiful black body made the Sage so lyrical, he immortalized her in
 those wonderful pagan verses that are sacred to the hearts of all
-lovers—even the heart of the Church.... The catty
+lovers—even the heart of the Church.<span class="three-dots"></span>The catty
 ladies of the court of Jerusalem were jealous of her. And Sheba reminded
-them that she was black but beautiful.... And after a happy period
+them that she was black but beautiful.<span class="three-dots"></span>And after a happy period
 she left Jerusalem and returned to her country with the son that came of
 the royal affair. And that son subsequently became King of Abyssinia.
 And to this day the rulers of Abyssinia carry the title, Lion of Judah,
@@ -2819,7 +2819,7 @@ Jake listened, rapt, without a word of interruption.
 their civilizations,” the waiter said. “I wonder what Abyssinia will
 yield in her time? Next to the romance of Hayti, because it is my native
 country, I should
-love to write the romance of Abyssinia ... Ethiopia.”
+love to write the romance of Abyssinia<span class="three-dots"></span>Ethiopia.”
 
 “Is that theah country the same Ethiopia that we done l’arned about in
 the Bible?” asked Jake.
@@ -2860,9 +2860,9 @@ Every free day I have in New York I spend at the library downtown. I
 read there and I write.”
 
 Jake shook his head. “This heah work is all right for me, but for a
-chappie like you.... Do you like waiting on them ofays? ’Sall right
+chappie like you.<span class="three-dots"></span>Do you like waiting on them ofays? ’Sall right
 working longshore or in a kitchen as I does it, but to be rubbing up
-against them and bowing so nice and all a that....”
+against them and bowing so nice and all a that.<span class="three-dots"></span>”
 
 “It isn’t so bad,” the waiter said. “Most of them are pretty nice. Last
 trip I waited on a big Southern Senator. He was perfectly gentlemanly
@@ -2872,7 +2872,7 @@ a dollar. When I have the blues I read Dr. Frank Crane.”
 Jake didn’t understand, but he spat and said a stinking word. The chef
 called him to do something in the kitchen.
 
-“Leave that theah professor and his nonsense,” the chef said....
+“Leave that theah professor and his nonsense,” the chef said.<span class="three-dots"></span>
 
 The great black animal whistled sharply and puff-puffed slowly into the
 station of Pittsburgh.
@@ -2917,7 +2917,7 @@ counter.
 counter; “it’s fresh.” She looked straight in his eyes. “All right,
 I’ll try peach,” he
 said, and, magnetically, his long, shining fingers touched her
-hand....
+hand.<span class="three-dots"></span>
 
 In the evening he found the Haytian waiter at the big Wiley Avenue
 pool-room. Quite different from the pool-rooms in Harlem, it was a sort
@@ -2939,7 +2939,7 @@ Soot-hill; always the same.”
 
 The railroad men hated the Pittsburgh run. They hated the town, they
 hated Wiley Avenue and their wretched free quarters that were in
-it....
+it.<span class="three-dots"></span>
 
 “What’re you going to do?”
 
@@ -2979,7 +2979,7 @@ little long-headed finger-snapping black, who with strenuous h’h, h’h,
 h’h, h’h, was zest-fully throwing the bones. Jake almost joined the game
 but he admonished himself: “You winned five dollars thisaday and you
 made a nice li’l
-brown piece. Wha’more you want?” ...
+brown piece. Wha’more you want?”<span class="three-dots"></span>
 
 He found the beds assigned to the members of his crew. They were double
 beds, like Pullman berths. Three of the waiters had not come in yet. The
@@ -3076,7 +3076,7 @@ Yet he’s always the same happy nigger, stout and strong like a bull.”
 
 He took another whisky and went like a lean hound after Happy. Jake
 looked mischievously at the little brown door, remarking: “It’s a great
-life ef youse in on it.” ...
+life ef youse in on it.”<span class="three-dots"></span>
 
 The light-yellow came back with a cold gleam in his eyes, like arsenic
 shining in the dark. His features were accentuated by a rigid,
@@ -3145,18 +3145,18 @@ In other sections of the big barn building the faint chink of coins
 touched his ears. Those men gambling the hopeless Pittsburg night away
 did not disturb him. They were so quiet. It would have been better,
 perhaps, if they were noisy. He closed his eyes and tried to hynotize
-himself to sleep. Sleep ... sleep ... sleep ... sleep ...
-sleep.... He began counting slowly. His vigil might break and vanish
+himself to sleep. Sleep<span class="three-dots"></span>sleep<span class="three-dots"></span>sleep<span class="three-dots"></span>sleep<span class="three-dots"></span>
+sleep.<span class="three-dots"></span>He began counting slowly. His vigil might break and vanish
 somnolently upon some magic number. He counted a million. Perhaps love
 would appease this unwavering angel of wakefulness. Oh, but he could not
-pick up love easily on the street as Jake....
+pick up love easily on the street as Jake.<span class="three-dots"></span>
 
 He flung himself, across void and water, back home. Home thoughts, if
 you can make them soft and sweet and misty-beautiful enough, can
 sometimes snare sleep. There was the quiet, chalky-dusty street and,
 jutting out over it, the front of the house that he had lived in. The
 high staircase built on the outside, and pots of begonias and ferns on
-the landing....
+the landing.<span class="three-dots"></span>
 
 All the flowering things he loved, red and white and pink hibiscus,
 mimosas, rhododendrons, a thousand glowing
@@ -3164,7 +3164,7 @@ creepers, climbing and spilling their vivid petals everywhere, and
 bright-buzzing humming-birds and butterflies. All the tropic-warm lilies
 and roses. Giddy-high erect thatch palms, slender, tall, fur-fronded
 ferns, majestic cotton trees, stately bamboos creating a green grandeur
-in the heart of space....
+in the heart of space.<span class="three-dots"></span>
 
 Sleep remained cold and distant. Intermittently the cooks broke their
 snoring with masticating noises of their fat lips, like animals eating.
@@ -3174,7 +3174,7 @@ had put them in the same race. He ought to love them and feel them (if
 they felt anything). He ought to if he had a shred of social morality in
 him. They were all chain-ganged together and he was counted as one link.
 Yet he loathed every soul in that great barrack-room, except Jake.
-Race.... Why should he have and love a race?
+Race.<span class="three-dots"></span>Why should he have and love a race?
 
 Races and nations were things like skunks, whose smells poisoned the
 air of life. Yet civilized mankind reposed its faith and future in their
@@ -3200,7 +3200,7 @@ He remembered when little Hayti was floundering uncontrolled, how proud
 he was to be the son of a free nation. He used to feel condescendingly
 sorry for those poor African natives; superior to ten millions of
 suppressed Yankee “coons.” Now he was just one of them and he hated them
-for being one of them....
+for being one of them.<span class="three-dots"></span>
 
 But he was not entirely of them, he reflected. He possessed another
 language and literature that they knew not of. And some day Uncle Sam
@@ -3219,7 +3219,7 @@ angle. Pushed him toward the sheer precipice of imagination. It was
 awful. He was afraid. For thought was a terrible tiger clawing at his
 small portion of gray substance, throttling, tearing, and tormenting him
 with pitiless ferocity. Oh, a thousand ideas of life were shrieking at
-him in a wild orgy of mockery! ...
+him in a wild orgy of mockery!<span class="three-dots"></span>
 
 He was in the middle of a world suspended in space. A familiar line lit
 up, like a flame, the vast, crowded, immensity of his vision.
@@ -3228,7 +3228,7 @@ up, like a flame, the vast, crowded, immensity of his vision.
 Et l’âme du monde est dans l’air.
 :::
 
-A moment’s respite....
+A moment’s respite.<span class="three-dots"></span>
 
 ::: {.small-break}
 :::
@@ -3251,12 +3251,12 @@ Immediately he was back home again. His father’s house was a vast forest
 full of blooming hibiscus and mimosas and giant evergreen trees. And he
 was a gay humming-bird, fluttering and darting his long needle beak into
 the heart of a bell-flower. Suddenly he changed into an owl flying by
-day.... Howard University was a prison with white warders.... Now
+day.<span class="three-dots"></span>Howard University was a prison with white warders.<span class="three-dots"></span>Now
 he was a young shining chief in a marble palace; slim, naked negresses
 dancing for his
 pleasure; courtiers reclining on cushions soft like passionate kisses;
 gleaming-skinned black boys bearing goblets of wine and obedient eunuchs
-waiting in the offing....
+waiting in the offing.<span class="three-dots"></span>
 
 And the world was a blue paradise. Everything was in gorgeous blue of
 heaven. Woods and streams were blue, and men and women and animals, and
@@ -3264,7 +3264,7 @@ beautiful to see and love. And he was a blue bird in flight and a blue
 lizard in love. And life was all blue happiness. Taboos and terrors and
 penalties were transformed into new pagan delights, orgies of
 Orient-blue carnival, of rare flowers and red fruits, cherubs and
-seraphs and fetishes and phalli and all the most-high gods....
+seraphs and fetishes and phalli and all the most-high gods.<span class="three-dots"></span>
 
 A thousand pins were pricking Ray’s flesh and he was shouting for Jake,
 but his voice was so faint he could not hear himself. Jake had him in
@@ -3376,7 +3376,7 @@ while Susy’s star eyes gleamed warm approval.
 “Honey, I lived in Washington and I knowed inside and naked out the
 stuck-up bush-whackers of the race. They all talks and act as if loving
 was a sin, but I tell you straight, I wouldn’t trust any of them after
-dark with a preacher.... Don’t ask me, honey. I seen and I knows them
+dark with a preacher.<span class="three-dots"></span>Don’t ask me, honey. I seen and I knows them
 all.”
 
 “I guess you does, sistah,” Susy had agreed. “Nobody kaint hand *me* no
@@ -3404,7 +3404,7 @@ coffee-skinned Georgia village boy, timid like a country girl just come
 to town—hated the nickname, but the chef would call him nothing else.
 
 “Call him ‘Rhinoceros’ when he calls you ‘Mule,’ ” Ray told the
-fourth waiter, but he was too timid to do it....
+fourth waiter, but he was too timid to do it.<span class="three-dots"></span>
 
 The dining-car was resting on the tracks in the Altoona yards, waiting
 for a Western train. The first, third, and fifth waiters were playing
@@ -3412,7 +3412,7 @@ poker. Ray was reading Dostoievski’s *Crime and Punishment.* The fourth
 waiter was working in the pantry. Suddenly the restaurant-car was
 shocked by a terrible roar.
 
-“Gwan I say! Take that theah ice and beat it, you black sissy.” ...
+“Gwan I say! Take that theah ice and beat it, you black sissy.”<span class="three-dots"></span>
 
 “This ice ain’t good for the pantry. You ought to gimme the cleaner
 one,” the timid fourth man stood his ground.
@@ -3444,7 +3444,7 @@ me? Wha’s rhinasras?”
 All the waiters laughed. The chef looked ridiculous and Ray said: “Why,
 chef, don’t you know? That’s the ugliest animal in all Africa.”
 
-The chef looked apoplectic.... “I don’t care a dime foh all you
+The chef looked apoplectic.<span class="three-dots"></span>“I don’t care a dime foh all you
 nigger waiters and I ain’t joking wif any of you. Cause you manicuring
 you’ finger nails
 and rubbing up you’ stinking black hide against white folks in that
@@ -3468,7 +3468,7 @@ need it for the water.”
 
 “Who dat? You bastard-begotten dime-snatcher, you’d better gwan back to
 you’ dining-room or I’ll throw this heah garbage in you’ crap-yaller
-face.... I’d better git long far away from you all
+face.<span class="three-dots"></span>I’d better git long far away from you all
 ’foh I lose mah haid.” The chef bounced into the kitchen and slammed the
 door.
 
@@ -3536,7 +3536,7 @@ said, “I’ll make you eat mah spittle. I done do it a’ready and I’ll do
 it again. I’ll spit in you’ eats &#11834;”
 
 “Wha’s that? The boss sure gwine to settle this.” The pantryman dashed
-out of the pantry and called the steward.... “Ain’t any of us waiters
+out of the pantry and called the steward.<span class="three-dots"></span>“Ain’t any of us waiters
 gwine to stay on heah Mis’r Farrel, with a chef like this.”
 
 “What’s that, now?” The steward was in the pantry again. “What’s this
@@ -3548,7 +3548,7 @@ with the kitchen, Sah Farrel. I does mah wuk and I don’t want no fooling
 fwom them nigger waiters, nohow.”
 
 “I guess you spit in it as you said, all right,” cried the
-pantryman.... “Yes, you! You’d wallow in a pigpen and eat the filth,
+pantryman.<span class="three-dots"></span>“Yes, you! You’d wallow in a pigpen and eat the filth,
 youse so doggone low-down.”
 
 “Now cut all o’ that out,” said the steward. “How could he do anything
@@ -3558,16 +3558,16 @@ like that, when he eats the food, and I do meself?”
 shouted Jake.
 
 The third and fifth waiters hurried into the pantry and brought out the
-waiters’ food.... First a great platter of fish and tomatoes, then
+waiters’ food.<span class="three-dots"></span>First a great platter of fish and tomatoes, then
 pork chops and mashed potatoes, steaming Java and best Borden’s cream.
 The chef had made home-made bread baked in the form of little round
 caps. Nice and hot, they quickly melted the butter that the boys
 sandwiched between them. He was a splendid cook, an artist in creating
 palatable stuff. He came out of the kitchen himself, to eat in the
 dining-room and, diplomatically, he helped himself from the waiters’
-platter of fish.... Delicious food. The waiters fell to it with keen
+platter of fish.<span class="three-dots"></span>Delicious food. The waiters fell to it with keen
 relish. Obliterated from their memory the sewer-incident of the moment
-before.... Feeding, feeding, feeding.
+before.<span class="three-dots"></span>Feeding, feeding, feeding.
 
 But Ray remembered and visualized, and his stomach turned. He left the
 food and went outside, where he found Jake taking the air. He told Jake
@@ -3630,9 +3630,9 @@ him.”
 
 “Wha’ you mean?” the pantryman demanded.
 
-“What I said,” Ray replied....
+“What I said,” Ray replied.<span class="three-dots"></span>
 
-“Oh! ... Ain’t you got no religion in you none ’tall?”
+“Oh!<span class="three-dots"></span>Ain’t you got no religion in you none ’tall?”
 
 “My parents were Catholic, but I ain’t nothing. God is white and has no
 more time for niggers than you’ve got for the chef.”
@@ -3680,14 +3680,14 @@ chef said no, he had enough for the kitchen only.
 With a terrible contented expression the chef looked with malicious hate
 into the pantryman’s yellow face. The pantryman glared back at the
 villainous black face and jerked his head in rage. The ice-cream turned
-softer....
+softer.<span class="three-dots"></span>
 
 Luncheon was over, all the work was done, everything in order, and the
 entire crew was ready to go home when the
 train reached New York. The steward wanted to go directly home. But he
 had to wait and go over to the yards with the keys, so that the
 pantryman could ice up. And the pantryman was severely reprimanded for
-his laxity in Washington....
+his laxity in Washington.<span class="three-dots"></span>
 
 ::: {.small-break}
 :::
@@ -3706,13 +3706,13 @@ One morning both the second and the fourth cook “fell down on the job,”
 neither of them reporting for duty. The steward placed an order with the
 commissary superintendent for two cooks. Jake stayed in the kitchen,
 working, while the chef and the pantryman went to the store for the
-stock....
+stock.<span class="three-dots"></span>
 
 The chef and the pantryman returned together with the large baskets of
 provisions for the trip. The eggs were carried by the chef himself in a
 neat box. Remembering that he had forgotten coffee, he sent Jake back to
 the store for it. Then he began putting away the kitchen stuff. The
-pantryman was putting away the pantry stuff....
+pantryman was putting away the pantry stuff.<span class="three-dots"></span>
 
 A yellow girl passed by and waved a smile at the chef. He grinned, his
 teeth champing his cigar. The chef hated yellow men with “cracker”
@@ -3738,7 +3738,7 @@ stepped outside the kitchen for a moment to have a tickling word with
 her.
 
 In that moment the pantryman made a lightning-bolt move; and shut down
-the little glass door between the pantry and the kitchen....
+the little glass door between the pantry and the kitchen.<span class="three-dots"></span>
 
 ::: {.small-break}
 :::
@@ -3768,7 +3768,7 @@ could tuk them. Some evil hand. O Lawd! &#11834;”
 “Hell!” The steward dashed out of the pantry to cut all the egg
 dishes off the bill. The passengers were getting clamorous. The waiters
 were asking those who had ordered eggs to change to something
-else....
+else.<span class="three-dots"></span>
 
 The steward suggested searching the pantry. The pantry was ransacked.
 “Them ain’t there, cep’n’ they had feets to walk. O Lawd of Heaben!” the
@@ -3802,7 +3802,7 @@ at the pantryman. The pantryman sprang back as the ham bone flew through
 the aperture and smashed a bottle of milk in the pantry.
 
 “What’s all this bloody business today?” cried the steward, who was just
-entering the pantry.... “What nonsense is this, chef? You’ve made a
+entering the pantry.<span class="three-dots"></span>“What nonsense is this, chef? You’ve made a
 mess of things already and now you start fighting with the waiters. You
 can’t do like that. You losing your head?”
 
@@ -3937,11 +3937,11 @@ they would be anything like that when they reached her age.
 
 The interior of this house gave Ray a shock. It looked so much like a
 comfortable boarding-house where everybody was cheerful and nice
-coquettish girls in colorful frocks were doing the waiting.... There
+coquettish girls in colorful frocks were doing the waiting.<span class="three-dots"></span>There
 were a few flirting couples, two groups of men playing cards, and girls
 hovering around. An attractive black woman was serving sandwiches, gin
 and bottled beer. At the piano, a slim yellow youth was playing a
-“blues.” ... A pleasant house party,
+“blues.”<span class="three-dots"></span>A pleasant house party,
 similar to any other among colored people of that class in Baltimore,
 New Orleans, Charleston, Richmond, or even Washington, D.C. Different,
 naturally, from New York, which molds all peoples into a hectic rhythm
@@ -3962,7 +3962,7 @@ long.”
 
 She got up and went into an adjoining room. When she returned an
 attractively made-up brown girl followed her carrying a tray with
-glasses and a bottle of champagne.... The cork hit the ceiling,
+glasses and a bottle of champagne.<span class="three-dots"></span>The cork hit the ceiling,
 bang! And deftly the woman herself poured the foaming liquor without a
 wasted drop.
 
@@ -4011,7 +4011,7 @@ otherwise engaged. The pianist began banging another blues.
 Ray felt alone and a little sorry for himself. Now that he was there, he
 would like to be touched by the spirit of that atmosphere and, like
 Jake, fall naturally into its rhythm. He also envied Jake. Just for this
-night only he would like to be like him....
+night only he would like to be like him.<span class="three-dots"></span>
 
 They were dancing. The little yellow girl, her legs kicked out at
 oblique angles, appeared as if she were going to fall through the
@@ -4027,7 +4027,7 @@ In the middle of the floor, a young railroad porter had his hand
 flattened straight down the slim, cérise-chiffoned back of a brown girl.
 Her head was thrown back and her eyes held his gleaming eyes. Her lips
 were parted with pleasure and they stood and rocked in an ecstasy. Their feet were
-not moving. Only their bodies rocked, rocked to the “blues.” ...
+not moving. Only their bodies rocked, rocked to the “blues.”<span class="three-dots"></span>
 
 Ray remarked that Jake was not in the room, nor was Madame Laura in
 evidence. A girl came to him. “Why is you so all by you’self, baby?
@@ -4062,26 +4062,26 @@ flower of the hibiscus would be in a florist’s window on Fifth Avenue.
 Rouge on brown, a warm, insidious chestnut color. But so much more
 subtle than chestnut. The round face of the first girl, the carnal
 sympathy of her full, tinted mouth, touched Ray. But something was
-between them....
+between them.<span class="three-dots"></span>
 
 The piano-player had wandered off into some dim, far-away, ancestral
 source of music. Far, far away from music-hall syncopation and jazz, he
 was lost in some sensual dream of his own. No tortures, banal shrieks
-and agonies. Tum-turn ... turn-turn ... turn-tum ...
-turn-turn.... The notes were naked acute alert. Like black youth
-burning naked in the bush. Love in the deep heart of the jungle....
+and agonies. Tum-turn<span class="three-dots"></span>turn-turn<span class="three-dots"></span>turn-tum<span class="three-dots"></span>
+turn-turn.<span class="three-dots"></span>The notes were naked acute alert. Like black youth
+burning naked in the bush. Love in the deep heart of the jungle.<span class="three-dots"></span>
 The sharp spring of a leopard from a leafy limb, the snarl of a jackal,
 green lizards in amorous play, the flight of a plumed bird, and the
 sudden laughter of
-mischievous monkeys in their green homes. Tum-turn ... turn-turn ...
-tum-tum ... turn-tum.... Simple-clear and quivering. Like a
-primitive dance of war or of love ... the marshaling of spears or the
+mischievous monkeys in their green homes. Tum-turn<span class="three-dots"></span>turn-turn<span class="three-dots"></span>
+tum-tum<span class="three-dots"></span>turn-tum.<span class="three-dots"></span>Simple-clear and quivering. Like a
+primitive dance of war or of love<span class="three-dots"></span>the marshaling of spears or the
 sacred frenzy of a phallic celebration.
 
 Black lovers of life caught up in their own free native rhythm, threaded
 to a remote scarce-remembered past, celebrating the midnight hours in
 themselves, for themselves, of themselves, in a house in Fifteenth
-Street, Philadelphia....
+Street, Philadelphia.<span class="three-dots"></span>
 
 “Raided!” A voice screamed. Standing in the rear door, a policeman,
 white, in full uniform, smilingly contemplated the spectacle. There was
@@ -4187,7 +4187,7 @@ cutter, says I. Kain’t see it for mine.”
 It was just like a jolly parlor social.”
 
 “Oh, sure! Them gals not all in the straight business, you know. Some o’
-them works and just go there for a good time, a li’l’ extra stuff....
+them works and just go there for a good time, a li’l’ extra stuff.<span class="three-dots"></span>
 It ain’t like that nonetall ovah in Europe, chappie. They wouldn’t ’a’
 treated you so nice. Them places I sampled ovah there was all straight
 raw business and no camoflage.”
@@ -4196,7 +4196,7 @@ raw business and no camoflage.”
 them?”
 
 “Hell, no! I prefer the niggers’ way every time. They does it
-better....”
+better.<span class="three-dots"></span>”
 
 “Wish I could feel the difference as you do, Jakie. I lump all those
 ladies together, without difference of race.”
@@ -4236,7 +4236,7 @@ Belt. Lenox Avenue was vivid. The saloons were bright, crowded with
 drinking men jammed tight around the bars, treating one another and
 telling the incidents of the day. Longshoremen in overalls with hooks,
 Pullman porters holding their bags, waiters, elevator boys. Liquor-rich
-laughter, banana-ripe laughter....
+laughter, banana-ripe laughter.<span class="three-dots"></span>
 
 The pavement was a dim warm bustle. Women hurrying home from day’s work
 to get dinner ready for husbands who worked at night. On their arms
@@ -4283,7 +4283,7 @@ living in the Middle Ages.”
 things you talk about am kill-joy things, chappie. The trute is they
 make me feel shame.”
 
-Ray laughed until tears trickled down his cheeks.... He visualized
+Ray laughed until tears trickled down his cheeks.<span class="three-dots"></span>He visualized
 Jake being ashamed and laughed again.
 
 “Sure,” said Jake. “I’d feel ashame’ ef a chippie—No, chappie, them
@@ -4381,7 +4381,7 @@ It’s romantic. You don’t have that awful personal everyday contact that
 domestic workers have to get along with. If I was a man and had to be
 in service, I wouldn’t want better than the railroad.”
 
-“Some’n to that, yes,” agreed Jake.... “But it ain’t all peaches,
+“Some’n to that, yes,” agreed Jake.<span class="three-dots"></span>“But it ain’t all peaches,
 neither, when all them passengers rush you like a herd of hungry swine.”
 
 Agatha stayed twenty minutes.
@@ -4404,7 +4404,7 @@ about him. I s’pose it’s killing sweet to have some’n loving you up
 thataway. Some’n
 real fond o’ you for you own self lak, lak—jest lak how mah mammy useter
 love pa and do everything foh him bafore he done took and died off
-without giving no notice.... ”
+without giving no notice.<span class="three-dots"></span>”
 
 His thoughts wandered away back to his mysterious little brown of the
 Baltimore. She was not elegant and educated, but she was nice. Maybe if
@@ -4448,7 +4448,7 @@ be so dippy about. That theah Scotch.”
 
 “I ain’t quite all right, Billy. Gotta go slow on the booze.”
 
-“Whasmat? ... Oh, foh Gawd’s sake! Don’t let the li’l’ beauty break
+“Whasmat?<span class="three-dots"></span>Oh, foh Gawd’s sake! Don’t let the li’l’ beauty break
 you’ heart. Fix her up with gin.”
 
 “Might as well, and then a royal feed o’ spare-ribs,” agreed Jake.
@@ -4502,7 +4502,7 @@ Uncle Doc told his bar man to help Billy Biasse lift Jake.
 
 Jake groaned: “I kain try.”
 
-The men took him home....
+The men took him home.<span class="three-dots"></span>
 
 Jake’s landlady had
 been invited to a fried-chicken feed in the basement lodging of an
@@ -4514,11 +4514,11 @@ their linen. And the laundress was very proud of white chauffeurs
 standing their automobiles in front of her humble basement. She noticed
 with heaving chest that the female residents of the block rubber-necked.
 Her vocation was very profitable. And it was her pleasure sometimes to
-invite a sister of her church to dinner....
+invite a sister of her church to dinner.<span class="three-dots"></span>
 
 The fried chicken, with sweet potatoes, was excellent. Over it the
 sisters chinned and ginned, recounting all the contemporary scandals of
-the Negro churches....
+the Negro churches.<span class="three-dots"></span>
 
 At last Jake’s landlady remembered him and staggered home to prepare his
 beef broth. But when she took it up to him she found that Jake was out.
@@ -4548,11 +4548,11 @@ get an appointment in one of the New York hospitals. Such an achievement
 would put him all over the Negro press and get him all the practice and
 more than he could handle in the Belt.
 
-Ray had sent Jake to him....
+Ray had sent Jake to him.<span class="three-dots"></span>
 
 The landlady brought Jake a rum punch. He shook his head. With a
 premonition of tragedy, she waited for the doctor, standing against the chiffonier, a
-blue cloth carelessly knotted round her head....
+blue cloth carelessly knotted round her head.<span class="three-dots"></span>
 
 In the corridor she questioned Billy Biasse about Jake’s seizure.
 
@@ -4631,7 +4631,7 @@ way for about three months.”
 “But how does he get by the doctor? All them crews is examined every
 week.”
 
-“Hm! ...” Ray glanced carelessly through *The Amsterdam News*. “I saw
+“Hm!<span class="three-dots"></span>” Ray glanced carelessly through *The Amsterdam News*. “I saw
 Madame Laura in Fairmount Park and I told her you were sick. I gave her
 your address, too.”
 
@@ -4644,7 +4644,7 @@ your address, too.”
 “Why?”
 
 “Because you nevah know when they might bust in on you and staht a
-rough-house. Them’s all right, them womens ... in their own parlors.”
+rough-house. Them’s all right, them womens<span class="three-dots"></span>in their own parlors.”
 
 “I guess you ought to know. I don’t,” said Ray. “Say, why don’t you move
 out of this dump up to the Forties? There’s a room in the same house I
@@ -4725,7 +4725,7 @@ little interest for him now if thought and
 feeling did not wrestle and sprawl with appetite and dark desire all
 over the pages.
 
-Dreams of making something with words. What could he make ... and
+Dreams of making something with words. What could he make<span class="three-dots"></span>and
 fashion? Could he ever create Art? Art, around which vague,
 incomprehensible words and phrases stormed? What was art, anyway? Was it
 more than a clear-cut presentation of a vivid impression of life? Only
@@ -4781,11 +4781,11 @@ Lovingly, LAURA.
 
 Billy Biasse, calling by Jake’s former lodging, found this letter for
 him, lying there among a pile of others, on the little black round table
-in the hall....
+in the hall.<span class="three-dots"></span>
 
 “Here you is, boh. Whether youse well or sick, them’s after you.”
 
-“Is they? Lemme see. Hm ... Philly.” ...
+“Is they? Lemme see. Hm<span class="three-dots"></span>Philly.”<span class="three-dots"></span>
 
 “Who is you’ pen-pusher?” asked Billy.
 
@@ -4937,7 +4937,7 @@ friend whom he introduced as James Grant. He was also a student working
 his way through college. But lacking funds to continue, he had left
 college to find a job. He was fourth waiter on Ray’s diner, succeeding
 the timid boy from Georgia. As both chairs were in use, Grant sat on the
-edge of the bed and Ray tipped up Jake’s suitcase....
+edge of the bed and Ray tipped up Jake’s suitcase.<span class="three-dots"></span>
 
 Conversation veered off to the railroad.
 
@@ -4959,7 +4959,7 @@ pocket-book.” He patted his breast pocket.
 
 “Go long from here with you’ lonesome haht, you wolf,” cried Jake.
 
-“Wolf is mah middle name, but ... I ain’t bad as I hear, and ain’t you
+“Wolf is mah middle name, but<span class="three-dots"></span>I ain’t bad as I hear, and ain’t you
 mah buddy, too?” Billy said to Jake. “Git you’self going quick and come
 on down to mah place, son. The bones am lonesome foh you.”
 
@@ -4967,12 +4967,12 @@ Billy and Yaller Prince left.
 
 “Who is the swell strutter?” Ray’s friend asked.
 
-“Hm! ... I knowed him long time in Harlem,” said Jake. “He’s a good
+“Hm!<span class="three-dots"></span>I knowed him long time in Harlem,” said Jake. “He’s a good
 guy. Just brought me all them eats and cigarettes.”
 
 “What does he work at?” asked Ray.
 
-“Nothing menial. He’s a p-i.” ...
+“Nothing menial. He’s a p-i.”<span class="three-dots"></span>
 
 “Low-down yaller swine,” said Ray’s friend. “Harlem is stinking with
 them.”
@@ -5000,7 +5000,7 @@ now, James, let us forget Jake’s kind friend.”
 trade mahself, but ef he can do it, well—  It’s because you don’t know
 how many womens am running after the fellahs jest begging them to do
 that. They been after me moh time I can remember. There’s lots o’ folks
-living easy and living sweet, but ...”
+living easy and living sweet, but<span class="three-dots"></span>”
 
 “There are as many forms of parasitism as there are ways of earning a
 living,” said Ray.
@@ -5039,7 +5039,7 @@ Dead stuff that this age has no use for.”
 “How’s that?”
 
 “Can you ask? You and I were born in the midst of the illness of this
-age and have lived through its agony.... Keep your fine feelings,
+age and have lived through its agony.<span class="three-dots"></span>Keep your fine feelings,
 indeed, but don’t try to make a virtue of them. You’ll lose them, then.
 They’ll become all hollow inside, false and dry as civilization itself.
 And civilization is rotten. We are all rotten who are touched by it.”
@@ -5057,7 +5057,7 @@ was intently following the dialogue.
 
 “Do it in the name of civilization,” continued Ray. “And I have been
 forced down to the level of pimps and found some of them more than
-human. One of them was so strange.... I never thought he could feel
+human. One of them was so strange.<span class="three-dots"></span>I never thought he could feel
 anything. Never thought he could do what he did. Something so strange
 and wonderful and awful, it just lifted me up out of my little straight
 thoughts into a big whirl where all of life seemed hopelessly tangled
@@ -5140,7 +5140,7 @@ Twenty-fifth Street, and sometimes they asked me to dinner in their room
 and gave me good liquor.
 
 I thought I was pretty well fixed for such a hard winter. All I had
-to do as extra work was keeping the saloon clean....
+to do as extra work was keeping the saloon clean.<span class="three-dots"></span>
 
 One afternoon Jerco came into the saloon with a man who looked pretty
 near white. Of course, you never can tell for sure about a person’s race
@@ -5159,7 +5159,7 @@ The boss of the saloon was a little fidgety about Jerco and his friend
 sitting there in the back. The boss was a short pumpkin-bellied brown
 man, a little bald off the forehead. Twice he found something
 to attend to in the back room, although there was nothing at all there
-that wanted attending to.... I felt better, and the boss, too, I
+that wanted attending to.<span class="three-dots"></span>I felt better, and the boss, too, I
 guess, when Rosalind came along and gave the family room its respectable
 American character. I served Rosalind a Martini cocktail extra dry, and
 afterward all three of them, Rosalind, Jerco, and their friend, went up
@@ -5191,7 +5191,7 @@ so I sleep heavy.”
 “Well, it’s the truth I do like that there Jerco an’ Rosaline,” said Ma
 Lawton. “They did seem quiet as lambs, although they was always havin’
 company. But Ise got to speak to them, ’cause I doana wanta lose ma
-young mens.... But theyse a real nice-acting couple. Jerco him treats
+young mens.<span class="three-dots"></span>But theyse a real nice-acting couple. Jerco him treats
 me like him was mah son. It’s true that they doan work like all poah
 niggers, but they pays that rent down good and prompt ehvery week.”
 
@@ -5336,8 +5336,8 @@ regarded the lot with dog-like affection.
 Which he was preparing to do. He had three expensive striped silk
 shirts, presents from Rosalind. He had just taken two out of the
 wardrobe and the other off his back, and made a parcel of them
-for old Greenbaum.... Rosalind woke up and murmured that she wanted
-some beer....
+for old Greenbaum.<span class="three-dots"></span>Rosalind woke up and murmured that she wanted
+some beer.<span class="three-dots"></span>
 
 A little later Jerco came to the saloon with the pail. He was shivering.
 His coat collar was turned up and fastened with a safety pin, for he
@@ -5423,7 +5423,7 @@ become one of the contented hogs in the pigpen of Harlem, getting ready
 to litter little black piggies. If he could have felt about things as
 Jake, how different his life might have been! Just to hitch up for a
 short while and be irresponsible! But he and Agatha were slaves of the
-civilized tradition.... Harlem nigger strutting
+civilized tradition.<span class="three-dots"></span>Harlem nigger strutting
 his stuff. . . Harlem niggers! How often he had listened to those
 phrases, like jets of saliva, spewing from the lips of his work pals.
 They pursued, scared, and haunted him. He was afraid that some day the
@@ -5463,25 +5463,25 @@ headline in a metropolitan newspaper or the news of a human bonfire in
 Dixie—could make him miserable and despairingly despondent like an
 injured child. While any flash of beauty or wonder might lift him
 happier than a god. It was the simple, lovely touch of life that charmed
-and stirred him most.... The warm, rich-brown face of a Harlem girl
-seeking romance ... a late wet night on Lenox Avenue, when all forms
+and stirred him most.<span class="three-dots"></span>The warm, rich-brown face of a Harlem girl
+seeking romance<span class="three-dots"></span>a late wet night on Lenox Avenue, when all forms
 are soft-shadowy and the street gleams softly like a still, dim stream
 under the misted yellow lights. He remembered once the melancholy-comic
 notes of a “Blues” rising out of a Harlem basement before dawn. He was
 going to catch an early train and all that trip he was sweetly,
 deliciously happy humming the refrain and imagining what the interior of
-the little dark den he heard it in was like. “Blues” ...
+the little dark den he heard it in was like. “Blues”<span class="three-dots"></span>
 melancholy-comic. That was the key to himself and to his race. That
-strange, child-like capacity for wistfulness-and-laughter....
+strange, child-like capacity for wistfulness-and-laughter.<span class="three-dots"></span>
 
 No wonder the
 whites, after five centuries of contact, could not understand his race.
 How could they when the instinct of comprehension had been cultivated
 out of them? No wonder they hated them, when out of their melancholy
 environment the blacks could create mad, contagious music and high
-laughter....
+laughter.<span class="three-dots"></span>
 
-Going away from Harlem.... Harlem! How terribly Ray could hate it
+Going away from Harlem.<span class="three-dots"></span>Harlem! How terribly Ray could hate it
 sometimes. Its brutality, gang rowdyism, promiscuous thickness. Its hot
 desires. But, oh, the rich bloodred color of it! The warm accent of its
 composite voice, the fruitiness of its laughter, the trailing rhythm of
@@ -5501,7 +5501,7 @@ work than messing with raw meat and garbage. I never was in love with no
 kitchen job. And tha’s why I ain’t none crazy about the white man’s
 chu-chuing buggy.”
 
-Going away from Harlem....
+Going away from Harlem.<span class="three-dots"></span>
 
 Jake invited Ray and Grant to a farewell feed, for which Billy Biasse
 was paying. Billy was a better pal for Jake than Zeddy. Jake was the
@@ -5519,7 +5519,7 @@ them mahself. I ain’t no miser hog like Nije Gridley.”
 
 Billy liked Jake because Jake played for the fun of the game and then
 quit. Gambling did not have a strangle hold upon him any more than dope
-or desire did. Jake took what he wanted of whatever he fancied and ...
+or desire did. Jake took what he wanted of whatever he fancied and<span class="three-dots"></span>
 kept going.
 
 The feed was spread at Aunt Hattie’s cook-shop. Jake maintained that
@@ -5578,7 +5578,7 @@ as with trembling hand she guzzled.
 the pub in our face’,” replied Jake. “Prohibition is right under our
 tail.”
 
-Everybody laughed.... Ray bit into the tender leg of his fried
+Everybody laughed.<span class="three-dots"></span>Ray bit into the tender leg of his fried
 chicken. The candied sweet potatoes were sweeter than honey to his
 palate.
 
@@ -5624,7 +5624,7 @@ all. If I was famous as Jack Johnson and rich as Madame Walker I’d
 prefer to have you as my friend than—President Wilson.”
 
 “Like bumbole you would!” retorted Jake. “Ef I was edjucated, I could,
-understand things better and be proper-speaking like you is.... And I
+understand things better and be proper-speaking like you is.<span class="three-dots"></span>And I
 mighta helped mah li’l sister to get edjucated, too (she must be a li’l’
 woman, now), and she would be nice-speaking like you’ sweet brown, good
 enough foh you to hitch up with. Then we could all settle down and make
@@ -5665,7 +5665,7 @@ the most of it, foh there ain’t no jazzing like Harlem jazzing over the
 other side.”
 
 They went to Uncle Doc’s, where they drank many ceremonious rounds.
-Later they went to Leroy’s Cabaret....
+Later they went to Leroy’s Cabaret.<span class="three-dots"></span>
 
 The next afternoon the freighter left with Ray signed on as a mess
 boy.
@@ -5699,12 +5699,12 @@ the sun in the tender spring grass. Oh, sweet to be alive in that sun
 beneath that sky! And to be in love—even for one hour of such rare
 hours! One day! One night! Somebody with spring charm, like a dandelion,
 seasonal and haunting like a lovely dream that never repeats
-itself.... There are hours, there are days, and nights whose sheer
+itself.<span class="three-dots"></span>There are hours, there are days, and nights whose sheer
 beauty over-whem us with happiness, that we seek to make even more
-beautiful by comparing them with rare human contacts.... It was a day
-like this we romped in the grass ... a night as soft and intimate as
-this on which we forgot the world and ourselves.... Hours of pagan
-abandon, celebrating ourselves....
+beautiful by comparing them with rare human contacts.<span class="three-dots"></span>It was a day
+like this we romped in the grass<span class="three-dots"></span>a night as soft and intimate as
+this on which we forgot the world and ourselves.<span class="three-dots"></span>Hours of pagan
+abandon, celebrating ourselves.<span class="three-dots"></span>
 
 And Jake felt as all men who love love for love’s sake can feel. He
 thought of the surging of desire in his boy’s
@@ -5712,13 +5712,13 @@ body and of his curious pure nectarine beginnings, without pain, without
 disgust, down home in Virginia. Of his adolescent breaking-through when
 the fever-and-pain of passion gave him a wonderful strange-sweet taste
 of love that he had never known again. Of rude contacts and swift
-satisfactions in Norfolk, Baltimore, and other coast ports....
-Havre.... The West India Dock districts of London....
+satisfactions in Norfolk, Baltimore, and other coast ports.<span class="three-dots"></span>
+Havre.<span class="three-dots"></span>The West India Dock districts of London.<span class="three-dots"></span>
 
 “Only that cute heart-breaking brown of the Baltimore,” he mused. “A day
 like this sure feels like her. Didn’t even get her name. O Lawdy! what a
 night that theah night was. Her and I could sure make a hallelujah
-picnic outa a day like this.” ...
+picnic outa a day like this.”<span class="three-dots"></span>
 
 ::: {.small-break}
 :::
@@ -5744,7 +5744,7 @@ that black gal why she’s shooting her stinking mouth off at him.”
 
 “She was. But I heard she done beat up anether gal of hisn—a fair-brown
 that useta hand over moh change than her and Yaller turn’ her loose foh
-it.” ...
+it.”<span class="three-dots"></span>
 
 “You lowest-down face-artist!” the girl shrieked at Yaller Prince. “I’ll
 bawl it out so all a Harlem kain know what you is.” And ravished by the
@@ -5787,7 +5787,7 @@ revolver drawn, asked harshly.
 said Billy Biasse.
 
 They carried Yaller Prince into a drugstore for first aid, and the
-policeman telephoned for an ambulance....
+policeman telephoned for an ambulance.<span class="three-dots"></span>
 
 “We gotta look out foh him in hospital. He was a pretty good skate for a
 sweetman,” Billy Biasse said.
@@ -5815,7 +5815,7 @@ choose and so we nacherally hate one another. It’s nothing to wonder
 that you’ buddy Ray done runned away from it. Why, jest the other night
 I witnessed a nasty stroke. You know that spade prof
 that’s always there on the Avenue handing out the big stuff about
-niggers and their rights and the wul’ and bolschism.... He was
+niggers and their rights and the wul’ and bolschism.<span class="three-dots"></span>He was
 passing by the poolroom with a bunch o’ books when a bad nigger jest
 lunges out and socks him bif! in the jaw. The poah frightened prof.
 started picking up his books without a word said, so I ups and asks the
@@ -5827,7 +5827,7 @@ as Hell’s Kitchen, and I always travel with mah gun ready.”
 
 “And ef all the niggers did as you does,” said Jake, “theah’d be a
 regular gun-toting army of us up here in the haht of the white man’s
-city.... Guess ef a man stahts gunning after you and means to git you
+city.<span class="three-dots"></span>Guess ef a man stahts gunning after you and means to git you
 he will someways &#11834;”
 
 “But you might git him fierst, too, boh, ef youse in luck.”
@@ -5844,19 +5844,19 @@ burg. No boh!”
 Jake went home alone in a mood different from the lyrical feelings that
 had fevered his blood among the dandelions. “Niggers fixing to slice one
 another’s throats. Always fighting. Got to fight if youse a man. It
-ain’t because Yaller was a p-i.... It coulda been me or anybody else.
+ain’t because Yaller was a p-i.<span class="three-dots"></span>It coulda been me or anybody else.
 Wese too close and thick in Harlem. Need some moh fresh air between
-us.... Hitting out at a edjucated nigger minding his own business and
-without a word said.... Guess Billy is right toting his silent dawg
+us.<span class="three-dots"></span>Hitting out at a edjucated nigger minding his own business and
+without a word said.<span class="three-dots"></span>Guess Billy is right toting his silent dawg
 around with him. He’s gotta, though, when he’s running a gambling joint.
 All the same, I gambles mahself and you nevah know when niggers am
 gwineta git crazy-mad. Guess I’ll take the li’l’
-dawg offn Billy, all right. It ain’t costing me nothing.” ...
+dawg offn Billy, all right. It ain’t costing me nothing.”<span class="three-dots"></span>
 
 In the late afternoon he lingered along Seventh Avenue in a new
 nigger-brown suit. The fine gray English suit was no longer serviceable
 for parade. The American suit did not fit him so well. Jake saw and felt
-it.... The only thing he liked better about the American suit was the
+it.<span class="three-dots"></span>The only thing he liked better about the American suit was the
 pantaloons made to wear with a belt. And the two hip pockets. If you
 have the American habit of carrying your face-cloth on the hip instead
 of sticking it up in your breast pocket like a funny decoration, and if,
@@ -5867,17 +5867,17 @@ Except for that, Jake had learned to prefer the English cut of clothes.
 Such first-rate tweed stuff, and so cheap and durable compared with
 American clothes! Jake knew nothing of tariff laws and naïvely wondered
 why the English did not spread their fine cloth all over the American
-clothes market.... He worked up his shoulders in his nigger-brown
+clothes market.<span class="three-dots"></span>He worked up his shoulders in his nigger-brown
 coat. It didn’t
 feel right, didn’t hang so well. There was something a little too chic
 in American clothes. Not nearly as awful as French, though, Jake
 horse-laughed, vividly remembering the popular French styles.
 Broad-pleated, long-waisted, tight-bottomed pants and close-waisted
 coats whose breast pockets stick out their little comic signs of
-color.... Better color as a savage wears it, or none at all, instead
+color.<span class="three-dots"></span>Better color as a savage wears it, or none at all, instead
 of the Frenchman’s peeking bit. The French must consider the average
 bantam male killing handsome, and so they make clothes to emphasize all
-the angular elevated rounded and pendulated parts of the anatomy....
+the angular elevated rounded and pendulated parts of the anatomy.<span class="three-dots"></span>
 
 The broad pavements of Seventh Avenue were colorful with promenaders.
 Brown babies in white carriages pushed by little black brothers wearing
@@ -5885,7 +5885,7 @@ nice sailor suits. All the various and varying pigmentation of the human
 race were assembled there: dim brown, clear brown, rich brown, chestnut,
 copper, yellow, near-white, mahogany, and gleaming anthracite. Charming
 brown matrons, proud yellow matrons, dark
-nursemaids pulled a zigzag course by their restive little charges....
+nursemaids pulled a zigzag course by their restive little charges.<span class="three-dots"></span>
 
 And the elegant strutters in faultless spats; West Indians, carrying
 canes and wearing trousers of a different pattern from their coats and
@@ -5900,11 +5900,11 @@ fashion of the day to stage a lovely leg show and spilling along the
 Avenue the perfume of Djer-kiss, Fougère, and Brown Skin.
 
 “These heah New York gals kain most sartainly wear some moh clothes,”
-thought Jake, “jest as nifty as them French gals.” ...
+thought Jake, “jest as nifty as them French gals.”<span class="three-dots"></span>
 
 Twilight was enveloping the Belt, merging its life into a soft
-blue-black symphony.... The animation subsided into a moment’s pause, a muffled,
-tremulous soul-stealing note ... then electric lights flared
+blue-black symphony.<span class="three-dots"></span>The animation subsided into a moment’s pause, a muffled,
+tremulous soul-stealing note<span class="three-dots"></span>then electric lights flared
 everywhere, flooding the scene with dazzling gold.
 
 ::: {.small-break}
@@ -6032,7 +6032,7 @@ tables and chairs were screaming green. There were green benches also
 lined round the vast dancing space. The music stopped with an abrupt
 clash just as Jake entered. Couples and groups were drinking at tables.
 Deftly, quickly the waiters slipped a way through the tables to serve
-and collect the money before the next dance.... Little white-filled
+and collect the money before the next dance.<span class="three-dots"></span>Little white-filled
 glasses, little yellow-filled glasses, general guzzling of gin and
 whisky. Little saucy brown lips, rouged maroon, sucking up iced crème de
 menthe through straws, and many were sipping the golden Virginia Dare,
@@ -6040,9 +6040,9 @@ in those days the favorite wine of the Belt. On the green benches
 couples lounged, sprawled, and, with the juicy love of spring and the
 liquid of Bacchus mingled in fascinating white eyes curious in their
 dark frames, apparently oblivious of everything outside of themselves,
-were loving in every way but ...
+were loving in every way but<span class="three-dots"></span>
 
-The orchestra was tuning up.... The first notes fell out like a
+The orchestra was tuning up.<span class="three-dots"></span>The first notes fell out like a
 general clapping for merrymaking and chased the dancers running,
 sliding, shuffling, trotting to the floor. Little girls energetically
 chewing Spearmint and showing all their teeth dashed out on the floor
@@ -6084,7 +6084,7 @@ picked up the refrain and jazzed and shouted with delirious joy, “Tell
 me, pa-pa, Ise you’ ma-ma.” The handful of yellow dancers in the crowd
 were even more abandoned to the spirit of the song. “White,” “green,” or
 “red” in place of “yaller” might have likewise touched the same
-deep-sounding, primitive chord....
+deep-sounding, primitive chord.<span class="three-dots"></span>
 
 ::: {.poem}
 Yaller gal sure wants mah pa-pa,
@@ -6137,7 +6137,7 @@ lav’try. Come quick. I don’t want him to ketch us.”
 And the flustered little brown heart hustled Jake down the stairs and
 out of the Sheba Palace.
 
-“Tell me, pa-pa, Ise you’ ma-ma ...”
+“Tell me, pa-pa, Ise you’ ma-ma<span class="three-dots"></span>”
 
 The black shouting chorus pursued them outside.
 
@@ -6162,7 +6162,7 @@ O Lawdy! How Ise been crazy longing to meet you again.”
 They had walked down Madison Avenue, turned on One Hundred and Thirtieth
 Street, passing the solid gray-grim mass of the whites’ Presbyterian
 church, and were under the timidly whispering trees of the decorously
-silent and distinguished Block Beautiful.... The whites had not
+silent and distinguished Block Beautiful.<span class="three-dots"></span>The whites had not
 evacuated that block yet. The black invasion was threatening it from One
 Hundred and Thirty-first Street, from Fifth Avenue, even from behind in
 One Hundred and Twenty-ninth Street. But desperate, frightened,
@@ -6178,7 +6178,7 @@ of loud-laughing-and-acting black swains and their sweethearts had
 started in using the block for their afternoon promenade. That was the
 limit: the desecrating of that atmosphere by black love in the very
 shadow of the gray, gaunt Protestant church! The Ancient Respectability
-was getting ready to flee....
+was getting ready to flee.<span class="three-dots"></span>
 
 The beautiful block was fast asleep. Up in the branches the little elfin
 green things were barely whispering. The Protestant church was softened
@@ -6187,7 +6187,7 @@ sacred.
 
 The burning little brownskin cuddled up against Jake’s warm tall person:
 “Kiss me, daddy,” she said. He folded her closely to him and caressed
-her....
+her.<span class="three-dots"></span>
 
 “But whar was you
 all this tur’bly long time?” demanded Jake.
@@ -6212,7 +6212,7 @@ ev’body. What is you’, sweetness?”
 
 “They calls me Felice.”
 
-“Felice.... But I didn’t fohget the cabaret nonatall. And I was back
+“Felice.<span class="three-dots"></span>But I didn’t fohget the cabaret nonatall. And I was back
 theah hunting foh
 you that very night and many moh after, but I nevah finds you. Where was
 you?”
@@ -6224,7 +6224,7 @@ work. Further-more, I done went away that next week to Palm Beach &#11834;”
 
 “Work of course. What you think? You done brokes mah heart in one
 mahvelous night and neveh returns foh moh. And I was jest right down
-sick and tiahd of Harlem. So I went away to work. I always work.... I
+sick and tiahd of Harlem. So I went away to work. I always work.<span class="three-dots"></span>I
 know what youse thinking, honey, but I ain’t in the reg’lar business.
 ’Cause Ise a funny gal. I kain’t go with a fellah ef I don’t like him
 some. And ef he kain make me like him enough I won’t take nothing off
@@ -6306,7 +6306,7 @@ leaving the one that she was merely makeshifting with. It was a very
 simple and natural thing to her. There was nothing mean about it. She
 was too nice to be mean. However, she was aware that in her world women
 scratched and bit into each other’s flesh and men razored and gunned at
-each other over such things....
+each other over such things.<span class="three-dots"></span>
 
 Felice recalled one memorable afternoon when two West Indian women went
 for each other in the back yard of a house in One Hundred and Thirty-second Street.
@@ -6322,7 +6322,7 @@ in the queerest way you can imagine.”
 
 Her man, in turn, blamed the situation upon her, said she was too
 aggressive and mannish and had harried the energy out of him. But the
-other girl seemed to endow him again with virility.... After keeping
+other girl seemed to endow him again with virility.<span class="three-dots"></span>After keeping
 him in Panama and bringing him to New York, the laundress hesitated
 about turning her male loose in Harlem, although he was apparently of no
 more value to her. But his rejuvenating experience with the
@@ -6331,11 +6331,11 @@ to whom she had confided her secret tragedy, had hinted: “Lawdy! sistah,
 that sure sounds phony-like. Mebbe you’ man is jest playing ’possum with
 you.” And the laundress was crazy with suspicion and jealousy and a
 feeling for revenge. She challenged her rival to fight the affair out.
-They were all living in the same house....
+They were all living in the same house.<span class="three-dots"></span>
 
 Felice also lived in that house. And one afternoon she was startled by
 another girl from an adjoining room pounding on her door and shrieking:
-“Open foh the love of Jesus! ... Theah’s sweet hell playing in the
+“Open foh the love of Jesus!<span class="three-dots"></span>Theah’s sweet hell playing in the
 back yard.”
 
 The girls rushed to the window and saw the two black women squaring off
@@ -6400,7 +6400,7 @@ your taste for lesser ones.
 Jake possessed a sure instinct for the right rhythm. He was connoisseur
 enough. But although he had tasted such a varied many, he was not raw
 animal enough to be undiscriminating, nor civilized enough to be
-cynical....
+cynical.<span class="three-dots"></span>
 
 Felice came hurrying as much as she could along One Hundred and
 Thirty-fifth Street, bumping a cumbersome
@@ -6410,7 +6410,7 @@ a delicatessen store and bought a small cold chicken, ham, mustard,
 olives, and bread. They stopped in a sweet shop and bought a box of
 chocolate-and-vanilla ice-cream and cake. Felice also took a box of
 chocolate candy. Their last halt was at a United Cigar Store, where Jake
-stocked his pockets with a half a dozen packets of Camels....
+stocked his pockets with a half a dozen packets of Camels.<span class="three-dots"></span>
 
 Felice had just slipped out of her charming strawberry frock when her
 hands flew down to her pretty brown leg. “O Gawd! I done fohget
@@ -6502,7 +6502,7 @@ Besides its spacious floor, ladies’ room, gentlemen’s room and
 coat-room, the new cabaret had a bar with stools, where men could get
 together away from their women for a quick drink and a little stag
 conversation. The bar was a paying innovation. The old-line cabarets
-were falling back before their formidable rival....
+were falling back before their formidable rival.<span class="three-dots"></span>
 
 The fashionable Belt was enjoying itself there on this night. The press,
 theatrical, and music world were represented. Madame Mulberry was there
@@ -6536,9 +6536,9 @@ would.
 James Reese Europe, the famous master of jazz, was among a group of
 white admirers. He had just returned from France, full of honors, with
 his celebrated band. New York had acclaimed him and America was ready to
-applaud.... That was his last appearance in a Harlem cabaret before
+applaud.<span class="three-dots"></span>That was his last appearance in a Harlem cabaret before
 his heart was shot out during a performance in Boston by a savage buck
-of his race....
+of his race.<span class="three-dots"></span>
 
 Prohibition was on the threshold of the country and drinking was
 becoming a luxury, but all the joy-pacers of the Belt who adore the
@@ -6565,14 +6565,14 @@ They were dancing as Felice entered and she led Jake right along into
 it.
 
 ::: {.poem}
-Tell me, pa-pa, Ise you ma-ma ...
+Tell me, pa-pa, Ise you ma-ma<span class="three-dots"></span>
 :::
 
 Every cabaret and dancing-hall was playing it. It was the tune for the
 season. It had carried over from winter into
 spring and was still the favorite. Oh, ma-ma! Oh, pa-pa!
 
-The dancing stopped.... A brief interval and a dwarfish, shiny black
+The dancing stopped.<span class="three-dots"></span>A brief interval and a dwarfish, shiny black
 man wearing a red-brown suit, with kinks straightened and severely
 plastered down in the Afro-American manner, walked into the center of
 the floor and began singing. He had a massive mouth, which he opened
@@ -6623,7 +6623,7 @@ singer again.
 ::: {.poem}
 Ain’t gwine to cut mah throat. . .
 
-Ain’t gwine to break mah heart....
+Ain’t gwine to break mah heart.<span class="three-dots"></span>
 :::
 
 
@@ -6636,13 +6636,13 @@ Jake and Felice at their table.
 Billy?” Jake’s greeting.
 
 “I say Ise gwineta blow. Toss off that theah liquor, you two. Ise
-gwineta blow champagne as mah compliments, old top.” ...
+gwineta blow champagne as mah compliments, old top.”<span class="three-dots"></span>
 
 “Heah’s good luck t’you, boh, and plenty of joy-stuff and happiness,”
 continued Billy, when the champagne was poured. “You sure been hugging
 it close this week.”
 
-Jake smiled and looked foolish....The second cook, whom he had not
+Jake smiled and looked foolish.<span class="three-dots"></span>The second cook, whom he had not
 seen since he quitted the railroad, entered the cabaret with a mulatto
 girl on his arm and looked round for seats. Jake stood up and beckoned
 him over to his table.
@@ -6655,7 +6655,7 @@ The two girls began talking fashion around the most striking dresses in
 the place. Jake asked about the demoted rhinoceros. He was still on the
 railroad, the second cook said, taking orders from another chef, “jest
 as savage and mean as ever, but not so moufy. I hear you friend Ray done quit
-us for the ocean, Jakey.” ...
+us for the ocean, Jakey.”<span class="three-dots"></span>
 
 There was still champagne to spare, nevertheless the second cook invited
 the boys to go up to the bar for a stiff drink of real liquor.
@@ -6756,12 +6756,12 @@ it in his world. His love nature was generous and warm without any
 vestige of the diabolical or sadistic.
 
 Yet here he was caught in the thing that he despised so
-thoroughly.... Brest, London, and his America. Their vivid brutality
+thoroughly.<span class="three-dots"></span>Brest, London, and his America. Their vivid brutality
 tortured his imagination. Oh, he was infinitely disgusted with himself
 to think that he had just been moved by the same savage emotions as
 those vile, vicious, villainous white men who, like hyenas and rattlers,
 had fought, murdered, and clawed the entrails out of black men over the
-common, commercial flesh of women....
+common, commercial flesh of women.<span class="three-dots"></span>
 
 He reached home and sat brooding in the shadow upon the stoop.
 
@@ -6778,9 +6778,9 @@ A little hand timidly took his arm.
 
 “Honey, you ain’t mad at you sweetness, is you?”
 
-“No.... I’m jest sick and tiah’d a everything.”
+“No.<span class="three-dots"></span>I’m jest sick and tiah’d a everything.”
 
-“I nevah know you knowed one anether, honey. Oh, I was so scared....
+“I nevah know you knowed one anether, honey. Oh, I was so scared.<span class="three-dots"></span>
 But how could I know?”
 
 “No, you couldn’t. I ain’t blaming nothing on you. I nevah would guess
@@ -6815,7 +6815,7 @@ him to mah haht.”
 “It’s awright, sweetness. What do I care so long as wese got one another
 again?”
 
-She drew down his head and sought his mouth....
+She drew down his head and sought his mouth.<span class="three-dots"></span>
 
 “But what is we gwineta do, daddy? Sence they say that youse a slacker
 or deserter, I don’t which is which &#11834;”
@@ -6832,7 +6832,7 @@ slack with you and desert with you. What right have niggers got to shoot
 down a whole lot a Germans for? Is they worse than Americans or any
 other nation a
 white people? You done do the right thing, honey, and Ise with you and I
-love you the more for that.... But all the same, we can’t stay in
+love you the more for that.<span class="three-dots"></span>But all the same, we can’t stay in
 Harlem no longer, for the bulls will sure get you.”
 
 “I been thinking a gitting away from the stinking mess and go on off to
@@ -6873,7 +6873,7 @@ didn’t know what I was saying. Ahm bloody well ashamed a mahself. But
 you know how it is when a gal done make a fool outa you. I done think it
 ovah and said to mah inner man: Why, you fool fellah, whasmat with you?
 Ef Zeddy slit his buddy’s thwoat for a gal, that won’t give back the gal
-to Zeddy.... So I jest had to come and tell it to you and ast you
+to Zeddy.<span class="three-dots"></span>So I jest had to come and tell it to you and ast you
 pahdon. You kain stay in Harlem as long as you wanta. Zeddy ain’ta
 gwineta open his mouf against you. You was always a good man-to-man
 buddy and nevah did wears you face bahind you. Don’t pay no mind to what
@@ -6949,7 +6949,7 @@ were pleased and never guessed what cautious reserve lurked under that
 grin.
 
 ::: {.poem}
-Tell me, pa-pa, Ise you’ ma-ma....
+Tell me, pa-pa, Ise you’ ma-ma.<span class="three-dots"></span>
 :::
 
 Jake and Felice squeezed a way in among the jazzers. They were all drawn
@@ -6957,7 +6957,7 @@ together in one united mass, wriggling around to the same primitive,
 voluptuous rhythm.
 
 ::: {.poem}
-Tell me, pa-pa, Ise you’ ma-ma....
+Tell me, pa-pa, Ise you’ ma-ma.<span class="three-dots"></span>
 :::
 
 Haunting rhythm, mingling of naïve wistfulness and charming gayety, now
@@ -6976,7 +6976,7 @@ emotions that he instantly perceives are false.
 
 
 ::: {.poem}
-Tell me, pa-pa, Ise you’ ma-ma....
+Tell me, pa-pa, Ise you’ ma-ma.<span class="three-dots"></span>
 :::
 
 Jake was the only guest left in the Baltimore. The last wriggle was

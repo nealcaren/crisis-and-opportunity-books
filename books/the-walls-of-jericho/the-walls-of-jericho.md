@@ -12,7 +12,9 @@ reprint_notes: Currently in public domain.
 # Copyright {.copyright epub:type=copyright-page}
 
 
-Rudolph Fisher’s *The Walls of Jericho* was first published in 1928 by Alfred A. Knopf. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version was transcribed by Neal Caren based on a reprint available on the [Internet Archive](https://archive.org/details/wallsofjericho0000fish). 
+Rudolph Fisher’s *The Walls of Jericho* was first published in 1928 by Alfred A. Knopf. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version based on a reprint available on the [Internet Archive](https://archive.org/details/wallsofjericho0000fish). 
+
+The cover image is from Archibol Motley's *Blues*, 1929 (oil on canvas).
 
 
 # Dedication {.dedication epub:type=preface}

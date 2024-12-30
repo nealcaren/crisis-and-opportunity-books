@@ -13,8 +13,11 @@ reprint_notes: Currently in public domain.
 # Copyright {.copyright epub:type=copyright-page}
 
 
-W.E.B. Du Bois’s *Dark Princess* was first published in 1928 by Harcourt, Brace. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version was transcribed by Neal Caren based on a reprint available on the [Internet Archive](https://archive.org/details/darkprincessroma0000dubo_n6y2). 
+W.E.B. Du Bois’s *Dark Princess* was first published in 1928 by Harcourt, Brace. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version based on a digital copy of the first edition available on the [Internet Archive](https://archive.org/details/darkprincessroma0000dubo_n6y2). 
 
+
+
+The cover image is from James Van Der Zee's *Dancer*, 1925 (Gelatin silver print).
 
 # Dedication {.dedication epub:type=preface} 
 
@@ -3086,6 +3089,8 @@ assurance of regard,
 
 ::: letter-signature
 Your Obedient Servants
+:::
+
 :::
 
 Matthew stared. When and where had it been possible? He could not
