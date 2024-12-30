@@ -1,5 +1,8 @@
 This site is designed to facilitate the digitalization and dissemination of public domain works from the Harlem Renaissance. 
 
+[![](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.jpg)](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.epub) [![](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.jpg)](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.epub) [![](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.jpg)](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.epub)
+
+
 As of 2024, twelve major novels from the era are no longer under copyright. Digital versions of three currently exist[^g], but we are thrilled to produce new editions of five additional books:
 
 [^g]: While [Project Gutenberg](http://gutenberg.org) is the central repository for transcriptions of public domain books, their contributors continue to largely overlooked Black authors from this era. Their submission process is cumbersome and idiosyncratic, so after producing three books for them, I decided to start a complementary effort. 
