@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article class="book">
+  <header>
+    <h1>{{ page.title }}</h1>
+    {% if page.author %}
+      <p><strong>Author:</strong> {{ page.author }}</p>
+    {% endif %}
+    {% if page.date %}
+      <p><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+    {% endif %}
+  </header>
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+  {% if page.header.image %}
+    <figure>
+      <img src="{{ page.header.image | relative_url }}" alt="{{ page.title }}">
+    </figure>
+  {% endif %}
+</article>

@@ -14,15 +14,17 @@ plugins:
   - jekyll-include-cache
 
 collections:
-  books:
+  releases:
     output: true
     permalink: /:collection/:name/
 
-
+exclude:
+  - books
+  
 # Default configuration for books
 defaults:
   - scope:
-      path: "_books"
+      path: "_releases"
     values:
       layout: book
 
