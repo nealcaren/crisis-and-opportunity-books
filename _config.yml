@@ -20,3 +20,20 @@ collections:
     
 include:
   - _pages
+
+# Add these to your existing config
+paginate: 5  # Number of posts per page
+paginate_path: /page:num/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true

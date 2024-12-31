@@ -11,10 +11,7 @@ Trouble on trouble; pain as pain,---
 
 > Tennyson
 
-Foreword
 
-An introductory section that precedes the work, typically not written by
-the work's author.
 
 CHAPTER I
 
@@ -27,7 +24,7 @@ home. She had climbed upon her father's knee demanding a story.
 "What sort of story?" Joel Marshall asked, willing and anxious to please
 her, for she was his favorite child.
 
-"Story 'bout somebody great, Daddy. Great like I'm going to be when I
+"Story ’bout somebody great, Daddy. Great like I'm going to be when I
 get to be a big girl."
 
 He stared at her amazed and adoring. She was like a little, living echo
@@ -43,7 +40,7 @@ you're gonna help me to be great?'
 Mammy, rocking complacently in her comfortable chair. "How wuz I to know
 he'd be a great caterer, feedin' bank presidents and everything? Once
 you know they had him fix a banquet fur President Grant. Sent all the
-way to Richmond fur 'im. That's howcome he settled yere in New York;
+way to Richmond fur ’im. That's howcome he settled yere in New York;
 yassuh, my son is sure a great man."
 
 But alas for poor Joel! His idea of greatness and his Mammy's were
@@ -162,7 +159,7 @@ us a story," was all they asked, its subject made no difference to them.
 But on that certain Sunday before Joanna was five years old she perched
 herself on her father's knee and commanded astoundingly:
 
-"Tell me a story, Daddy, 'bout somebody great."
+"Tell me a story, Daddy, ’bout somebody great."
 
 Joel didn't know what she meant at first, so far removed was he from the
 thought of his old dream. And yet the question did seem something like
@@ -709,7 +706,7 @@ guessed. He was waiting for some sign of help or recognition from the
 white Byes. His father had told him of the slaveholder's great debt to
 old Joshua; he had taken him riding past the Bryn Mawr peach orchards.
 "By rights part of them ought to belong to us. But I don't mind, no
-sir-ee! Let 'em have 'em. See where we are to-day without their help.
+sir-ee! Let ’em have ’em. See where we are to-day without their help.
 Think of it!"
 
 Meriwether did think of it and did mind it. He learned that he had been
@@ -1222,7 +1219,7 @@ The child in the center here chose a partner. The others sang:
 
 They stamped here.
 
-*"Arms all 'round me!*
+*"Arms all ’round me!*
 
 *Barn!*
 
@@ -1240,7 +1237,7 @@ Then all:
 
 *"Oh, Barn! Barn!*
 
-*Arms all 'round me!*
+*Arms all ’round me!*
 
 *Say, little Missy, won't you marry me?*
 
@@ -1603,7 +1600,7 @@ men?"
 
 "Not any very rich ones, I don't think," Mrs. Ellersley replied
 thoughtfully, "but lots very well off, comfortable, with servants to
-wait on 'em." She sighed.
+wait on ’em." She sighed.
 
 "I'm going to meet one," said Maggie solemnly, and henceforth she
 thought, she dreamed of nothing else.
@@ -2702,7 +2699,7 @@ we'll slip out after she goes to work. You won't be sorry. I'll be kind
 to you Maggie---girl. I've always wanted you to give me a chance." He
 added a cunning afterthought.
 
-"Show these stuck-up friends of yourn, and show 'em quick that you don't
+"Show these stuck-up friends of yourn, and show ’em quick that you don't
 have to go beggin' for favors. There's others, yes, not a man that comes
 into this house that wouldn't be proud to marry you."
 
@@ -3807,7 +3804,7 @@ fair salary, his sister told Maggie, for he played at private dances for
 wealthy white people in West Philadelphia, Rosemont, Sharon, Chestnut
 Hill and various other suburbs.
 
-"But he don't give me much 'cause he wants to leave the country for good
+"But he don't give me much ’cause he wants to leave the country for good
 sometime. I keep house for him and he pays for the lodgings and for most
 of our food. I make what little extra I can by taking in plain sewing.
 Your husband's right open-handed, ain't he?"
@@ -3927,8 +3924,8 @@ little boy, Henderson Neal was knowed to be a card-sharp. There wasn't
 nobody could stand against him. Used to wait for the men on a Saturday
 night, white and colored. He'd meet'em in the bar and treat, and then
 ask'em in on a little game. And they'd play, till they was cleaned out.
-Then he'd give 'em another drink, and clap 'em on the back. Perhaps he'd
-hand 'em back a dollar. 'Better luck next time old man!' And they'd come
+Then he'd give ’em another drink, and clap ’em on the back. Perhaps he'd
+hand ’em back a dollar. 'Better luck next time old man!' And they'd come
 back the next Saturday night, the poor fools. Some of them blowed their
 brains out, they got so far back in their debts."
 
@@ -4256,7 +4253,7 @@ have seen me looking like an icebergish angel."
 
 "Not a bad thing, do you think, considering all the men I meet?"
 
-"I hate them. Sure you don't like any of 'em better than me?"
+"I hate them. Sure you don't like any of ’em better than me?"
 
 "No, dear, I like you best."
 
@@ -5033,7 +5030,7 @@ the next morning.
 
 "What do we do to-morrow?" Peter asked.
 
-"Remember you said you wanted to hear *Aïda?* I 'phoned them to reserve
+"Remember you said you wanted to hear *Aïda?* I ’phoned them to reserve
 tickets for us for to-morrow's matinée. But they have to be called for.
 Better go down there first thing in the morning, Peter."
 
@@ -6796,7 +6793,7 @@ innumerable lodge meetings.
 
 "It was a great sight, Maggie. You'd ought to have been there. Can't see
 why you mope so about the house, anyway. Don't believe you've been
-anywhere since you've been here this trip--- 'cept to Madam Harkness'. "
+anywhere since you've been here this trip---’cept to Madam Harkness'. "
 
 Maggie murmured that she didn't care to go out, she had come home to
 rest.
@@ -7211,7 +7208,7 @@ pulse fluttered.
 "She's alive. I must get this dress off her arm and shoulder. Got a
 knife?"
 
-"Ain't they a million of 'em layin' around you, lady?"
+"Ain't they a million of ’em layin' around you, lady?"
 
 Shudderingly she turned from the red one. "How queer! How awful! Hand me
 that clean one over there." Her eye fell, as she took it from him, on
@@ -7258,7 +7255,7 @@ him, but Mr. Simpson hovering in the background had heard the question
 and slipping out returned with the knife.
 
 "Here it is, doc. I was just tellin' the lady, ought sure to be able to
-catch that 'sassin; man who sold him the knife's done got his name
+catch that ’sassin; man who sold him the knife's done got his name
 stamped on the handle."
 
 Harry took it. "H'm, a surgeon's knife." He turned it over. "Where's the
@@ -9008,7 +9005,7 @@ of Peter. I made him tell me. He says Harley is bitter and cynical. He
 says, over and over, Peter told me: 'Look at these little French girls,
 they're really white and they don't seem to hate me. And yet a girl of
 my own race hesitates to marry me merely because she looks like white.'
-She pressed her hand hard against her quivering mouth. "It 'seems he
+She pressed her hand hard against her quivering mouth. "It seems he
 can't forgive me. Peter told me so I could be prepared for anything I
 might hear. Oh, Janna, this terrible country with its false ideals! So
 you see why I'm glad there's the South to go to---I've got to choose
@@ -9174,7 +9171,7 @@ Joanna before you were born, and I'd like to surprise her. I've just got
 back from France. Understand, Buddy? I've got a German helmet around to
 my house------"
 
-"Well," said Roger, shamelessly, "you go right up those stairs; 's that
+"Well," said Roger, shamelessly, "you go right up those stairs; ’s that
 helmet got a plume on it?"
 
 Joanna had been singing Tschaikowsky's "Longing." Now she was sitting

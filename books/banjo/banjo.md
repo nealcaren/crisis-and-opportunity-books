@@ -2541,7 +2541,7 @@ Lonesome Blue was in a crumpled tangle of rags, his toes poking through a poor p
 
 "And when Gawd done took up his work again, he took the froth in the bowl and dumped it into the nig­ger’s brain and finished his job. And that’s why you find the world as it is today. The debbil ruling hell and earth, the white man always getting by and there, and the nigger always full a froth or just dumb like this heah Lonesome Blue."
 
-All the boys had a rollicking laugh in which they were joined by Kid Irish, who had come in while Banjo was holding forth, accompanied by a fleshy young man, a Jew,who made a living as a guide and a seller of sex post cards to tourists. The Jew had arrived from Toulon, whence he had followed the American squadron, that had just put in at Marseilles.
+All the boys had a rollicking laugh in which they were joined by Kid Irish, who had come in while Banjo was holding forth, accompanied by a fleshy young man, a Jew, who made a living as a guide and a seller of sex post cards to tourists. The Jew had arrived from Toulon, whence he had followed the American squadron, that had just put in at Marseilles.
 
 "But, Lawd Gawd," said Ginger, "imagine what we niggers woulda been today if Big Massa hadn’t a made a mistake. Why, if we am as we is from a mistake, what wouldn’t we be if we had been made right from the start? We woulda had Gawd and them angels in glory and all nuts.”
 
