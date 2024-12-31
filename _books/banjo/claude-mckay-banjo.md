@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: "Banjo by Claude McKay"
 date: 1929-01-01
 header:
