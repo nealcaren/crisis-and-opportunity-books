@@ -22,8 +22,9 @@ include:
   - _pages
 
 # Add these to your existing config
-paginate: 5  # Number of posts per page
+paginate: 15  # Number of posts per page
 paginate_path: /page:num/
+future: true
 
 defaults:
   # _posts
@@ -37,3 +38,6 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      excerpt: false
+      classes: header-only
