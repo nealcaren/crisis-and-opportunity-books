@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classic Literature Collection</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            line-height: 1.5;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        
+        header {
+            background-color: white;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2rem;
+            color: #1a1a1a;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .intro {
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto 3rem auto;
+            padding: 0 1rem;
+            color: #4a5568;
+        }
+
+        .book-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            padding: 0 1rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .book-card {
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+
+        .book-card:hover {
+            transform: translateY(-4px);
+        }
+
+        .book-cover {
+            width: 100%;
+            aspect-ratio: 2/3;
+            object-fit: cover;
+        }
+
+        .book-info {
+            padding: 1.5rem;
+        }
+
+        .book-title {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.25rem;
+            color: #1a1a1a;
+        }
+
+        .book-author {
+            margin: 0 0 1rem 0;
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .book-description {
+            margin: 0 0 1.5rem 0;
+            color: #4a5568;
+            font-size: 0.95rem;
+        }
+
+        .download-links {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .download-btn {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.9rem;
+        }
+
+        .epub-btn {
+            background-color: #4f46e5;
+            color: white;
+        }
+
+        .epub-btn:hover {
+            background-color: #4338ca;
+        }
+
+        .markdown-btn {
+            background-color: #f3f4f6;
+            color: #1f2937;
+        }
+
+        .markdown-btn:hover {
+            background-color: #e5e7eb;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem;
+            margin-top: 4rem;
+            color: #666;
+            border-top: 1px solid #e5e7eb;
+        }
+
+        @media (max-width: 640px) {
+            .book-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Classic Literature Collection</h1>
+    </header>
+
+    <div class="intro">
+        <p>A carefully curated collection of beautifully typeset public domain novels, 
+        available in both EPUB and Markdown formats.</p>
+    </div>
+
+    <div class="book-grid">
+        <div class="book-card">
+            <img src="/api/placeholder/280/420" alt="Pride and Prejudice Cover" class="book-cover">
+            <div class="book-info">
+                <h2 class="book-title">Pride and Prejudice</h2>
+                <p class="book-author">by Jane Austen</p>
+                <p class="book-description">A masterpiece of wit and social commentary from one of England's most beloved authors.</p>
+                <div class="download-links">
+                    <a href="#" class="download-btn epub-btn">EPUB</a>
+                    <a href="#" class="download-btn markdown-btn">Markdown</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="book-card">
+            <img src="/api/placeholder/280/420" alt="The Picture of Dorian Gray Cover" class="book-cover">
+            <div class="book-info">
+                <h2 class="book-title">The Picture of Dorian Gray</h2>
+                <p class="book-author">by Oscar Wilde</p>
+                <p class="book-description">A philosophical novel exploring beauty, morality, and the nature of art.</p>
+                <div class="download-links">
+                    <a href="#" class="download-btn epub-btn">EPUB</a>
+                    <a href="#" class="download-btn markdown-btn">Markdown</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="book-card">
+            <img src="/api/placeholder/280/420" alt="Frankenstein Cover" class="book-cover">
+            <div class="book-info">
+                <h2 class="book-title">Frankenstein</h2>
+                <p class="book-author">by Mary Shelley</p>
+                <p class="book-description">The groundbreaking science fiction novel that explores the boundaries of human creation.</p>
+                <div class="download-links">
+                    <a href="#" class="download-btn epub-btn">EPUB</a>
+                    <a href="#" class="download-btn markdown-btn">Markdown</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>All works presented here are in the public domain.</p>
+    </footer>
+</body>
+</html>
