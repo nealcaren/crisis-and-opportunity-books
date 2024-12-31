@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Classic Literature Collection</title>
+    <title>Crisis and Opportunity Books</title>
     <style>
         body {
             font-family: system-ui, -apple-system, sans-serif;
@@ -78,6 +78,12 @@
             color: #666;
             font-size: 0.9rem;
         }
+        .book-year {
+            margin: 0 0 0.5rem 0;
+            color: #666;
+            font-size: 0.9rem;
+            /* Add this after the .book-author style */
+        }
 
         .book-description {
             margin: 0 0 1.5rem 0;
@@ -138,8 +144,7 @@
     </header>
 
     <div class="intro">
-        <p>A carefully curated collection of beautifully typeset public domain novels, 
-        available in both EPUB and Markdown formats.</p>
+        <p>Digital editions of public domain novels from the Harlem Renaissance, carefully replicated from first editions and available in EPUB and Markdown formats.</p>
     </div>
 
     <div class="book-grid">
@@ -150,6 +155,7 @@
             <div class="book-info">
                 <h2 class="book-title">Banjo</h2>
                 <p class="book-author">Claude McKay</p>
+                <p class="book-year">1929</p>
                 <p class="book-description">"A new novel from the acclaimed author of <em>Home to Harlem</em></p>
                 <div class="download-links">
                     <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/banjo/banjo.epub" class="download-btn epub-btn">EPUB</a>
@@ -159,17 +165,19 @@
         </div>
 
         <div class="book-card">
-            <img src="/api/placeholder/280/420" alt="Pride and Prejudice Cover" class="book-cover">
+            <img src="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/dark-princess/dark-princess.jpg" alt="Dark Princess Cover" class="book-cover">
             <div class="book-info">
-                <h2 class="book-title">Pride and Prejudice</h2>
-                <p class="book-author">by Jane Austen</p>
-                <p class="book-description">A masterpiece of wit and social commentary from one of England's most beloved authors.</p>
+                <h2 class="book-title">Dark Princess</h2>
+                <p class="book-author">W.E.B Du Bois</p>
+                <p class="book-year">1928</p>
+                <p class="book-description">A daring tale of forbidden love between an exiled Black medical student and an Indian princess, as they work to unite people of color across the globe. Written by the celebrated editor of The Crisis, W.E.B. Du Bois.</p>
                 <div class="download-links">
-                    <a href="#" class="download-btn epub-btn">EPUB</a>
-                    <a href="#" class="download-btn markdown-btn">Markdown</a>
+                    <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/dark-princess/dark-princess.epub" class="download-btn epub-btn">EPUB</a>
+                    <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/dark-princess/dark-princess.md" class="download-btn markdown-btn">Markdown</a>
                 </div>
             </div>
         </div>
+
 
         <div class="book-card">
             <img src="/api/placeholder/280/420" alt="The Picture of Dorian Gray Cover" class="book-cover">
