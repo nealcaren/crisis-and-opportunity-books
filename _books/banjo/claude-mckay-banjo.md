@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Banjo by Claude McKay"
+date: 1929-01-01
 header:
   image: banjo.jpg
   teaser: banjo.jpg
