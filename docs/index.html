@@ -4,9 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crisis & Opportunity Books</title>
+
+    <!-- Google Fonts links go here, before your styles -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap" rel="stylesheet">
+   
     <style>
         body {
-            font-family: system-ui, -apple-system, sans-serif;
+            font-family: 'Josefin Sans', system-ui, -apple-system, sans-serif;
             line-height: 1.5;
             margin: 0;
             padding: 0;
@@ -21,12 +27,14 @@
         }
 
         header h1 {
-            margin: 0;
-            font-size: 2rem;
-            color: #1a1a1a;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
+    font-family: 'Literata', Georgia, serif;
+    margin: 0;
+    font-size: 2rem;
+    color: #1a1a1a;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 
         .intro {
             text-align: center;
@@ -58,20 +66,22 @@
         }
 
         .book-cover {
-            width: 100%;
-            aspect-ratio: 2/3;
-            object-fit: cover;
-        }
+    width: 100%;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+    max-width: 400px;  /* This will limit the width */
+}
 
         .book-info {
             padding: 1.5rem;
         }
 
         .book-title {
-            margin: 0 0 0.5rem 0;
-            font-size: 1.25rem;
-            color: #1a1a1a;
-        }
+    font-family: 'Literata', Georgia, serif;
+    margin: 0 0 0.5rem 0;
+    font-size: 1.25rem;
+    color: #1a1a1a;
+}
 
         .book-author {
             margin: 0 0 1rem 0;
@@ -89,6 +99,13 @@
             color: #4a5568;
             font-size: 0.95rem;
         }
+
+        .book-author,
+.book-year,
+.book-description,
+.download-btn {
+    font-family: 'Josefin Sans', system-ui, -apple-system, sans-serif;
+}
 
         .download-links {
             display: flex;
