@@ -17,27 +17,14 @@ collections:
   books:
     output: true
     permalink: /:collection/:name/
-    
-include:
-  - _pages
 
-# Add these to your existing config
-paginate: 15  # Number of posts per page
-paginate_path: /page:num/
-future: true
-
+# Default configuration for books
 defaults:
-  # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "_books"
     values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
-      show_date: true
-      excerpt: false
-      classes: header-only
+      layout: book
+
+# Pagination (Optional for listing books)
+paginate: 5 # Number of books per page
+paginate_path: "/page:num/"
