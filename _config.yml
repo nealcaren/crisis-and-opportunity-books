@@ -18,8 +18,6 @@ collections:
     output: true
     permalink: /:collection/:name/
 
-exclude:
-  - _books/banjo/banjo.md
 
 # Default configuration for books
 defaults:

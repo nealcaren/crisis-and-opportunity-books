@@ -3,6 +3,7 @@ layout: book
 title: "Banjo"
 author: "Claude McKay"
 date: 1929-01-01
+permalink: /books/banjo/
 header:
   image: banjo.jpg
   teaser: banjo-teaser.jpg
