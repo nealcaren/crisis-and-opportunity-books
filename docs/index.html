@@ -4,12 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crisis & Opportunity Books</title>
-
-    <!-- Google Fonts links go here, before your styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap" rel="stylesheet">
-   
     <style>
         body {
             font-family: 'Josefin Sans', system-ui, -apple-system, sans-serif;
@@ -27,14 +24,13 @@
         }
 
         header h1 {
-    font-family: 'Literata', Georgia, serif;
-    margin: 0;
-    font-size: 2rem;
-    color: #1a1a1a;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
+            font-family: 'Literata', Georgia, serif;
+            margin: 0;
+            font-size: 2rem;
+            color: #1a1a1a;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
 
         .intro {
             text-align: center;
@@ -54,40 +50,77 @@
         }
 
         .book-card {
-            background: white;
-            border-radius: 8px;
-            overflow: hidden;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            transition: transform 0.2s;
+            perspective: 1500px;
+            background: none;
+            box-shadow: none;
+            max-width: 400px;
+            margin: 0 auto;
         }
 
-        .book-card:hover {
-            transform: translateY(-4px);
+        .book-inner {
+            position: relative;
+            text-align: center;
+            transition: transform 0.8s;
+            transform-style: preserve-3d;
+            aspect-ratio: 2/3;
+            transform-origin: left;
+        }
+
+        .book-card:hover .book-inner {
+            transform: translateX(100%) rotateY(-180deg);
         }
 
         .book-cover {
-    width: 100%;
-    aspect-ratio: 2/3;
-    object-fit: cover;
-    max-width: 400px;  /* This will limit the width */
-}
+            position: relative;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            border-radius: 8px;
+            box-shadow: 2px 0 5px rgba(0,0,0,0.2);
+        }
+        
+        .book-info {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            border-radius: 8px;
+            box-shadow: -2px 0 5px rgba(0,0,0,0.1);
+        }
+
+        .book-cover {
+            aspect-ratio: 2/3;
+            object-fit: cover;
+            max-width: 400px;
+        }
 
         .book-info {
+            background: white;
+            transform: rotateY(180deg);
             padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            box-sizing: border-box;
+            height: 100%;
+            overflow-y: auto;
         }
 
         .book-title {
-    font-family: 'Literata', Georgia, serif;
-    margin: 0 0 0.25rem 0;
-    font-size: 1.5rem;
-    color: #1a1a1a;
-}
+            font-family: 'Literata', Georgia, serif;
+            margin: 0 0 0.25rem 0;
+            font-size: 1.5rem;
+            color: #1a1a1a;
+        }
 
         .book-author {
             margin: 0 0 0.25rem 0;
             color: #666;
             font-size: 1.25rem;
         }
+
         .book-year {
             margin: 0 0 0.5rem 0;
             color: #666;
@@ -101,15 +134,17 @@
         }
 
         .book-author,
-.book-year,
-.book-description,
-.download-btn {
-    font-family: 'Josefin Sans', system-ui, -apple-system, sans-serif;
-}
+        .book-year,
+        .book-description,
+        .download-btn {
+            font-family: 'Josefin Sans', system-ui, -apple-system, sans-serif;
+        }
 
         .download-links {
             display: flex;
             gap: 1rem;
+            justify-content: center;
+            margin-top: auto;
         }
 
         .download-btn {
@@ -122,12 +157,13 @@
         }
 
         .epub-btn {
-    background-color: #334155;
-    color: white;
-}
-.epub-btn:hover {
-    background-color: #475569;
-}
+            background-color: #334155;
+            color: white;
+        }
+
+        .epub-btn:hover {
+            background-color: #475569;
+        }
 
         .markdown-btn {
             background-color: #f3f4f6;
@@ -138,17 +174,13 @@
             background-color: #e5e7eb;
         }
 
-        main {
-    flex: 1;
-}
-
-footer {
-    margin-top: auto;  /* This removes the fixed margin-top */
-    text-align: center;
-    padding: 2rem;
-    color: #666;
-    border-top: 1px solid #e5e7eb;
-}
+        footer {
+            margin-top: 3rem;
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+            border-top: 1px solid #e5e7eb;
+        }
 
         @media (max-width: 640px) {
             .book-grid {
@@ -167,64 +199,69 @@ footer {
     </div>
 
     <div class="book-grid">
-
         <div class="book-card">
-            <img src="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/dark-princess/dark-princess.jpg" alt="Dark Princess Cover" class="book-cover">
-            <div class="book-info">
-                <h2 class="book-title">Dark Princess</h2>
-                <p class="book-author">W.E.B Du Bois</p>
-                <p class="book-year">1928</p>
-                <p class="book-description">A revolutionary novel of global politics and forbidden romance, following a young Black medical student who joins an international movement of colored peoples led by a mysterious Indian princess. Written by W.E.B. Du Bois, editor of <em>The Crisis></em>.</p>
-                <div class="download-links">
-                    <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/dark-princess/dark-princess.epub" class="download-btn epub-btn">EPUB</a>
-                    <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/dark-princess/dark-princess.md" class="download-btn markdown-btn">Markdown</a>
+            <div class="book-inner">
+                <img src="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/dark-princess/dark-princess.jpg" alt="Dark Princess Cover" class="book-cover">
+                <div class="book-info">
+                    <h2 class="book-title">Dark Princess</h2>
+                    <p class="book-author">W.E.B Du Bois</p>
+                    <p class="book-year">1928</p>
+                    <p class="book-description">A revolutionary novel of global politics and forbidden romance, following a young Black medical student who joins an international movement of colored peoples led by a mysterious Indian princess. Written by W.E.B. Du Bois, editor of <em>The Crisis</em>.</p>
+                    <div class="download-links">
+                        <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/dark-princess/dark-princess.epub" class="download-btn epub-btn">EPUB</a>
+                        <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/dark-princess/dark-princess.md" class="download-btn markdown-btn">Markdown</a>
+                    </div>
                 </div>
             </div>
         </div>
 
         <div class="book-card">
-            <img src="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.jpg" alt="Quicksand Cover" class="book-cover">
-            <div class="book-info">
-                <h2 class="book-title">Quicksand</h2>
-                <p class="book-author">Nella Larsen</p>
-                <p class="book-year">1928</p>
-                <p class="book-description">Through glittering Harlem salons and Copenhagen's high society, a biracial woman searches for acceptance but finds only gilded cages. Nella Larsen's groundbreaking debut novel lays bare the intimate costs of crossing society's color line.</p>
-                <div class="download-links">
-                    <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.epub" class="download-btn epub-btn">EPUB</a>
-                    <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.md" class="download-btn markdown-btn">Markdown</a>
+            <div class="book-inner">
+                <img src="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.jpg" alt="Quicksand Cover" class="book-cover">
+                <div class="book-info">
+                    <h2 class="book-title">Quicksand</h2>
+                    <p class="book-author">Nella Larsen</p>
+                    <p class="book-year">1928</p>
+                    <p class="book-description">Through glittering Harlem salons and Copenhagen's high society, a biracial woman searches for acceptance but finds only gilded cages. Nella Larsen's groundbreaking debut novel lays bare the intimate costs of crossing society's color line.</p>
+                    <div class="download-links">
+                        <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.epub" class="download-btn epub-btn">EPUB</a>
+                        <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/quicksand/quicksand.md" class="download-btn markdown-btn">Markdown</a>
+                    </div>
                 </div>
             </div>
         </div>
 
         <div class="book-card">
-            <img src="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/banjo/banjo.jpg" alt="Banjo Cover" class="book-cover">
-            <div class="book-info">
-                <h2 class="book-title">Banjo</h2>
-                <p class="book-author">Claude McKay</p>
-                <p class="book-year">1929</p>
-                <p class="book-description">In the bustling port of Marseilles, a band of vagabonds led by the charismatic Banjo challenge society's rules while debating race, politics, and their dreams of Africa. A daring new novel of the Negro experience abroad by Claude McKay, author of <em>Home to Harlem,</em>capturing the raw spirit of jazz and revolution.</p>
-                <div class="download-links">
-                    <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/banjo/banjo.epub" class="download-btn epub-btn">EPUB</a>
-                    <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/banjo/banjo.md" class="download-btn markdown-btn">Markdown</a>
+            <div class="book-inner">
+                <img src="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/banjo/banjo.jpg" alt="Banjo Cover" class="book-cover">
+                <div class="book-info">
+                    <h2 class="book-title">Banjo</h2>
+                    <p class="book-author">Claude McKay</p>
+                    <p class="book-year">1929</p>
+                    <p class="book-description">In the bustling port of Marseilles, a band of vagabonds led by the charismatic Banjo challenge society's rules while debating race, politics, and their dreams of Africa. A daring new novel of the Negro experience abroad by Claude McKay, author of <em>Home to Harlem</em>, capturing the raw spirit of jazz and revolution.</p>
+                    <div class="download-links">
+                        <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/banjo/banjo.epub" class="download-btn epub-btn">EPUB</a>
+                        <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/banjo/banjo.md" class="download-btn markdown-btn">Markdown</a>
+                    </div>
                 </div>
             </div>
         </div>
 
-           
         <div class="book-card">
-            <img src="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/blacker-the-berry/blacker-the-berry.jpg" alt="blacker-the-berry Cover" class="book-cover">
-            <div class="book-info">
-                <h2 class="book-title">The Blacker the Berry</h2>
-                <p class="book-author">Wallace Thurman</p>
-                <p class="book-year">1929</p>
-                <p class="book-description">From the quiet streets of Idaho to the vibrant world of Harlem, Emma Lou Morgan battles prejudice from both white and Negro society. Wallace Thurman's unflinching first novel exposes the painful hierarchies of skin color in modern American life.</p>
-                <div class="download-links">
-                    <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/blacker-the-berry/blacker-the-berry.epub" class="download-btn epub-btn">EPUB</a>
-                    <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/blacker-the-berry/blacker-the-berry.md" class="download-btn markdown-btn">Markdown</a>
+            <div class="book-inner">
+                <img src="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/blacker-the-berry/blacker-the-berry.jpg" alt="The Blacker the Berry Cover" class="book-cover">
+                <div class="book-info">
+                    <h2 class="book-title">The Blacker the Berry</h2>
+                    <p class="book-author">Wallace Thurman</p>
+                    <p class="book-year">1929</p>
+                    <p class="book-description">From the quiet streets of Idaho to the vibrant world of Harlem, Emma Lou Morgan battles prejudice from both white and Negro society. Wallace Thurman's unflinching first novel exposes the painful hierarchies of skin color in modern American life.</p>
+                    <div class="download-links">
+                        <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/blacker-the-berry/blacker-the-berry.epub" class="download-btn epub-btn">EPUB</a>
+                        <a href="https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/blacker-the-berry/blacker-the-berry.md" class="download-btn markdown-btn">Markdown</a>
+                    </div>
                 </div>
             </div>
         </div>
-
     </div>
 
     <footer>
