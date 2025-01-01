@@ -12,8 +12,9 @@ reprint_notes: Currently in public domain.
 
 # Copyright {.copyright epub:type=copyright-page}
 
-Nella Larsen’s *Quicksand* was first published in 1928 by Alfred A. Knopf. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated. This version was transcribed by Neal Caren based on a reprint available on from [Google Books](https://www.google.com/books/edition/Quicksand/dPdaAAAAMAAJ?hl=en&gbpv=0). 
+Nella Larsen’s *Quicksand* was first published in 1928 by Alfred A. Knopf. On January 1, 2024, the book entered the public domain, allowing it to be freely reproduced and disseminated.  This version is based on a digital version of the first edition available from [Google Books](https://www.google.com/books/edition/Quicksand/dPdaAAAAMAAJ?hl=en&gbpv=0). 
 
+Cover image is from a black and white reproduction of *Heirlooms* by Laura Wheeler from the 1916 New York Watercolor Club Exhibition catalog.
 
 
 
