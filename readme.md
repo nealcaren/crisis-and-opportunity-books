@@ -1,9 +1,6 @@
 This site is designed to facilitate the digitalization and dissemination of public domain works from the Harlem Renaissance. 
 
-[![](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.jpg)](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.epub) [![](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.jpg)](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.epub) [![](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.jpg)](https://github.com/nealcaren/crisis-and-opportunity-books/raw/main/books/dark-princess/dark-princess-1928.epub)
-
-
-As of 2024, twelve major novels from the era are no longer under copyright. Digital versions of three currently exist[^g], but we are thrilled to produce new editions of five additional books:
+As of 2024, fifteen major novels from the era are no longer under copyright. Digital versions of three currently exist[^g], but we are thrilled to produce new editions of five additional books:
 
 [^g]: While [Project Gutenberg](http://gutenberg.org) is the central repository for transcriptions of public domain books, their contributors continue to largely overlooked Black authors from this era. Their submission process is cumbersome and idiosyncratic, so after producing three books for them, I decided to start a complementary effort. 
 
@@ -15,6 +12,10 @@ As of 2024, twelve major novels from the era are no longer under copyright. Digi
 | Home to Harlem                | Claude McKay      | 1928        | [PDF](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/home-to-harlem/home-to-harlem-1928.pdf)    |  [epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/home-to-harlem/home-to-harlem.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/home-to-harlem/home-to-harlem.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/home-to-harlem/home-to-harlem.txt) |
 | The Walls of Jericho              | Rudolph Fisher    | 1928       |  [PDF](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/the-walls-of-jericho/the-walls-of-jericho-1928.pdf)     | [epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/the-walls-of-jericho/the-walls-of-jericho.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/the-walls-of-jericho/the-walls-of-jericho.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/the-walls-of-jericho/the-walls-of-jericho.txt) | 
 | Flight | Walter White | 1926 | [PDF](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/flight/flight.epub) |[epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/flight/flight.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/flight/flight.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/flight/flight.txt)
+| The Blacker the Berry         | Wallace Thurman   | 1929                | [PDF](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/blacker-the-berry/blacker-the-berry.epub) |[epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/blacker-the-berry/blacker-the-berry.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/blacker-the-berry/blacker-the-berry.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/blacker-the-berry/blacker-the-berry.txt)
+| Plum Bun                      | Jessie Fauset     | 1929                | [PDF](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/plum-bun/plum-bun.epub) |[epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/plum-bun/plum-bun.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/plum-bun/plum-bun.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/plum-bun/plum-bun.txt)
+| Passing                       | Nella Larsen      | 1929                | [PDF](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/passing/passing.epub) |[epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/passing/passing.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/passing/passing.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/passing/passing.txt)
+| Banjo                         | Claude McKay      | 1929                | [PDF](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/banjo/banjo.epub) |[epub](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/banjo/banjo.epub), [markdown](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/banjo/flibanjoght.md), [text](https://raw.githubusercontent.com/nealcaren/crisis-and-opportunity-books/main/books/banjo/banjo.txt)
 
 
 ## Production Details
@@ -37,25 +38,26 @@ Other major Harlem Renaissance novels currently in the public domain:
 | Fire In the Flint             | Walter White      | 1924                | [Gutenberg](https://www.gutenberg.org/ebooks/69877) |
 | The Prince of Washington Square | Harry F. Liscomb | 1925                | [1st Edition PDF](https://www.google.com/books/edition/The_Prince_of_Washington_Square/4h0vAQAAIAAJ?hl=en&gbpv=0) |
 | Tropic Death                  | Eric Walrond      | 1926                | [Gutenberg](https://www.gutenberg.org/ebooks/71465) |
-| The Blacker the Berry         | Wallace Thurman   | 1929[^1]                |
 | Infants of the Spring         | Wallace Thurman   | 1932[^1]                |
 
 
 [^1]: Wallace Thurman's estate [did not extend]( https://exhibits.stanford.edu/copyrightrenewals/catalog?exhibit_id=copyrightrenewals&search_field=search&q=Wallace+Thurman) copyright on these novels. 
 
-Major Harlem Renaissance novels that will be in the public domain in the next few years:
+Other Harlem Renaissance novels that will be in the public domain in the next few years:
 
 | Title                          | Author            | Year of Publication | Entering Public Domain |
 |-------------------------------|-------------------|---------------------|---------------------|
-| Plum Bun                      | Jessie Fauset     | 1929                | 2025 |
-| Passing                       | Nella Larsen      | 1929                | 2025 |
-| Banjo                         | Claude McKay      | 1929                | 2025 |
 | Not Without Laughter          | Langston Hughes   | 1930                | 2026 |
+| The Chinaberry Tree                 | Jessie Redmon Fauset   | 1931                | 2027 |
 | Black No More                 | George Schuyler   | 1931                | 2027 |
+| Slaves Today                 | George Schuyler   | 1931                | 2027 |
 | God Sends Sunday              | Arna Bontemps     | 1931                | 2027 |
 | One Way to Heaven             | Countee Cullen    | 1932                | 2028 |
 | The Conjure-Man Dies          | Rudolph Fisher    | 1932                | 2028 |
-
+| Not Only War              | Victor Daly    | 1932                | 2028 |
+| The Interne              | Wallace Thurman and A. L. Furman    | 1932                | 2028 |
+| Comedy: American Style | Jessie Redmon Fauset   | 1933                | 2029 |
+| Banana Bottom              | Claude McKay    | 1933                | 2029 |
 
 ## Related Projects
 
